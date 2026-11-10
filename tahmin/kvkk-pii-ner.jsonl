@@ -1,0 +1,336 @@
+{"id": "p0000", "tahminler": [{"bas": 13, "son": 18, "tur": "ORG_COMPANY", "skor": 0.22470436990261078}, {"bas": 19, "son": 25, "tur": "PERSON", "skor": 0.4026462137699127}, {"bas": 77, "son": 143, "tur": "ADDRESS", "skor": 0.9661106467247009}]}
+{"id": "p0001", "tahminler": [{"bas": 129, "son": 141, "tur": "PERSON", "skor": 0.986506462097168}]}
+{"id": "p0002", "tahminler": [{"bas": 52, "son": 62, "tur": "PERSON", "skor": 0.9283009767532349}, {"bas": 128, "son": 133, "tur": "PERSON", "skor": 0.8595811724662781}]}
+{"id": "p0003", "tahminler": [{"bas": 7, "son": 12, "tur": "PERSON", "skor": 0.8862721920013428}, {"bas": 57, "son": 67, "tur": "PERSON", "skor": 0.9840021133422852}]}
+{"id": "p0004", "tahminler": [{"bas": 95, "son": 100, "tur": "PERSON", "skor": 0.5825415253639221}]}
+{"id": "p0005", "tahminler": [{"bas": 59, "son": 62, "tur": "ADDRESS", "skor": 0.7747783660888672}, {"bas": 69, "son": 78, "tur": "ADDRESS", "skor": 0.8333778381347656}, {"bas": 97, "son": 107, "tur": "PERSON", "skor": 0.9713209867477417}]}
+{"id": "p0006", "tahminler": [{"bas": 0, "son": 32, "tur": "TAX_OFFICE", "skor": 0.8218356966972351}, {"bas": 158, "son": 166, "tur": "PERSON", "skor": 0.9880736470222473}, {"bas": 202, "son": 251, "tur": "ADDRESS", "skor": 0.9502201676368713}]}
+{"id": "p0007", "tahminler": [{"bas": 77, "son": 88, "tur": "PERSON", "skor": 0.9447625875473022}, {"bas": 134, "son": 146, "tur": "PERSON", "skor": 0.9894083738327026}]}
+{"id": "p0008", "tahminler": [{"bas": 8, "son": 19, "tur": "PERSON", "skor": 0.9600940346717834}, {"bas": 165, "son": 176, "tur": "PERSON", "skor": 0.988386332988739}, {"bas": 178, "son": 216, "tur": "ADDRESS", "skor": 0.8828144669532776}]}
+{"id": "p0009", "tahminler": [{"bas": 20, "son": 32, "tur": "PERSON", "skor": 0.9793561697006226}, {"bas": 65, "son": 77, "tur": "PERSON", "skor": 0.8998425006866455}, {"bas": 109, "son": 113, "tur": "PERSON", "skor": 0.3219952881336212}, {"bas": 114, "son": 121, "tur": "PERSON", "skor": 0.4666723906993866}]}
+{"id": "p0010", "tahminler": [{"bas": 0, "son": 14, "tur": "PERSON", "skor": 0.988728404045105}, {"bas": 97, "son": 144, "tur": "ADDRESS", "skor": 0.9545415043830872}]}
+{"id": "p0011", "tahminler": [{"bas": 58, "son": 70, "tur": "PERSON", "skor": 0.9815945029258728}]}
+{"id": "p0012", "tahminler": [{"bas": 0, "son": 13, "tur": "PERSON", "skor": 0.9926398992538452}]}
+{"id": "p0013", "tahminler": [{"bas": 10, "son": 16, "tur": "PERSON", "skor": 0.522551417350769}, {"bas": 65, "son": 73, "tur": "PERSON", "skor": 0.9768234491348267}]}
+{"id": "p0014", "tahminler": [{"bas": 18, "son": 29, "tur": "PERSON", "skor": 0.9880943894386292}]}
+{"id": "p0015", "tahminler": [{"bas": 24, "son": 35, "tur": "ADDRESS", "skor": 0.8899163603782654}, {"bas": 37, "son": 74, "tur": "ADDRESS", "skor": 0.8970409035682678}, {"bas": 111, "son": 119, "tur": "PERSON", "skor": 0.8022793531417847}]}
+{"id": "p0016", "tahminler": [{"bas": 12, "son": 41, "tur": "ADDRESS", "skor": 0.9498760104179382}, {"bas": 42, "son": 51, "tur": "ADDRESS", "skor": 0.4604901969432831}, {"bas": 66, "son": 71, "tur": "PERSON", "skor": 0.5173466205596924}]}
+{"id": "p0017", "tahminler": [{"bas": 4, "son": 12, "tur": "PERSON", "skor": 0.6926429867744446}]}
+{"id": "p0018", "tahminler": [{"bas": 0, "son": 12, "tur": "PERSON", "skor": 0.5108109712600708}]}
+{"id": "p0019", "tahminler": []}
+{"id": "p0020", "tahminler": [{"bas": 26, "son": 29, "tur": "PERSON", "skor": 0.7850319743156433}]}
+{"id": "p0021", "tahminler": [{"bas": 4, "son": 17, "tur": "PERSON", "skor": 0.6224229335784912}, {"bas": 28, "son": 33, "tur": "PERSON", "skor": 0.6333038806915283}]}
+{"id": "p0022", "tahminler": [{"bas": 6, "son": 17, "tur": "PERSON", "skor": 0.9879814982414246}, {"bas": 89, "son": 99, "tur": "PERSON", "skor": 0.9370284676551819}]}
+{"id": "p0023", "tahminler": [{"bas": 101, "son": 112, "tur": "PERSON", "skor": 0.9723450541496277}, {"bas": 116, "son": 126, "tur": "PERSON", "skor": 0.9656815528869629}]}
+{"id": "p0024", "tahminler": []}
+{"id": "p0025", "tahminler": [{"bas": 0, "son": 12, "tur": "PERSON", "skor": 0.9908615946769714}]}
+{"id": "p0026", "tahminler": [{"bas": 24, "son": 33, "tur": "PERSON", "skor": 0.9936432838439941}, {"bas": 59, "son": 118, "tur": "ADDRESS", "skor": 0.9352413415908813}]}
+{"id": "p0027", "tahminler": [{"bas": 20, "son": 33, "tur": "PERSON", "skor": 0.9823576211929321}]}
+{"id": "p0028", "tahminler": [{"bas": 13, "son": 22, "tur": "PERSON", "skor": 0.9866359233856201}, {"bas": 34, "son": 45, "tur": "PERSON", "skor": 0.9880539178848267}, {"bas": 148, "son": 174, "tur": "ADDRESS", "skor": 0.9291771054267883}]}
+{"id": "p0029", "tahminler": [{"bas": 6, "son": 16, "tur": "PERSON", "skor": 0.9902034997940063}, {"bas": 41, "son": 53, "tur": "PERSON", "skor": 0.9885551929473877}, {"bas": 56, "son": 83, "tur": "ADDRESS", "skor": 0.920333743095398}]}
+{"id": "p0030", "tahminler": [{"bas": 8, "son": 17, "tur": "PERSON", "skor": 0.969383955001831}, {"bas": 64, "son": 75, "tur": "PERSON", "skor": 0.9485498666763306}]}
+{"id": "p0031", "tahminler": [{"bas": 0, "son": 12, "tur": "PERSON", "skor": 0.9440065026283264}, {"bas": 21, "son": 34, "tur": "PERSON", "skor": 0.34423401951789856}, {"bas": 69, "son": 73, "tur": "PERSON", "skor": 0.8482039570808411}]}
+{"id": "p0032", "tahminler": [{"bas": 13, "son": 23, "tur": "PERSON", "skor": 0.9717016220092773}, {"bas": 75, "son": 101, "tur": "ADDRESS", "skor": 0.9309587478637695}]}
+{"id": "p0033", "tahminler": [{"bas": 123, "son": 135, "tur": "PERSON", "skor": 0.976042628288269}]}
+{"id": "p0034", "tahminler": [{"bas": 52, "son": 65, "tur": "PERSON", "skor": 0.9738490581512451}, {"bas": 126, "son": 131, "tur": "PERSON", "skor": 0.5758061408996582}, {"bas": 132, "son": 139, "tur": "PERSON", "skor": 0.6238250136375427}]}
+{"id": "p0035", "tahminler": [{"bas": 7, "son": 12, "tur": "PERSON", "skor": 0.5644333362579346}, {"bas": 57, "son": 68, "tur": "PERSON", "skor": 0.985002875328064}]}
+{"id": "p0036", "tahminler": [{"bas": 91, "son": 101, "tur": "PERSON", "skor": 0.9817339181900024}]}
+{"id": "p0037", "tahminler": [{"bas": 53, "son": 65, "tur": "ADDRESS", "skor": 0.8312690258026123}, {"bas": 66, "son": 85, "tur": "ADDRESS", "skor": 0.9060222506523132}, {"bas": 101, "son": 112, "tur": "PERSON", "skor": 0.7557101249694824}]}
+{"id": "p0038", "tahminler": [{"bas": 0, "son": 7, "tur": "TAX_OFFICE", "skor": 0.8639823198318481}, {"bas": 13, "son": 24, "tur": "TAX_OFFICE", "skor": 0.9857708215713501}, {"bas": 150, "son": 160, "tur": "PERSON", "skor": 0.9757835865020752}, {"bas": 196, "son": 231, "tur": "ADDRESS", "skor": 0.9729284048080444}, {"bas": 232, "son": 240, "tur": "ADDRESS", "skor": 0.33788684010505676}]}
+{"id": "p0039", "tahminler": [{"bas": 76, "son": 89, "tur": "PERSON", "skor": 0.9490216970443726}, {"bas": 135, "son": 145, "tur": "PERSON", "skor": 0.989518404006958}]}
+{"id": "p0040", "tahminler": [{"bas": 8, "son": 18, "tur": "PERSON", "skor": 0.9718519449234009}, {"bas": 158, "son": 170, "tur": "PERSON", "skor": 0.9869776964187622}, {"bas": 170, "son": 200, "tur": "ADDRESS", "skor": 0.9590826630592346}]}
+{"id": "p0041", "tahminler": [{"bas": 20, "son": 31, "tur": "PERSON", "skor": 0.9888345003128052}, {"bas": 62, "son": 72, "tur": "PERSON", "skor": 0.9591758251190186}, {"bas": 104, "son": 110, "tur": "PERSON", "skor": 0.49561864137649536}]}
+{"id": "p0042", "tahminler": [{"bas": 0, "son": 12, "tur": "PERSON", "skor": 0.9906879663467407}, {"bas": 95, "son": 121, "tur": "ADDRESS", "skor": 0.8864782452583313}]}
+{"id": "p0043", "tahminler": [{"bas": 22, "son": 27, "tur": "PERSON", "skor": 0.5296763181686401}, {"bas": 58, "son": 70, "tur": "PERSON", "skor": 0.968125581741333}]}
+{"id": "p0044", "tahminler": [{"bas": 0, "son": 12, "tur": "PERSON", "skor": 0.9759813547134399}]}
+{"id": "p0045", "tahminler": [{"bas": 10, "son": 15, "tur": "PERSON", "skor": 0.5932592153549194}, {"bas": 16, "son": 20, "tur": "PERSON", "skor": 0.6450973749160767}, {"bas": 68, "son": 76, "tur": "PERSON", "skor": 0.9782887697219849}]}
+{"id": "p0046", "tahminler": [{"bas": 18, "son": 29, "tur": "PERSON", "skor": 0.9910147190093994}]}
+{"id": "p0047", "tahminler": [{"bas": 24, "son": 40, "tur": "ADDRESS", "skor": 0.9009243249893188}, {"bas": 42, "son": 77, "tur": "ADDRESS", "skor": 0.944328248500824}, {"bas": 108, "son": 120, "tur": "PERSON", "skor": 0.9592413902282715}]}
+{"id": "p0048", "tahminler": [{"bas": 12, "son": 81, "tur": "ADDRESS", "skor": 0.9528624415397644}, {"bas": 96, "son": 100, "tur": "PERSON", "skor": 0.5696794390678406}]}
+{"id": "p0049", "tahminler": [{"bas": 4, "son": 14, "tur": "PERSON", "skor": 0.3993872404098511}]}
+{"id": "p0050", "tahminler": [{"bas": 8, "son": 14, "tur": "PERSON", "skor": 0.967271625995636}]}
+{"id": "p0051", "tahminler": []}
+{"id": "p0052", "tahminler": [{"bas": 0, "son": 5, "tur": "PERSON", "skor": 0.47555243968963623}]}
+{"id": "p0053", "tahminler": [{"bas": 10, "son": 17, "tur": "PERSON", "skor": 0.8832136988639832}, {"bas": 28, "son": 33, "tur": "PERSON", "skor": 0.9116724133491516}]}
+{"id": "p0054", "tahminler": [{"bas": 6, "son": 19, "tur": "PERSON", "skor": 0.9878636598587036}, {"bas": 95, "son": 109, "tur": "PERSON", "skor": 0.9829397201538086}]}
+{"id": "p0055", "tahminler": [{"bas": 103, "son": 113, "tur": "PERSON", "skor": 0.9832596182823181}, {"bas": 117, "son": 130, "tur": "PERSON", "skor": 0.9621477127075195}]}
+{"id": "p0056", "tahminler": []}
+{"id": "p0057", "tahminler": [{"bas": 0, "son": 12, "tur": "PERSON", "skor": 0.9915746450424194}]}
+{"id": "p0058", "tahminler": [{"bas": 24, "son": 35, "tur": "PERSON", "skor": 0.7820919752120972}, {"bas": 61, "son": 95, "tur": "ADDRESS", "skor": 0.9308184385299683}, {"bas": 96, "son": 105, "tur": "ADDRESS", "skor": 0.462467223405838}]}
+{"id": "p0059", "tahminler": [{"bas": 20, "son": 29, "tur": "PERSON", "skor": 0.9866707921028137}, {"bas": 43, "son": 47, "tur": "PERSON", "skor": 0.36721938848495483}]}
+{"id": "p0060", "tahminler": [{"bas": 13, "son": 24, "tur": "PERSON", "skor": 0.9903820753097534}, {"bas": 36, "son": 49, "tur": "PERSON", "skor": 0.9925148487091064}, {"bas": 152, "son": 216, "tur": "ADDRESS", "skor": 0.9833211302757263}]}
+{"id": "p0061", "tahminler": [{"bas": 6, "son": 18, "tur": "PERSON", "skor": 0.9801936745643616}, {"bas": 43, "son": 54, "tur": "PERSON", "skor": 0.9733995199203491}, {"bas": 57, "son": 86, "tur": "ADDRESS", "skor": 0.9058820605278015}, {"bas": 87, "son": 94, "tur": "ADDRESS", "skor": 0.6926220655441284}]}
+{"id": "p0062", "tahminler": [{"bas": 8, "son": 21, "tur": "PERSON", "skor": 0.9900330305099487}, {"bas": 68, "son": 80, "tur": "PERSON", "skor": 0.9549820423126221}]}
+{"id": "p0063", "tahminler": [{"bas": 0, "son": 11, "tur": "PERSON", "skor": 0.9680160880088806}, {"bas": 20, "son": 24, "tur": "PERSON", "skor": 0.2501235008239746}, {"bas": 63, "son": 68, "tur": "PERSON", "skor": 0.42349377274513245}]}
+{"id": "p0064", "tahminler": [{"bas": 13, "son": 23, "tur": "PERSON", "skor": 0.9231524467468262}, {"bas": 75, "son": 91, "tur": "ADDRESS", "skor": 0.7425432205200195}, {"bas": 92, "son": 128, "tur": "ADDRESS", "skor": 0.9652556777000427}]}
+{"id": "p0065", "tahminler": [{"bas": 126, "son": 137, "tur": "PERSON", "skor": 0.9349184036254883}]}
+{"id": "p0066", "tahminler": [{"bas": 52, "son": 63, "tur": "PERSON", "skor": 0.9826573133468628}, {"bas": 124, "son": 130, "tur": "PERSON", "skor": 0.578473687171936}]}
+{"id": "p0067", "tahminler": [{"bas": 57, "son": 68, "tur": "PERSON", "skor": 0.8551571369171143}]}
+{"id": "p0068", "tahminler": [{"bas": 89, "son": 103, "tur": "PERSON", "skor": 0.9542281627655029}]}
+{"id": "p0069", "tahminler": [{"bas": 53, "son": 72, "tur": "ADDRESS", "skor": 0.9367847442626953}, {"bas": 73, "son": 117, "tur": "ADDRESS", "skor": 0.9581484198570251}, {"bas": 125, "son": 138, "tur": "PERSON", "skor": 0.9394557476043701}]}
+{"id": "p0070", "tahminler": [{"bas": 0, "son": 32, "tur": "TAX_OFFICE", "skor": 0.8469160795211792}, {"bas": 158, "son": 168, "tur": "PERSON", "skor": 0.9885011315345764}, {"bas": 204, "son": 253, "tur": "ADDRESS", "skor": 0.9574042558670044}]}
+{"id": "p0071", "tahminler": [{"bas": 76, "son": 87, "tur": "PERSON", "skor": 0.9622172713279724}, {"bas": 133, "son": 144, "tur": "PERSON", "skor": 0.9786195755004883}]}
+{"id": "p0072", "tahminler": [{"bas": 8, "son": 18, "tur": "PERSON", "skor": 0.9845978021621704}, {"bas": 166, "son": 175, "tur": "PERSON", "skor": 0.9861606359481812}, {"bas": 175, "son": 204, "tur": "ADDRESS", "skor": 0.9432421326637268}]}
+{"id": "p0073", "tahminler": [{"bas": 20, "son": 29, "tur": "PERSON", "skor": 0.9917709827423096}, {"bas": 60, "son": 71, "tur": "PERSON", "skor": 0.9883497953414917}, {"bas": 103, "son": 109, "tur": "PERSON", "skor": 0.350265234708786}]}
+{"id": "p0074", "tahminler": [{"bas": 0, "son": 11, "tur": "PERSON", "skor": 0.9925709962844849}, {"bas": 94, "son": 117, "tur": "ADDRESS", "skor": 0.8473680019378662}]}
+{"id": "p0075", "tahminler": [{"bas": 42, "son": 47, "tur": "PERSON", "skor": 0.5794859528541565}, {"bas": 57, "son": 68, "tur": "PERSON", "skor": 0.9372127056121826}]}
+{"id": "p0076", "tahminler": [{"bas": 0, "son": 11, "tur": "PERSON", "skor": 0.9862363338470459}]}
+{"id": "p0077", "tahminler": [{"bas": 10, "son": 16, "tur": "PERSON", "skor": 0.8750507831573486}, {"bas": 70, "son": 81, "tur": "PERSON", "skor": 0.9864208698272705}]}
+{"id": "p0078", "tahminler": [{"bas": 18, "son": 27, "tur": "PERSON", "skor": 0.9793999195098877}]}
+{"id": "p0079", "tahminler": [{"bas": 24, "son": 48, "tur": "ADDRESS", "skor": 0.8043566942214966}, {"bas": 86, "son": 95, "tur": "PERSON", "skor": 0.7784541845321655}]}
+{"id": "p0080", "tahminler": [{"bas": 13, "son": 38, "tur": "ADDRESS", "skor": 0.9455461502075195}]}
+{"id": "p0081", "tahminler": [{"bas": 4, "son": 15, "tur": "PERSON", "skor": 0.5928546190261841}]}
+{"id": "p0082", "tahminler": [{"bas": 0, "son": 10, "tur": "PERSON", "skor": 0.8895649909973145}]}
+{"id": "p0083", "tahminler": []}
+{"id": "p0084", "tahminler": [{"bas": 24, "son": 29, "tur": "PERSON", "skor": 0.5810449719429016}]}
+{"id": "p0085", "tahminler": [{"bas": 4, "son": 17, "tur": "PERSON", "skor": 0.8926533460617065}, {"bas": 28, "son": 41, "tur": "PERSON", "skor": 0.8930679559707642}]}
+{"id": "p0086", "tahminler": [{"bas": 6, "son": 17, "tur": "PERSON", "skor": 0.9830244779586792}, {"bas": 95, "son": 105, "tur": "PERSON", "skor": 0.9814374446868896}]}
+{"id": "p0087", "tahminler": [{"bas": 105, "son": 117, "tur": "PERSON", "skor": 0.9264850616455078}, {"bas": 121, "son": 131, "tur": "PERSON", "skor": 0.9788047075271606}]}
+{"id": "p0088", "tahminler": []}
+{"id": "p0089", "tahminler": [{"bas": 0, "son": 10, "tur": "PERSON", "skor": 0.9363523721694946}]}
+{"id": "p0090", "tahminler": [{"bas": 24, "son": 33, "tur": "PERSON", "skor": 0.9895292520523071}, {"bas": 59, "son": 81, "tur": "ADDRESS", "skor": 0.8289241194725037}, {"bas": 82, "son": 113, "tur": "ADDRESS", "skor": 0.9468346834182739}, {"bas": 124, "son": 125, "tur": "ADDRESS", "skor": 0.8169901371002197}]}
+{"id": "p0091", "tahminler": [{"bas": 20, "son": 30, "tur": "PERSON", "skor": 0.8924630880355835}]}
+{"id": "p0092", "tahminler": [{"bas": 13, "son": 23, "tur": "PERSON", "skor": 0.9788485765457153}, {"bas": 35, "son": 48, "tur": "PERSON", "skor": 0.9862852096557617}, {"bas": 151, "son": 163, "tur": "ADDRESS", "skor": 0.9065077304840088}, {"bas": 164, "son": 182, "tur": "ADDRESS", "skor": 0.9286400675773621}, {"bas": 183, "son": 190, "tur": "ADDRESS", "skor": 0.5544899702072144}]}
+{"id": "p0093", "tahminler": [{"bas": 6, "son": 17, "tur": "PERSON", "skor": 0.9907459020614624}, {"bas": 42, "son": 53, "tur": "PERSON", "skor": 0.9906529188156128}, {"bas": 56, "son": 122, "tur": "ADDRESS", "skor": 0.9703382849693298}]}
+{"id": "p0094", "tahminler": [{"bas": 8, "son": 19, "tur": "PERSON", "skor": 0.9636929035186768}, {"bas": 66, "son": 75, "tur": "PERSON", "skor": 0.9737937450408936}]}
+{"id": "p0095", "tahminler": [{"bas": 0, "son": 10, "tur": "PERSON", "skor": 0.9542863368988037}, {"bas": 19, "son": 24, "tur": "PERSON", "skor": 0.6388134360313416}, {"bas": 25, "son": 29, "tur": "PERSON", "skor": 0.9169912934303284}, {"bas": 64, "son": 68, "tur": "PERSON", "skor": 0.8629639744758606}]}
+{"id": "p0096", "tahminler": [{"bas": 13, "son": 26, "tur": "PERSON", "skor": 0.9891800880432129}, {"bas": 78, "son": 89, "tur": "ADDRESS", "skor": 0.8898048400878906}, {"bas": 91, "son": 130, "tur": "ADDRESS", "skor": 0.9713866710662842}]}
+{"id": "p0097", "tahminler": [{"bas": 132, "son": 142, "tur": "PERSON", "skor": 0.9634272456169128}]}
+{"id": "p0098", "tahminler": [{"bas": 52, "son": 63, "tur": "PERSON", "skor": 0.9851675629615784}]}
+{"id": "p0099", "tahminler": [{"bas": 7, "son": 12, "tur": "PERSON", "skor": 0.6132076382637024}, {"bas": 57, "son": 69, "tur": "PERSON", "skor": 0.9746095538139343}]}
+{"id": "p0100", "tahminler": [{"bas": 92, "son": 105, "tur": "PERSON", "skor": 0.9659110307693481}]}
+{"id": "p0101", "tahminler": [{"bas": 53, "son": 121, "tur": "ADDRESS", "skor": 0.9730650782585144}, {"bas": 129, "son": 141, "tur": "PERSON", "skor": 0.9837929010391235}]}
+{"id": "p0102", "tahminler": [{"bas": 0, "son": 32, "tur": "TAX_OFFICE", "skor": 0.8102729320526123}, {"bas": 158, "son": 170, "tur": "PERSON", "skor": 0.7895747423171997}, {"bas": 206, "son": 218, "tur": "ADDRESS", "skor": 0.9337169528007507}, {"bas": 219, "son": 251, "tur": "ADDRESS", "skor": 0.8467803597450256}]}
+{"id": "p0103", "tahminler": [{"bas": 82, "son": 93, "tur": "PERSON", "skor": 0.9376566410064697}, {"bas": 139, "son": 150, "tur": "PERSON", "skor": 0.9910544157028198}]}
+{"id": "p0104", "tahminler": [{"bas": 8, "son": 19, "tur": "PERSON", "skor": 0.9774821400642395}, {"bas": 164, "son": 175, "tur": "PERSON", "skor": 0.9541879892349243}, {"bas": 177, "son": 214, "tur": "ADDRESS", "skor": 0.911347508430481}]}
+{"id": "p0105", "tahminler": [{"bas": 20, "son": 31, "tur": "PERSON", "skor": 0.9759517908096313}, {"bas": 62, "son": 75, "tur": "PERSON", "skor": 0.9749810695648193}, {"bas": 113, "son": 118, "tur": "PERSON", "skor": 0.6699029803276062}]}
+{"id": "p0106", "tahminler": [{"bas": 0, "son": 10, "tur": "PERSON", "skor": 0.9908615350723267}, {"bas": 93, "son": 114, "tur": "ADDRESS", "skor": 0.8474855422973633}]}
+{"id": "p0107", "tahminler": [{"bas": 58, "son": 67, "tur": "PERSON", "skor": 0.9642448425292969}]}
+{"id": "p0108", "tahminler": [{"bas": 0, "son": 12, "tur": "PERSON", "skor": 0.9894484281539917}]}
+{"id": "p0109", "tahminler": [{"bas": 72, "son": 84, "tur": "PERSON", "skor": 0.9791886806488037}]}
+{"id": "p0110", "tahminler": [{"bas": 18, "son": 30, "tur": "PERSON", "skor": 0.993940532207489}]}
+{"id": "p0111", "tahminler": [{"bas": 24, "son": 40, "tur": "ADDRESS", "skor": 0.9076012372970581}, {"bas": 42, "son": 79, "tur": "ADDRESS", "skor": 0.9265615940093994}, {"bas": 110, "son": 127, "tur": "PERSON", "skor": 0.9538853764533997}]}
+{"id": "p0112", "tahminler": [{"bas": 0, "son": 6, "tur": "PERSON", "skor": 0.5616337656974792}, {"bas": 13, "son": 41, "tur": "ADDRESS", "skor": 0.9240954518318176}, {"bas": 56, "son": 60, "tur": "PERSON", "skor": 0.37591230869293213}]}
+{"id": "p0113", "tahminler": []}
+{"id": "p0114", "tahminler": [{"bas": 0, "son": 5, "tur": "PERSON", "skor": 0.7111585736274719}]}
+{"id": "p0115", "tahminler": []}
+{"id": "p0116", "tahminler": []}
+{"id": "p0117", "tahminler": [{"bas": 11, "son": 17, "tur": "PERSON", "skor": 0.704787015914917}, {"bas": 28, "son": 41, "tur": "PERSON", "skor": 0.6762956380844116}]}
+{"id": "p0118", "tahminler": [{"bas": 6, "son": 16, "tur": "PERSON", "skor": 0.9789378643035889}, {"bas": 89, "son": 99, "tur": "PERSON", "skor": 0.7526205778121948}]}
+{"id": "p0119", "tahminler": [{"bas": 104, "son": 115, "tur": "PERSON", "skor": 0.9637799263000488}, {"bas": 119, "son": 130, "tur": "PERSON", "skor": 0.726801335811615}]}
+{"id": "p0120", "tahminler": []}
+{"id": "p0121", "tahminler": [{"bas": 0, "son": 9, "tur": "PERSON", "skor": 0.99085932970047}]}
+{"id": "p0122", "tahminler": [{"bas": 24, "son": 35, "tur": "PERSON", "skor": 0.9908373355865479}, {"bas": 55, "son": 97, "tur": "ADDRESS", "skor": 0.8265248537063599}]}
+{"id": "p0123", "tahminler": [{"bas": 20, "son": 31, "tur": "PERSON", "skor": 0.9897953271865845}, {"bas": 45, "son": 57, "tur": "PERSON", "skor": 0.629391610622406}]}
+{"id": "p0124", "tahminler": [{"bas": 13, "son": 24, "tur": "PERSON", "skor": 0.9825143814086914}, {"bas": 36, "son": 46, "tur": "PERSON", "skor": 0.986844539642334}, {"bas": 149, "son": 222, "tur": "ADDRESS", "skor": 0.9848569631576538}]}
+{"id": "p0125", "tahminler": [{"bas": 6, "son": 18, "tur": "PERSON", "skor": 0.9901545643806458}, {"bas": 43, "son": 54, "tur": "PERSON", "skor": 0.9795125126838684}, {"bas": 57, "son": 103, "tur": "ADDRESS", "skor": 0.9132131934165955}]}
+{"id": "p0126", "tahminler": [{"bas": 8, "son": 19, "tur": "PERSON", "skor": 0.8084721565246582}, {"bas": 66, "son": 75, "tur": "PERSON", "skor": 0.9765727519989014}]}
+{"id": "p0127", "tahminler": [{"bas": 0, "son": 13, "tur": "PERSON", "skor": 0.9685947895050049}, {"bas": 22, "son": 28, "tur": "PERSON", "skor": 0.46700942516326904}, {"bas": 63, "son": 73, "tur": "PERSON", "skor": 0.7823737859725952}]}
+{"id": "p0128", "tahminler": [{"bas": 13, "son": 23, "tur": "PERSON", "skor": 0.9683430194854736}, {"bas": 75, "son": 88, "tur": "ADDRESS", "skor": 0.735734760761261}, {"bas": 89, "son": 126, "tur": "ADDRESS", "skor": 0.9473509788513184}]}
+{"id": "p0129", "tahminler": [{"bas": 126, "son": 138, "tur": "PERSON", "skor": 0.9915789365768433}]}
+{"id": "p0130", "tahminler": [{"bas": 52, "son": 62, "tur": "PERSON", "skor": 0.8955815434455872}, {"bas": 128, "son": 133, "tur": "PERSON", "skor": 0.6619147062301636}]}
+{"id": "p0131", "tahminler": [{"bas": 7, "son": 11, "tur": "PERSON", "skor": 0.6948931813240051}, {"bas": 56, "son": 66, "tur": "PERSON", "skor": 0.9876817464828491}]}
+{"id": "p0132", "tahminler": [{"bas": 92, "son": 103, "tur": "PERSON", "skor": 0.9366406202316284}]}
+{"id": "p0133", "tahminler": [{"bas": 53, "son": 65, "tur": "ADDRESS", "skor": 0.8020937442779541}, {"bas": 74, "son": 84, "tur": "ADDRESS", "skor": 0.9931896328926086}, {"bas": 85, "son": 94, "tur": "ADDRESS", "skor": 0.5816782116889954}, {"bas": 102, "son": 112, "tur": "PERSON", "skor": 0.9822138547897339}]}
+{"id": "p0134", "tahminler": [{"bas": 0, "son": 33, "tur": "TAX_OFFICE", "skor": 0.9932609796524048}, {"bas": 159, "son": 171, "tur": "PERSON", "skor": 0.7447109222412109}, {"bas": 207, "son": 274, "tur": "ADDRESS", "skor": 0.9567851424217224}]}
+{"id": "p0135", "tahminler": [{"bas": 76, "son": 87, "tur": "PERSON", "skor": 0.9681775569915771}, {"bas": 133, "son": 145, "tur": "PERSON", "skor": 0.9771865606307983}]}
+{"id": "p0136", "tahminler": [{"bas": 8, "son": 18, "tur": "PERSON", "skor": 0.9893498420715332}, {"bas": 154, "son": 167, "tur": "PERSON", "skor": 0.9908245801925659}, {"bas": 167, "son": 168, "tur": "ADDRESS", "skor": 0.824366569519043}, {"bas": 169, "son": 195, "tur": "ADDRESS", "skor": 0.9468797445297241}]}
+{"id": "p0137", "tahminler": [{"bas": 20, "son": 34, "tur": "PERSON", "skor": 0.9912530183792114}, {"bas": 67, "son": 76, "tur": "PERSON", "skor": 0.9881815314292908}]}
+{"id": "p0138", "tahminler": [{"bas": 0, "son": 10, "tur": "PERSON", "skor": 0.9775031805038452}, {"bas": 93, "son": 117, "tur": "ADDRESS", "skor": 0.8359442353248596}]}
+{"id": "p0139", "tahminler": [{"bas": 22, "son": 27, "tur": "PERSON", "skor": 0.3859834372997284}, {"bas": 43, "son": 47, "tur": "PERSON", "skor": 0.5690677165985107}, {"bas": 57, "son": 69, "tur": "PERSON", "skor": 0.9256172180175781}]}
+{"id": "p0140", "tahminler": [{"bas": 0, "son": 10, "tur": "PERSON", "skor": 0.9806184768676758}]}
+{"id": "p0141", "tahminler": [{"bas": 64, "son": 75, "tur": "PERSON", "skor": 0.9718015193939209}]}
+{"id": "p0142", "tahminler": [{"bas": 18, "son": 29, "tur": "PERSON", "skor": 0.9880580902099609}]}
+{"id": "p0143", "tahminler": [{"bas": 23, "son": 35, "tur": "ADDRESS", "skor": 0.901826024055481}, {"bas": 37, "son": 57, "tur": "ADDRESS", "skor": 0.960873544216156}, {"bas": 67, "son": 68, "tur": "ADDRESS", "skor": 0.8602028489112854}, {"bas": 112, "son": 121, "tur": "PERSON", "skor": 0.8807663917541504}]}
+{"id": "p0144", "tahminler": [{"bas": 12, "son": 78, "tur": "ADDRESS", "skor": 0.9510140419006348}]}
+{"id": "p0145", "tahminler": [{"bas": 4, "son": 13, "tur": "PERSON", "skor": 0.7058884501457214}]}
+{"id": "p0146", "tahminler": [{"bas": 0, "son": 14, "tur": "PERSON", "skor": 0.7810580730438232}]}
+{"id": "p0147", "tahminler": []}
+{"id": "p0148", "tahminler": [{"bas": 22, "son": 28, "tur": "PERSON", "skor": 0.41947630047798157}]}
+{"id": "p0149", "tahminler": [{"bas": 29, "son": 34, "tur": "PERSON", "skor": 0.6305639743804932}]}
+{"id": "p0150", "tahminler": [{"bas": 6, "son": 18, "tur": "PERSON", "skor": 0.9896742105484009}, {"bas": 90, "son": 98, "tur": "PERSON", "skor": 0.9876988530158997}]}
+{"id": "p0151", "tahminler": [{"bas": 101, "son": 113, "tur": "PERSON", "skor": 0.7278105020523071}, {"bas": 117, "son": 128, "tur": "PERSON", "skor": 0.9695959091186523}]}
+{"id": "p0152", "tahminler": []}
+{"id": "p0153", "tahminler": [{"bas": 0, "son": 12, "tur": "PERSON", "skor": 0.9900820255279541}]}
+{"id": "p0154", "tahminler": [{"bas": 24, "son": 34, "tur": "PERSON", "skor": 0.992953360080719}, {"bas": 60, "son": 85, "tur": "ADDRESS", "skor": 0.8869163393974304}]}
+{"id": "p0155", "tahminler": [{"bas": 20, "son": 31, "tur": "PERSON", "skor": 0.9714957475662231}]}
+{"id": "p0156", "tahminler": [{"bas": 13, "son": 25, "tur": "PERSON", "skor": 0.98576819896698}, {"bas": 37, "son": 48, "tur": "PERSON", "skor": 0.9688711762428284}, {"bas": 151, "son": 189, "tur": "ADDRESS", "skor": 0.8792852163314819}, {"bas": 190, "son": 199, "tur": "TAX_OFFICE", "skor": 0.37435266375541687}]}
+{"id": "p0157", "tahminler": [{"bas": 6, "son": 16, "tur": "PERSON", "skor": 0.9846291542053223}, {"bas": 41, "son": 50, "tur": "PERSON", "skor": 0.9877803325653076}, {"bas": 53, "son": 100, "tur": "ADDRESS", "skor": 0.9476872682571411}]}
+{"id": "p0158", "tahminler": [{"bas": 8, "son": 20, "tur": "PERSON", "skor": 0.9140477180480957}, {"bas": 67, "son": 76, "tur": "PERSON", "skor": 0.8942607641220093}]}
+{"id": "p0159", "tahminler": [{"bas": 69, "son": 74, "tur": "PERSON", "skor": 0.4993744492530823}]}
+{"id": "p0160", "tahminler": [{"bas": 13, "son": 24, "tur": "PERSON", "skor": 0.9755699634552002}, {"bas": 82, "son": 104, "tur": "ADDRESS", "skor": 0.9444671273231506}]}
+{"id": "p0161", "tahminler": [{"bas": 129, "son": 143, "tur": "PERSON", "skor": 0.9892244935035706}]}
+{"id": "p0162", "tahminler": [{"bas": 52, "son": 63, "tur": "PERSON", "skor": 0.9689978361129761}, {"bas": 124, "son": 136, "tur": "PERSON", "skor": 0.2526220679283142}]}
+{"id": "p0163", "tahminler": [{"bas": 7, "son": 12, "tur": "PERSON", "skor": 0.6549014449119568}, {"bas": 57, "son": 71, "tur": "PERSON", "skor": 0.9559764862060547}]}
+{"id": "p0164", "tahminler": [{"bas": 95, "son": 107, "tur": "PERSON", "skor": 0.9593725204467773}]}
+{"id": "p0165", "tahminler": [{"bas": 53, "son": 81, "tur": "ADDRESS", "skor": 0.9599086046218872}, {"bas": 99, "son": 110, "tur": "PERSON", "skor": 0.9409589171409607}]}
+{"id": "p0166", "tahminler": [{"bas": 0, "son": 24, "tur": "TAX_OFFICE", "skor": 0.8094019889831543}, {"bas": 149, "son": 159, "tur": "PERSON", "skor": 0.991381824016571}, {"bas": 195, "son": 228, "tur": "ADDRESS", "skor": 0.9732671976089478}, {"bas": 229, "son": 238, "tur": "TAX_OFFICE", "skor": 0.3018566966056824}]}
+{"id": "p0167", "tahminler": [{"bas": 75, "son": 84, "tur": "PERSON", "skor": 0.9663646221160889}, {"bas": 130, "son": 140, "tur": "PERSON", "skor": 0.9834097623825073}]}
+{"id": "p0168", "tahminler": [{"bas": 8, "son": 18, "tur": "PERSON", "skor": 0.9881816506385803}, {"bas": 158, "son": 163, "tur": "PERSON", "skor": 0.4811287224292755}, {"bas": 164, "son": 169, "tur": "ADDRESS", "skor": 0.9391032457351685}, {"bas": 170, "son": 236, "tur": "ADDRESS", "skor": 0.9614230394363403}]}
+{"id": "p0169", "tahminler": [{"bas": 20, "son": 31, "tur": "PERSON", "skor": 0.9752049446105957}, {"bas": 61, "son": 72, "tur": "PERSON", "skor": 0.9630699157714844}]}
+{"id": "p0170", "tahminler": [{"bas": 0, "son": 12, "tur": "PERSON", "skor": 0.9909039735794067}, {"bas": 95, "son": 155, "tur": "ADDRESS", "skor": 0.9790202379226685}]}
+{"id": "p0171", "tahminler": [{"bas": 22, "son": 27, "tur": "PERSON", "skor": 0.6828044056892395}, {"bas": 43, "son": 50, "tur": "PERSON", "skor": 0.42867568135261536}, {"bas": 60, "son": 70, "tur": "PERSON", "skor": 0.9820695519447327}]}
+{"id": "p0172", "tahminler": [{"bas": 0, "son": 10, "tur": "PERSON", "skor": 0.9918808937072754}]}
+{"id": "p0173", "tahminler": [{"bas": 10, "son": 15, "tur": "PERSON", "skor": 0.4801454544067383}, {"bas": 16, "son": 20, "tur": "PERSON", "skor": 0.9542269110679626}, {"bas": 68, "son": 78, "tur": "PERSON", "skor": 0.9715391397476196}]}
+{"id": "p0174", "tahminler": [{"bas": 18, "son": 30, "tur": "PERSON", "skor": 0.9828011989593506}]}
+{"id": "p0175", "tahminler": [{"bas": 24, "son": 35, "tur": "ADDRESS", "skor": 0.8081737756729126}, {"bas": 37, "son": 51, "tur": "ADDRESS", "skor": 0.909448504447937}, {"bas": 82, "son": 96, "tur": "PERSON", "skor": 0.8803191781044006}]}
+{"id": "p0176", "tahminler": [{"bas": 11, "son": 37, "tur": "ADDRESS", "skor": 0.8837293386459351}]}
+{"id": "p0177", "tahminler": [{"bas": 4, "son": 15, "tur": "PERSON", "skor": 0.44086891412734985}]}
+{"id": "p0178", "tahminler": [{"bas": 0, "son": 13, "tur": "PERSON", "skor": 0.9053345918655396}]}
+{"id": "p0179", "tahminler": []}
+{"id": "p0180", "tahminler": [{"bas": 0, "son": 6, "tur": "PERSON", "skor": 0.8865241408348083}, {"bas": 21, "son": 27, "tur": "PERSON", "skor": 0.5599243640899658}]}
+{"id": "p0181", "tahminler": [{"bas": 10, "son": 17, "tur": "PERSON", "skor": 0.9528846144676208}, {"bas": 28, "son": 40, "tur": "PERSON", "skor": 0.9137439727783203}]}
+{"id": "p0182", "tahminler": [{"bas": 6, "son": 18, "tur": "PERSON", "skor": 0.9909940958023071}, {"bas": 91, "son": 104, "tur": "PERSON", "skor": 0.9835696816444397}]}
+{"id": "p0183", "tahminler": [{"bas": 105, "son": 118, "tur": "PERSON", "skor": 0.9679931402206421}, {"bas": 122, "son": 133, "tur": "PERSON", "skor": 0.9802890419960022}]}
+{"id": "p0184", "tahminler": []}
+{"id": "p0185", "tahminler": [{"bas": 0, "son": 10, "tur": "PERSON", "skor": 0.9819785356521606}]}
+{"id": "p0186", "tahminler": [{"bas": 24, "son": 34, "tur": "PERSON", "skor": 0.9848527908325195}, {"bas": 54, "son": 113, "tur": "ADDRESS", "skor": 0.9064968228340149}]}
+{"id": "p0187", "tahminler": [{"bas": 20, "son": 30, "tur": "PERSON", "skor": 0.9892852306365967}, {"bas": 44, "son": 49, "tur": "PERSON", "skor": 0.5505962371826172}]}
+{"id": "p0188", "tahminler": [{"bas": 13, "son": 24, "tur": "PERSON", "skor": 0.9666303396224976}, {"bas": 36, "son": 46, "tur": "PERSON", "skor": 0.9568088054656982}, {"bas": 153, "son": 156, "tur": "ADDRESS", "skor": 0.6697023510932922}, {"bas": 158, "son": 170, "tur": "ADDRESS", "skor": 0.8698046207427979}]}
+{"id": "p0189", "tahminler": [{"bas": 6, "son": 20, "tur": "PERSON", "skor": 0.9903945326805115}, {"bas": 45, "son": 56, "tur": "PERSON", "skor": 0.9485142230987549}, {"bas": 59, "son": 88, "tur": "ADDRESS", "skor": 0.8932509422302246}, {"bas": 89, "son": 96, "tur": "ADDRESS", "skor": 0.6308996677398682}]}
+{"id": "p0190", "tahminler": [{"bas": 8, "son": 19, "tur": "PERSON", "skor": 0.9715059995651245}, {"bas": 66, "son": 77, "tur": "PERSON", "skor": 0.9569312334060669}]}
+{"id": "p0191", "tahminler": [{"bas": 0, "son": 8, "tur": "PERSON", "skor": 0.9698516130447388}, {"bas": 56, "son": 61, "tur": "PERSON", "skor": 0.9323654174804688}]}
+{"id": "p0192", "tahminler": [{"bas": 13, "son": 25, "tur": "PERSON", "skor": 0.9615887403488159}, {"bas": 77, "son": 108, "tur": "ADDRESS", "skor": 0.8550136089324951}]}
+{"id": "p0193", "tahminler": [{"bas": 122, "son": 135, "tur": "PERSON", "skor": 0.9907981753349304}]}
+{"id": "p0194", "tahminler": [{"bas": 52, "son": 63, "tur": "PERSON", "skor": 0.9272642135620117}]}
+{"id": "p0195", "tahminler": [{"bas": 7, "son": 12, "tur": "PERSON", "skor": 0.8911182284355164}, {"bas": 57, "son": 70, "tur": "PERSON", "skor": 0.9884995818138123}]}
+{"id": "p0196", "tahminler": [{"bas": 89, "son": 101, "tur": "PERSON", "skor": 0.9642782211303711}]}
+{"id": "p0197", "tahminler": [{"bas": 53, "son": 80, "tur": "ADDRESS", "skor": 0.8547719717025757}, {"bas": 82, "son": 96, "tur": "ADDRESS", "skor": 0.8251295685768127}]}
+{"id": "p0198", "tahminler": [{"bas": 0, "son": 24, "tur": "TAX_OFFICE", "skor": 0.7583975791931152}, {"bas": 150, "son": 161, "tur": "PERSON", "skor": 0.9896098375320435}, {"bas": 197, "son": 264, "tur": "ADDRESS", "skor": 0.9784620404243469}]}
+{"id": "p0199", "tahminler": [{"bas": 76, "son": 87, "tur": "PERSON", "skor": 0.9646288752555847}, {"bas": 133, "son": 143, "tur": "PERSON", "skor": 0.9880406856536865}]}
+{"id": "p0200", "tahminler": [{"bas": 8, "son": 18, "tur": "PERSON", "skor": 0.9867877960205078}, {"bas": 163, "son": 174, "tur": "PERSON", "skor": 0.9343860149383545}, {"bas": 174, "son": 199, "tur": "ADDRESS", "skor": 0.988686740398407}]}
+{"id": "p0201", "tahminler": [{"bas": 20, "son": 32, "tur": "PERSON", "skor": 0.9907040596008301}, {"bas": 63, "son": 74, "tur": "PERSON", "skor": 0.9815237522125244}, {"bas": 106, "son": 112, "tur": "PERSON", "skor": 0.6165286898612976}]}
+{"id": "p0202", "tahminler": [{"bas": 0, "son": 15, "tur": "PERSON", "skor": 0.9871608018875122}, {"bas": 98, "son": 114, "tur": "ADDRESS", "skor": 0.718029797077179}, {"bas": 115, "son": 155, "tur": "ADDRESS", "skor": 0.9544580578804016}]}
+{"id": "p0203", "tahminler": [{"bas": 58, "son": 70, "tur": "PERSON", "skor": 0.9758425951004028}]}
+{"id": "p0204", "tahminler": [{"bas": 0, "son": 11, "tur": "PERSON", "skor": 0.967172384262085}]}
+{"id": "p0205", "tahminler": [{"bas": 10, "son": 15, "tur": "PERSON", "skor": 0.3303869068622589}, {"bas": 16, "son": 21, "tur": "PERSON", "skor": 0.6851829290390015}, {"bas": 68, "son": 78, "tur": "PERSON", "skor": 0.9715912342071533}]}
+{"id": "p0206", "tahminler": [{"bas": 18, "son": 30, "tur": "PERSON", "skor": 0.9936299324035645}]}
+{"id": "p0207", "tahminler": [{"bas": 24, "son": 76, "tur": "ADDRESS", "skor": 0.9764255285263062}, {"bas": 87, "son": 88, "tur": "ADDRESS", "skor": 0.9296689033508301}, {"bas": 133, "son": 142, "tur": "PERSON", "skor": 0.8505691289901733}]}
+{"id": "p0208", "tahminler": [{"bas": 14, "son": 50, "tur": "ADDRESS", "skor": 0.8833321928977966}, {"bas": 65, "son": 70, "tur": "PERSON", "skor": 0.41235339641571045}]}
+{"id": "p0209", "tahminler": [{"bas": 4, "son": 15, "tur": "PERSON", "skor": 0.6327213644981384}]}
+{"id": "p0210", "tahminler": [{"bas": 8, "son": 14, "tur": "PERSON", "skor": 0.9637823104858398}]}
+{"id": "p0211", "tahminler": []}
+{"id": "p0212", "tahminler": []}
+{"id": "p0213", "tahminler": [{"bas": 10, "son": 17, "tur": "PERSON", "skor": 0.9510826468467712}, {"bas": 28, "son": 39, "tur": "PERSON", "skor": 0.5408483743667603}]}
+{"id": "p0214", "tahminler": [{"bas": 6, "son": 15, "tur": "PERSON", "skor": 0.983506441116333}, {"bas": 87, "son": 99, "tur": "PERSON", "skor": 0.9772331714630127}]}
+{"id": "p0215", "tahminler": [{"bas": 104, "son": 116, "tur": "PERSON", "skor": 0.9673379063606262}, {"bas": 120, "son": 130, "tur": "PERSON", "skor": 0.9754329919815063}]}
+{"id": "p0216", "tahminler": [{"bas": 8, "son": 13, "tur": "PERSON", "skor": 0.43857452273368835}, {"bas": 32, "son": 37, "tur": "PERSON", "skor": 0.460781067609787}]}
+{"id": "p0217", "tahminler": [{"bas": 0, "son": 9, "tur": "PERSON", "skor": 0.9865226745605469}]}
+{"id": "p0218", "tahminler": [{"bas": 24, "son": 38, "tur": "PERSON", "skor": 0.993588924407959}, {"bas": 64, "son": 82, "tur": "ADDRESS", "skor": 0.8768401145935059}, {"bas": 83, "son": 129, "tur": "ADDRESS", "skor": 0.9640875458717346}]}
+{"id": "p0219", "tahminler": [{"bas": 20, "son": 32, "tur": "PERSON", "skor": 0.9864428043365479}]}
+{"id": "p0220", "tahminler": [{"bas": 13, "son": 25, "tur": "PERSON", "skor": 0.9874390363693237}, {"bas": 37, "son": 48, "tur": "PERSON", "skor": 0.9835595488548279}, {"bas": 151, "son": 175, "tur": "ADDRESS", "skor": 0.9435744881629944}]}
+{"id": "p0221", "tahminler": [{"bas": 6, "son": 18, "tur": "PERSON", "skor": 0.989729642868042}, {"bas": 43, "son": 53, "tur": "PERSON", "skor": 0.9893032312393188}, {"bas": 57, "son": 108, "tur": "ADDRESS", "skor": 0.9790149331092834}, {"bas": 122, "son": 131, "tur": "ADDRESS", "skor": 0.9527734518051147}]}
+{"id": "p0222", "tahminler": [{"bas": 8, "son": 18, "tur": "PERSON", "skor": 0.9770107269287109}, {"bas": 65, "son": 77, "tur": "PERSON", "skor": 0.9857547283172607}]}
+{"id": "p0223", "tahminler": [{"bas": 0, "son": 8, "tur": "PERSON", "skor": 0.9660841226577759}, {"bas": 17, "son": 21, "tur": "PERSON", "skor": 0.2916889190673828}, {"bas": 22, "son": 25, "tur": "PERSON", "skor": 0.884207010269165}, {"bas": 57, "son": 61, "tur": "PERSON", "skor": 0.7850519418716431}]}
+{"id": "p0224", "tahminler": [{"bas": 13, "son": 24, "tur": "PERSON", "skor": 0.9752875566482544}, {"bas": 75, "son": 137, "tur": "ADDRESS", "skor": 0.9598860740661621}]}
+{"id": "p0225", "tahminler": [{"bas": 126, "son": 136, "tur": "PERSON", "skor": 0.982704222202301}]}
+{"id": "p0226", "tahminler": [{"bas": 52, "son": 65, "tur": "PERSON", "skor": 0.8343957662582397}]}
+{"id": "p0227", "tahminler": [{"bas": 57, "son": 67, "tur": "PERSON", "skor": 0.9802189469337463}]}
+{"id": "p0228", "tahminler": [{"bas": 92, "son": 102, "tur": "PERSON", "skor": 0.8782128095626831}]}
+{"id": "p0229", "tahminler": [{"bas": 53, "son": 72, "tur": "ADDRESS", "skor": 0.9736413359642029}, {"bas": 73, "son": 105, "tur": "ADDRESS", "skor": 0.9501389265060425}, {"bas": 116, "son": 125, "tur": "ADDRESS", "skor": 0.8039225339889526}, {"bas": 133, "son": 144, "tur": "PERSON", "skor": 0.9506235122680664}]}
+{"id": "p0230", "tahminler": [{"bas": 0, "son": 33, "tur": "TAX_OFFICE", "skor": 0.9951571226119995}, {"bas": 159, "son": 167, "tur": "PERSON", "skor": 0.9899547100067139}, {"bas": 203, "son": 227, "tur": "ADDRESS", "skor": 0.9764426350593567}]}
+{"id": "p0231", "tahminler": [{"bas": 76, "son": 89, "tur": "PERSON", "skor": 0.9770283699035645}, {"bas": 135, "son": 148, "tur": "PERSON", "skor": 0.9791736006736755}]}
+{"id": "p0232", "tahminler": [{"bas": 8, "son": 15, "tur": "PERSON", "skor": 0.968935489654541}, {"bas": 163, "son": 176, "tur": "PERSON", "skor": 0.9723473787307739}, {"bas": 178, "son": 182, "tur": "ADDRESS", "skor": 0.6219203472137451}, {"bas": 184, "son": 199, "tur": "ADDRESS", "skor": 0.9141731262207031}]}
+{"id": "p0233", "tahminler": [{"bas": 20, "son": 32, "tur": "PERSON", "skor": 0.9604238271713257}, {"bas": 65, "son": 75, "tur": "PERSON", "skor": 0.9749951362609863}, {"bas": 107, "son": 115, "tur": "PERSON", "skor": 0.663815438747406}]}
+{"id": "p0234", "tahminler": [{"bas": 0, "son": 11, "tur": "PERSON", "skor": 0.9904041886329651}, {"bas": 94, "son": 105, "tur": "ADDRESS", "skor": 0.7923934459686279}, {"bas": 107, "son": 118, "tur": "ADDRESS", "skor": 0.8741788864135742}]}
+{"id": "p0235", "tahminler": [{"bas": 58, "son": 71, "tur": "PERSON", "skor": 0.9492822885513306}]}
+{"id": "p0236", "tahminler": [{"bas": 0, "son": 10, "tur": "PERSON", "skor": 0.9874720573425293}]}
+{"id": "p0237", "tahminler": [{"bas": 10, "son": 14, "tur": "PERSON", "skor": 0.692013680934906}, {"bas": 15, "son": 19, "tur": "PERSON", "skor": 0.9564797878265381}, {"bas": 66, "son": 80, "tur": "PERSON", "skor": 0.9886224269866943}]}
+{"id": "p0238", "tahminler": [{"bas": 18, "son": 30, "tur": "PERSON", "skor": 0.9877263307571411}]}
+{"id": "p0239", "tahminler": [{"bas": 24, "son": 36, "tur": "ADDRESS", "skor": 0.9050459861755371}, {"bas": 38, "son": 61, "tur": "ADDRESS", "skor": 0.9487959742546082}, {"bas": 62, "son": 82, "tur": "ADDRESS", "skor": 0.6500593423843384}, {"bas": 113, "son": 127, "tur": "PERSON", "skor": 0.9199420809745789}]}
+{"id": "p0240", "tahminler": [{"bas": 0, "son": 4, "tur": "PERSON", "skor": 0.36836886405944824}, {"bas": 11, "son": 67, "tur": "ADDRESS", "skor": 0.9382460117340088}]}
+{"id": "p0241", "tahminler": [{"bas": 4, "son": 17, "tur": "PERSON", "skor": 0.5822877287864685}]}
+{"id": "p0242", "tahminler": [{"bas": 0, "son": 11, "tur": "PERSON", "skor": 0.7123674154281616}]}
+{"id": "p0243", "tahminler": []}
+{"id": "p0244", "tahminler": [{"bas": 0, "son": 4, "tur": "PERSON", "skor": 0.6859316229820251}]}
+{"id": "p0245", "tahminler": []}
+{"id": "p0246", "tahminler": [{"bas": 6, "son": 17, "tur": "PERSON", "skor": 0.9852275848388672}, {"bas": 90, "son": 99, "tur": "PERSON", "skor": 0.9848206639289856}]}
+{"id": "p0247", "tahminler": [{"bas": 102, "son": 115, "tur": "PERSON", "skor": 0.9869031310081482}, {"bas": 119, "son": 130, "tur": "PERSON", "skor": 0.9826728105545044}]}
+{"id": "p0248", "tahminler": [{"bas": 30, "son": 34, "tur": "PERSON", "skor": 0.7651135921478271}]}
+{"id": "p0249", "tahminler": [{"bas": 0, "son": 11, "tur": "PERSON", "skor": 0.9868506193161011}]}
+{"id": "p0250", "tahminler": [{"bas": 24, "son": 35, "tur": "PERSON", "skor": 0.9852575063705444}, {"bas": 61, "son": 87, "tur": "ADDRESS", "skor": 0.8883190155029297}]}
+{"id": "p0251", "tahminler": [{"bas": 20, "son": 32, "tur": "PERSON", "skor": 0.9912571310997009}, {"bas": 53, "son": 58, "tur": "PERSON", "skor": 0.5265086889266968}]}
+{"id": "p0252", "tahminler": [{"bas": 13, "son": 23, "tur": "PERSON", "skor": 0.9889549016952515}, {"bas": 35, "son": 48, "tur": "PERSON", "skor": 0.9882309436798096}, {"bas": 151, "son": 209, "tur": "ADDRESS", "skor": 0.9590383172035217}]}
+{"id": "p0253", "tahminler": [{"bas": 6, "son": 19, "tur": "PERSON", "skor": 0.9862651824951172}, {"bas": 44, "son": 56, "tur": "PERSON", "skor": 0.9917150735855103}, {"bas": 59, "son": 71, "tur": "ADDRESS", "skor": 0.9155195951461792}, {"bas": 73, "son": 107, "tur": "ADDRESS", "skor": 0.9562106728553772}]}
+{"id": "p0254", "tahminler": [{"bas": 8, "son": 18, "tur": "PERSON", "skor": 0.9640113115310669}, {"bas": 65, "son": 74, "tur": "PERSON", "skor": 0.8925101161003113}]}
+{"id": "p0255", "tahminler": [{"bas": 0, "son": 12, "tur": "PERSON", "skor": 0.9728953838348389}, {"bas": 21, "son": 34, "tur": "PERSON", "skor": 0.3363373875617981}, {"bas": 66, "son": 71, "tur": "PERSON", "skor": 0.7935094237327576}]}
+{"id": "n0256", "tahminler": []}
+{"id": "n0257", "tahminler": []}
+{"id": "n0258", "tahminler": []}
+{"id": "n0259", "tahminler": []}
+{"id": "n0260", "tahminler": []}
+{"id": "n0261", "tahminler": []}
+{"id": "n0262", "tahminler": []}
+{"id": "n0263", "tahminler": []}
+{"id": "n0264", "tahminler": [{"bas": 8, "son": 18, "tur": "ORG_COMPANY", "skor": 0.5480989813804626}]}
+{"id": "n0265", "tahminler": []}
+{"id": "n0266", "tahminler": []}
+{"id": "n0267", "tahminler": []}
+{"id": "n0268", "tahminler": []}
+{"id": "n0269", "tahminler": []}
+{"id": "n0270", "tahminler": [{"bas": 56, "son": 61, "tur": "HEALTH_DATA", "skor": 0.5024831295013428}]}
+{"id": "n0271", "tahminler": []}
+{"id": "n0272", "tahminler": []}
+{"id": "n0273", "tahminler": [{"bas": 6, "son": 13, "tur": "ORG_COMPANY", "skor": 0.7607941627502441}, {"bas": 21, "son": 28, "tur": "ORG_COMPANY", "skor": 0.627343475818634}]}
+{"id": "n0274", "tahminler": []}
+{"id": "n0275", "tahminler": []}
+{"id": "n0276", "tahminler": []}
+{"id": "n0277", "tahminler": []}
+{"id": "n0278", "tahminler": []}
+{"id": "n0279", "tahminler": []}
+{"id": "n0280", "tahminler": []}
+{"id": "n0281", "tahminler": []}
+{"id": "n0282", "tahminler": []}
+{"id": "n0283", "tahminler": []}
+{"id": "n0284", "tahminler": [{"bas": 8, "son": 18, "tur": "ORG_COMPANY", "skor": 0.5480989813804626}]}
+{"id": "n0285", "tahminler": []}
+{"id": "n0286", "tahminler": []}
+{"id": "n0287", "tahminler": []}
+{"id": "n0288", "tahminler": []}
+{"id": "n0289", "tahminler": []}
+{"id": "n0290", "tahminler": [{"bas": 56, "son": 61, "tur": "HEALTH_DATA", "skor": 0.5024831295013428}]}
+{"id": "n0291", "tahminler": []}
+{"id": "n0292", "tahminler": []}
+{"id": "n0293", "tahminler": [{"bas": 6, "son": 13, "tur": "ORG_COMPANY", "skor": 0.7607941627502441}, {"bas": 21, "son": 28, "tur": "ORG_COMPANY", "skor": 0.627343475818634}]}
+{"id": "n0294", "tahminler": []}
+{"id": "n0295", "tahminler": []}
+{"id": "n0296", "tahminler": []}
+{"id": "n0297", "tahminler": []}
+{"id": "n0298", "tahminler": []}
+{"id": "n0299", "tahminler": []}
+{"id": "n0300", "tahminler": []}
+{"id": "n0301", "tahminler": []}
+{"id": "n0302", "tahminler": []}
+{"id": "n0303", "tahminler": []}
+{"id": "n0304", "tahminler": [{"bas": 8, "son": 18, "tur": "ORG_COMPANY", "skor": 0.5480989813804626}]}
+{"id": "n0305", "tahminler": []}
+{"id": "n0306", "tahminler": []}
+{"id": "n0307", "tahminler": []}
+{"id": "n0308", "tahminler": []}
+{"id": "n0309", "tahminler": []}
+{"id": "n0310", "tahminler": [{"bas": 56, "son": 61, "tur": "HEALTH_DATA", "skor": 0.5024831295013428}]}
+{"id": "n0311", "tahminler": []}
+{"id": "n0312", "tahminler": []}
+{"id": "n0313", "tahminler": [{"bas": 6, "son": 13, "tur": "ORG_COMPANY", "skor": 0.7607941627502441}, {"bas": 21, "son": 28, "tur": "ORG_COMPANY", "skor": 0.627343475818634}]}
+{"id": "n0314", "tahminler": []}
+{"id": "n0315", "tahminler": []}
+{"id": "n0316", "tahminler": []}
+{"id": "n0317", "tahminler": []}
+{"id": "n0318", "tahminler": []}
+{"id": "n0319", "tahminler": []}
+{"id": "n0320", "tahminler": []}
+{"id": "n0321", "tahminler": []}
+{"id": "n0322", "tahminler": []}
+{"id": "n0323", "tahminler": []}
+{"id": "n0324", "tahminler": [{"bas": 8, "son": 18, "tur": "ORG_COMPANY", "skor": 0.5480989813804626}]}
+{"id": "n0325", "tahminler": []}
+{"id": "n0326", "tahminler": []}
+{"id": "n0327", "tahminler": []}
+{"id": "n0328", "tahminler": []}
+{"id": "n0329", "tahminler": []}
+{"id": "n0330", "tahminler": [{"bas": 56, "son": 61, "tur": "HEALTH_DATA", "skor": 0.5024831295013428}]}
+{"id": "n0331", "tahminler": []}
+{"id": "n0332", "tahminler": []}
+{"id": "n0333", "tahminler": [{"bas": 6, "son": 13, "tur": "ORG_COMPANY", "skor": 0.7607941627502441}, {"bas": 21, "son": 28, "tur": "ORG_COMPANY", "skor": 0.627343475818634}]}
+{"id": "n0334", "tahminler": []}
+{"id": "n0335", "tahminler": []}

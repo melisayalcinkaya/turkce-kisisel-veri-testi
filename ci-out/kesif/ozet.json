@@ -1,0 +1,203 @@
+{
+ "ytu-ce-cosmos/modernbert-tr-pii-ner": {
+  "dosyalar": {
+   ".gitattributes": 1519,
+   "README.md": 1851,
+   "assets/logo.webp": 47024,
+   "config.json": 4503,
+   "model.safetensors": 597484596,
+   "onnx/model.onnx": 598044062,
+   "onnx/model_quantized.onnx": 150468308,
+   "run.json": 915,
+   "special_tokens_map.json": 832,
+   "tokenizer.json": 1206540,
+   "tokenizer_config.json": 548
+  },
+  "lisans": "apache-2.0",
+  "pipeline": "token-classification",
+  "eksik": [
+   "gliner_config.json",
+   "chat_template.jinja"
+  ]
+ },
+ "ersanbil/kvkk-pii-ner": {
+  "dosyalar": {
+   ".gitattributes": 1519,
+   "LICENSE": 11372,
+   "NOTICE": 1284,
+   "README.md": 39111,
+   "config.json": 1157,
+   "label_map.json": 436,
+   "model.safetensors": 440170316,
+   "tokenizer.json": 754791,
+   "tokenizer_config.json": 386,
+   "training_metrics.json": 753,
+   "vocab.txt": 251003
+  },
+  "lisans": "apache-2.0",
+  "pipeline": "token-classification",
+  "eksik": [
+   "gliner_config.json",
+   "chat_template.jinja"
+  ]
+ },
+ "Werea-co/Werea-KVKK-PII-150M": {
+  "dosyalar": {
+   ".gitattributes": 1519,
+   "README.md": 1213,
+   "config.json": 3448,
+   "metrics.json": 260,
+   "model.safetensors": 597459988,
+   "special_tokens_map.json": 832,
+   "tokenizer.json": 1206539,
+   "tokenizer_config.json": 1540,
+   "training_args.bin": 5905
+  },
+  "lisans": "apache-2.0",
+  "pipeline": "token-classification",
+  "eksik": [
+   "gliner_config.json",
+   "chat_template.jinja"
+  ]
+ },
+ "akdeniz27/bert-base-turkish-cased-ner": {
+  "dosyalar": {
+   ".gitattributes": 1229,
+   "README.md": 2063,
+   "config.json": 956,
+   "model.onnx": 440394743,
+   "model.safetensors": 440156076,
+   "pytorch_model.bin": 440211953,
+   "special_tokens_map.json": 112,
+   "tokenizer.json": 497438,
+   "tokenizer_config.json": 373,
+   "vocab.txt": 251003
+  },
+  "lisans": "mit",
+  "pipeline": "token-classification",
+  "eksik": [
+   "gliner_config.json",
+   "chat_template.jinja"
+  ]
+ },
+ "akdeniz27/xlm-roberta-base-turkish-ner": {
+  "dosyalar": {
+   ".gitattributes": 1229,
+   "README.md": 1265,
+   "config.json": 988,
+   "model.safetensors": 1109862012,
+   "pytorch_model.bin": 1109918449,
+   "sentencepiece.bpe.model": 5069051,
+   "special_tokens_map.json": 239,
+   "tokenizer.json": 9081351,
+   "tokenizer_config.json": 398
+  },
+  "lisans": "mit",
+  "pipeline": "token-classification",
+  "eksik": [
+   "gliner_config.json",
+   "chat_template.jinja"
+  ]
+ },
+ "OpenMed/OpenMed-PII-Turkish-BiomedELECTRA-Large-335M-v1": {
+  "dosyalar": {
+   ".gitattributes": 1519,
+   "README.md": 2244,
+   "all_results.json": 971,
+   "classification_report.txt": 3366,
+   "config.json": 4331,
+   "eval_results.json": 403,
+   "model.safetensors": 1336727568,
+   "test_results.json": 386,
+   "tokenizer.json": 679001,
+   "tokenizer_config.json": 379,
+   "train_results.json": 204
+  },
+  "lisans": "apache-2.0",
+  "pipeline": "token-classification",
+  "eksik": [
+   "gliner_config.json",
+   "chat_template.jinja"
+  ]
+ },
+ "halilneed/turkish-pii-detection": {
+  "dosyalar": {
+   ".gitattributes": 1570,
+   "README.md": 23705,
+   "chat_template.jinja": 1654,
+   "config.json": 1599,
+   "generation_config.json": 232,
+   "model.safetensors": 536223056,
+   "tokenizer.json": 33384567,
+   "tokenizer_config.json": 712
+  },
+  "lisans": "gemma",
+  "pipeline": "text-generation",
+  "eksik": [
+   "gliner_config.json"
+  ]
+ },
+ "melikegks/turkish-pii-guard-qwen2.5-1.5b": {
+  "dosyalar": {
+   ".gitattributes": 1570,
+   "README.md": 1901,
+   "chat_template.jinja": 2507,
+   "config.json": 1584,
+   "generation_config.json": 239,
+   "model.safetensors": 3087467144,
+   "tokenizer.json": 11422166,
+   "tokenizer_config.json": 7061
+  },
+  "lisans": "apache-2.0",
+  "pipeline": "text-generation",
+  "eksik": [
+   "gliner_config.json"
+  ]
+ },
+ "cagrigungor/turkish-pii-masking-benchmark": {
+  "dosyalar": {
+   ".gitattributes": 2504,
+   "README.md": 2186,
+   "benchmark_1000.csv": 424860
+  },
+  "lisans": "cc0-1.0",
+  "hata": "AttributeError(\"'DatasetInfo' object has no attribute 'pipeline_tag'\")",
+  "eksik": [
+   "config.json",
+   "tokenizer_config.json",
+   "gliner_config.json",
+   "chat_template.jinja"
+  ]
+ },
+ "urchade/gliner_multi_pii-v1": {
+  "dosyalar": {
+   ".gitattributes": 1519,
+   "README.md": 3040,
+   "gliner_config.json": 478,
+   "pytorch_model.bin": 1155900362
+  },
+  "lisans": "apache-2.0",
+  "pipeline": "token-classification",
+  "eksik": [
+   "config.json",
+   "tokenizer_config.json",
+   "chat_template.jinja"
+  ]
+ },
+ "urchade/gliner_multi-v2.1": {
+  "dosyalar": {
+   ".gitattributes": 1519,
+   "README.md": 4770,
+   "gliner_config.json": 477,
+   "model.safetensors": 1155830112,
+   "pytorch_model.bin": 1155900362
+  },
+  "lisans": "apache-2.0",
+  "pipeline": "token-classification",
+  "eksik": [
+   "config.json",
+   "tokenizer_config.json",
+   "chat_template.jinja"
+  ]
+ }
+}
