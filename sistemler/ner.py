@@ -16,32 +16,62 @@ torch.set_num_threads(1)  # tarayıcıdaki tek iş parçacığına yakın ölç�
 
 veri = sys.argv[1]
 kayitlar = [json.loads(s) for s in open(veri, encoding="utf-8")]
-os.makedirs("tahmin", exist_ok=True)
+CIKTI = "tahmin/" + os.path.basename(veri).removesuffix(".jsonl")
+os.makedirs(CIKTI, exist_ok=True)
 os.makedirs("ci-out", exist_ok=True)
 hiz_yol = "ci-out/hiz.json"
 hiz = json.load(open(hiz_yol)) if os.path.exists(hiz_yol) else {}
 api = HfApi()
 
+# "first": model kartının önerdiği toplama. "birlesik": ham token etiketleri,
+# yalnızca boşluk/hiçbir şeyle ayrılan bitişik varlık token'ları tek parça yapılır.
+# İlk koşuda "first" e-postaları ve parantezleri yanlış böldüğü için ikisi de ölçülür.
+MOD = os.environ.get("NER_MOD", "first")
+
+
+def birlestir(metin, tokenlar):
+    parcalar = []
+    for t in tokenlar:
+        if t["entity"] == "O" or t.get("start") is None:
+            continue
+        bas, son = int(t["start"]), int(t["end"])
+        tur = t["entity"].split("-", 1)[-1]
+        if parcalar:
+            onceki = parcalar[-1]
+            ara = metin[onceki["son"]:bas]
+            ayni_kelime = bas <= onceki["son"] or ara == ""
+            devam = ara.strip() == "" and onceki["tur"] == tur and not t["entity"].startswith("B-")
+            if ayni_kelime or devam:
+                onceki["son"] = max(onceki["son"], son)
+                continue
+        parcalar.append({"bas": bas, "son": son, "tur": tur, "skor": float(t["score"])})
+    return parcalar
+
+
 for model in sys.argv[2:]:
-    ad = model.split("/")[-1]
+    ad = model.split("/")[-1] + ("" if MOD == "first" else "__" + MOD)
     try:
-        p = pipeline("token-classification", model=model, aggregation_strategy="first", device=-1)
+        p = pipeline("token-classification", model=model, device=-1,
+                     aggregation_strategy="first" if MOD == "first" else "none")
     except Exception as e:  # noqa: BLE001
         print(model, "YÜKLENEMEDİ", repr(e))
         continue
     parametre = sum(x.numel() for x in p.model.parameters())
     sureler = []
-    with open(f"tahmin/{ad}.jsonl", "w", encoding="utf-8") as out:
+    with open(f"{CIKTI}/{ad}.jsonl", "w", encoding="utf-8") as out:
         for k in kayitlar:
             t0 = time.perf_counter()
             sonuc = p(k["metin"])
             sureler.append(time.perf_counter() - t0)
-            tah = [{"bas": int(r["start"]), "son": int(r["end"]), "tur": r["entity_group"], "skor": float(r["score"])}
-                   for r in sonuc]
+            if MOD == "first":
+                tah = [{"bas": int(r["start"]), "son": int(r["end"]), "tur": r["entity_group"], "skor": float(r["score"])}
+                       for r in sonuc]
+            else:
+                tah = birlestir(k["metin"], sonuc)
             out.write(json.dumps({"id": k["id"], "tahminler": tah}, ensure_ascii=False) + "\n")
     sureler.sort()
-    hiz[ad] = {"model": model, "parametre": parametre, "ms_ortanca": 1000 * sureler[len(sureler) // 2],
+    hiz[f"{os.path.basename(CIKTI)}/{ad}"] = {"model": model, "parametre": parametre, "ms_ortanca": 1000 * sureler[len(sureler) // 2],
                "ms_ortalama": 1000 * sum(sureler) / len(sureler), "etiketler": sorted(set(p.model.config.id2label.values()))}
-    print(model, json.dumps(hiz[ad], ensure_ascii=False))
+    print(model, json.dumps(hiz[f"{os.path.basename(CIKTI)}/{ad}"], ensure_ascii=False))
     del p
     json.dump(hiz, open(hiz_yol, "w"), ensure_ascii=False, indent=1)

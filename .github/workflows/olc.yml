@@ -44,6 +44,6 @@ jobs:
         run: |
           git config user.name "melisayalcinkaya"
           git config user.email "melisa.yalcinkaya22@gmail.com"
-          git add -A ci-out tahmin || true
+          git add -A ci-out tahmin veri || true
           git commit -m "chore: measurement output [skip ci]" || exit 0
           for i in 1 2 3; do git pull --rebase && git push && break; sleep 5; done
