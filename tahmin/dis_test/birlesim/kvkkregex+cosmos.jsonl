@@ -1,0 +1,550 @@
+{"id": "d1", "tahminler": [{"bas": 0, "son": 13, "tur": "ADRES"}, {"bas": 13, "son": 27, "tur": "ADRES"}, {"bas": 0, "son": 12, "tur": "ADRES", "skor": 0.9630288481712341}, {"bas": 14, "son": 52, "tur": "ADRES", "skor": 0.9203068017959595}]}
+{"id": "d2", "tahminler": [{"bas": 46, "son": 56, "tur": "KIMLIK_BELGE_NO", "skor": 0.3288896977901459}]}
+{"id": "d3", "tahminler": [{"bas": 8, "son": 18, "tur": "KISI_AD_SOYAD", "skor": 0.7891771197319031}]}
+{"id": "d4", "tahminler": [{"bas": 75, "son": 92, "tur": "ETTN_EFATURA_ID", "skor": 0.5321686863899231}, {"bas": 119, "son": 135, "tur": "KART_NO", "skor": 0.9954044818878174}, {"bas": 141, "son": 147, "tur": "POSTA_KODU", "skor": 0.2770572900772095}]}
+{"id": "d5", "tahminler": [{"bas": 43, "son": 52, "tur": "PASAPORT_TR"}, {"bas": 119, "son": 130, "tur": "TC_KIMLIK"}, {"bas": 43, "son": 52, "tur": "PASAPORT_NO", "skor": 0.9987263083457947}, {"bas": 104, "son": 115, "tur": "KISI_AD_SOYAD", "skor": 0.9974920749664307}, {"bas": 119, "son": 130, "tur": "TCKN", "skor": 0.9996912479400635}, {"bas": 156, "son": 171, "tur": "SAGLIK_BILGISI", "skor": 0.9925215244293213}, {"bas": 238, "son": 246, "tur": "VKN", "skor": 0.3711121678352356}, {"bas": 292, "son": 298, "tur": "KIMLIK_BELGE_NO", "skor": 0.5298835039138794}, {"bas": 347, "son": 360, "tur": "SAGLIK_BILGISI", "skor": 0.8277103304862976}]}
+{"id": "d6", "tahminler": [{"bas": 31, "son": 45, "tur": "TC_KIMLIK"}, {"bas": 31, "son": 34, "tur": "HESAP_NO", "skor": 0.43106555938720703}, {"bas": 34, "son": 35, "tur": "KART_NO", "skor": 0.300842821598053}, {"bas": 38, "son": 43, "tur": "KIMLIK_BELGE_NO", "skor": 0.36368516087532043}, {"bas": 55, "son": 64, "tur": "KISI_AD_SOYAD", "skor": 0.9977782964706421}, {"bas": 77, "son": 85, "tur": "KIMLIK_BELGE_NO", "skor": 0.9695539474487305}, {"bas": 98, "son": 106, "tur": "KIMLIK_BELGE_NO", "skor": 0.954733669757843}]}
+{"id": "d7", "tahminler": [{"bas": 8, "son": 19, "tur": "KISI_AD_SOYAD", "skor": 0.8562443852424622}, {"bas": 29, "son": 40, "tur": "KISI_AD_SOYAD", "skor": 0.9195692539215088}]}
+{"id": "d8", "tahminler": [{"bas": 39, "son": 48, "tur": "KISI_AD_SOYAD", "skor": 0.8027451038360596}]}
+{"id": "d9", "tahminler": [{"bas": 65, "son": 76, "tur": "TC_KIMLIK"}, {"bas": 50, "son": 61, "tur": "KISI_AD_SOYAD", "skor": 0.9985082149505615}, {"bas": 65, "son": 76, "tur": "TCKN", "skor": 0.953873872756958}, {"bas": 92, "son": 102, "tur": "KISI_AD_SOYAD", "skor": 0.9974415302276611}, {"bas": 114, "son": 117, "tur": "KART_CVV", "skor": 0.7039134502410889}]}
+{"id": "d10", "tahminler": [{"bas": 8, "son": 18, "tur": "KISI_AD_SOYAD", "skor": 0.9968999624252319}, {"bas": 19, "son": 34, "tur": "TUZEL_KISI", "skor": 0.9785165786743164}, {"bas": 106, "son": 135, "tur": "IBAN_TR", "skor": 0.988631010055542}, {"bas": 144, "son": 154, "tur": "KISI_AD_SOYAD", "skor": 0.9968723654747009}]}
+{"id": "d11", "tahminler": [{"bas": 34, "son": 85, "tur": "ADRES", "skor": 0.9698944091796875}, {"bas": 86, "son": 89, "tur": "TELEFON", "skor": 0.9386483430862427}, {"bas": 90, "son": 105, "tur": "TELEFON", "skor": 0.9694458842277527}]}
+{"id": "d12", "tahminler": [{"bas": 66, "son": 77, "tur": "TC_KIMLIK"}, {"bas": 50, "son": 62, "tur": "KISI_AD_SOYAD", "skor": 0.9981871843338013}, {"bas": 66, "son": 77, "tur": "TCKN", "skor": 0.9870985150337219}, {"bas": 123, "son": 133, "tur": "KISI_AD_SOYAD", "skor": 0.9919029474258423}]}
+{"id": "d13", "tahminler": [{"bas": 44, "son": 58, "tur": "TC_KIMLIK"}, {"bas": 63, "son": 76, "tur": "IP_ADRESI"}, {"bas": 44, "son": 47, "tur": "KART_NO", "skor": 0.5659968852996826}, {"bas": 48, "son": 51, "tur": "KART_NO", "skor": 0.4070415198802948}, {"bas": 55, "son": 56, "tur": "KIMLIK_BELGE_NO", "skor": 0.5953206419944763}, {"bas": 63, "son": 65, "tur": "IP_ADRES", "skor": 0.9504510760307312}, {"bas": 99, "son": 107, "tur": "VKN", "skor": 0.23590192198753357}, {"bas": 119, "son": 120, "tur": "SAGLIK_BILGISI", "skor": 0.5299719572067261}, {"bas": 137, "son": 140, "tur": "KART_CVV", "skor": 0.9965820908546448}]}
+{"id": "d14", "tahminler": [{"bas": 42, "son": 46, "tur": "HESAP_NO", "skor": 0.637565553188324}]}
+{"id": "d15", "tahminler": [{"bas": 41, "son": 50, "tur": "PLAKA_TR"}, {"bas": 41, "son": 50, "tur": "PLAKA", "skor": 0.7280268669128418}, {"bas": 61, "son": 63, "tur": "KIMLIK_BELGE_NO", "skor": 0.5729504823684692}]}
+{"id": "d16", "tahminler": [{"bas": 52, "son": 61, "tur": "PLAKA_TR"}, {"bas": 88, "son": 107, "tur": "KREDI_KARTI"}, {"bas": 108, "son": 132, "tur": "ADRES"}, {"bas": 133, "son": 157, "tur": "ADRES"}, {"bas": 36, "son": 44, "tur": "KIMLIK_BELGE_NO", "skor": 0.8685624003410339}, {"bas": 52, "son": 61, "tur": "PLAKA", "skor": 0.9960362315177917}, {"bas": 88, "son": 107, "tur": "KART_NO", "skor": 0.971011221408844}, {"bas": 116, "son": 132, "tur": "ADRES", "skor": 0.9808053374290466}, {"bas": 134, "son": 172, "tur": "ADRES", "skor": 0.9688969254493713}, {"bas": 188, "son": 198, "tur": "SAGLIK_BILGISI", "skor": 0.5930958986282349}]}
+{"id": "d17", "tahminler": [{"bas": 23, "son": 38, "tur": "IP_ADRESI"}]}
+{"id": "d18", "tahminler": [{"bas": 43, "son": 52, "tur": "PASAPORT_TR"}, {"bas": 43, "son": 52, "tur": "PASAPORT_NO", "skor": 0.9100214838981628}]}
+{"id": "d19", "tahminler": []}
+{"id": "d20", "tahminler": []}
+{"id": "d21", "tahminler": []}
+{"id": "d22", "tahminler": [{"bas": 0, "son": 11, "tur": "TC_KIMLIK"}]}
+{"id": "d23", "tahminler": []}
+{"id": "d24", "tahminler": [{"bas": 57, "son": 71, "tur": "TC_KIMLIK"}]}
+{"id": "d25", "tahminler": [{"bas": 50, "son": 63, "tur": "KISI_AD_SOYAD", "skor": 0.9847785234451294}, {"bas": 67, "son": 71, "tur": "TCKN", "skor": 0.4451567530632019}, {"bas": 72, "son": 80, "tur": "KART_NO", "skor": 0.70549476146698}]}
+{"id": "d26", "tahminler": []}
+{"id": "d27", "tahminler": [{"bas": 8, "son": 18, "tur": "KISI_AD_SOYAD", "skor": 0.9839586019515991}, {"bas": 19, "son": 39, "tur": "TUZEL_KISI", "skor": 0.8174554705619812}]}
+{"id": "d28", "tahminler": []}
+{"id": "d29", "tahminler": [{"bas": 48, "son": 57, "tur": "PASAPORT_TR"}]}
+{"id": "d30", "tahminler": [{"bas": 41, "son": 52, "tur": "PLAKA_TR"}, {"bas": 230, "son": 239, "tur": "PASAPORT_TR"}, {"bas": 245, "son": 261, "tur": "KREDI_KARTI"}, {"bas": 41, "son": 52, "tur": "PLAKA", "skor": 0.9949009418487549}, {"bas": 63, "son": 65, "tur": "KIMLIK_BELGE_NO", "skor": 0.7056478261947632}, {"bas": 66, "son": 72, "tur": "PLAKA", "skor": 0.6203497648239136}, {"bas": 101, "son": 116, "tur": "KART_NO", "skor": 0.9136587381362915}, {"bas": 127, "son": 129, "tur": "KART_SON_KULLANMA", "skor": 0.9619335532188416}, {"bas": 130, "son": 134, "tur": "KART_CVV", "skor": 0.4027214050292969}, {"bas": 136, "son": 138, "tur": "KART_SON_KULLANMA", "skor": 0.8003190159797668}, {"bas": 139, "son": 143, "tur": "KART_CVV", "skor": 0.7621508240699768}, {"bas": 187, "son": 196, "tur": "PASAPORT_NO", "skor": 0.997857391834259}, {"bas": 230, "son": 239, "tur": "PASAPORT_NO", "skor": 0.9761099815368652}, {"bas": 245, "son": 261, "tur": "KART_NO", "skor": 0.9984992742538452}]}
+{"id": "d31", "tahminler": [{"bas": 102, "son": 106, "tur": "HESAP_NO", "skor": 0.8182604908943176}, {"bas": 126, "son": 134, "tur": "KIMLIK_BELGE_NO", "skor": 0.9465125799179077}, {"bas": 145, "son": 148, "tur": "KISI_AD_SOYAD", "skor": 0.9770100116729736}, {"bas": 162, "son": 166, "tur": "HESAP_NO", "skor": 0.9944272041320801}, {"bas": 166, "son": 167, "tur": "KIMLIK_BELGE_NO", "skor": 0.4412345886230469}, {"bas": 268, "son": 272, "tur": "DOGUM_TARIHI", "skor": 0.3942566514015198}]}
+{"id": "d32", "tahminler": [{"bas": 37, "son": 58, "tur": "EMAIL"}, {"bas": 7, "son": 16, "tur": "KISI_AD_SOYAD", "skor": 0.9690310955047607}, {"bas": 37, "son": 48, "tur": "EMAIL", "skor": 0.9313199520111084}, {"bas": 49, "son": 55, "tur": "EMAIL", "skor": 0.5262065529823303}]}
+{"id": "d33", "tahminler": [{"bas": 39, "son": 58, "tur": "EMAIL"}, {"bas": 7, "son": 19, "tur": "KISI_AD_SOYAD", "skor": 0.9962903261184692}, {"bas": 39, "son": 48, "tur": "EMAIL", "skor": 0.9402206540107727}, {"bas": 54, "son": 55, "tur": "EMAIL", "skor": 0.4704190194606781}]}
+{"id": "d34", "tahminler": [{"bas": 0, "son": 26, "tur": "IBAN_TR", "skor": 0.990413248538971}]}
+{"id": "d35", "tahminler": []}
+{"id": "d36", "tahminler": [{"bas": 16, "son": 19, "tur": "KART_CVV", "skor": 0.9491502642631531}, {"bas": 26, "son": 30, "tur": "KART_CVV", "skor": 0.5519450902938843}]}
+{"id": "d37", "tahminler": [{"bas": 23, "son": 37, "tur": "IP_ADRESI"}]}
+{"id": "d38", "tahminler": []}
+{"id": "d39", "tahminler": []}
+{"id": "d40", "tahminler": [{"bas": 0, "son": 11, "tur": "TC_KIMLIK"}, {"bas": 0, "son": 11, "tur": "TCKN", "skor": 0.8539069890975952}]}
+{"id": "d41", "tahminler": [{"bas": 41, "son": 52, "tur": "PLAKA_TR"}, {"bas": 41, "son": 43, "tur": "PLAKA", "skor": 0.7845699787139893}]}
+{"id": "d42", "tahminler": [{"bas": 27, "son": 42, "tur": "KART_NO", "skor": 0.5504854321479797}]}
+{"id": "d43", "tahminler": [{"bas": 8, "son": 20, "tur": "KISI_AD_SOYAD", "skor": 0.8986279368400574}]}
+{"id": "d44", "tahminler": [{"bas": 224, "son": 247, "tur": "EMAIL"}, {"bas": 50, "son": 64, "tur": "KISI_AD_SOYAD", "skor": 0.9980210065841675}, {"bas": 68, "son": 73, "tur": "KIMLIK_BELGE_NO", "skor": 0.3712853789329529}, {"bas": 174, "son": 184, "tur": "TCKN", "skor": 0.68940669298172}, {"bas": 224, "son": 236, "tur": "EMAIL", "skor": 0.9513450264930725}, {"bas": 237, "son": 244, "tur": "EMAIL", "skor": 0.7288769483566284}, {"bas": 277, "son": 286, "tur": "KIMLIK_BELGE_NO", "skor": 0.9871690273284912}, {"bas": 296, "son": 309, "tur": "KISI_AD_SOYAD", "skor": 0.9978733658790588}, {"bas": 310, "son": 328, "tur": "TUZEL_KISI", "skor": 0.9721014499664307}]}
+{"id": "d45", "tahminler": [{"bas": 225, "son": 244, "tur": "EMAIL"}, {"bas": 407, "son": 416, "tur": "PASAPORT_TR"}, {"bas": 65, "son": 79, "tur": "DOGUM_TARIHI", "skor": 0.9977566599845886}, {"bas": 97, "son": 100, "tur": "KART_CVV", "skor": 0.9952080845832825}, {"bas": 107, "son": 111, "tur": "KART_CVV", "skor": 0.9627371430397034}, {"bas": 172, "son": 184, "tur": "KISI_AD_SOYAD", "skor": 0.9918985366821289}, {"bas": 225, "son": 241, "tur": "EMAIL", "skor": 0.88872230052948}, {"bas": 274, "son": 283, "tur": "KIMLIK_BELGE_NO", "skor": 0.9771445393562317}, {"bas": 306, "son": 348, "tur": "ETTN_EFATURA_ID", "skor": 0.9869616031646729}, {"bas": 407, "son": 416, "tur": "PASAPORT_NO", "skor": 0.9974905252456665}]}
+{"id": "d46", "tahminler": [{"bas": 57, "son": 92, "tur": "ADRES"}, {"bas": 92, "son": 110, "tur": "ADRES"}, {"bas": 8, "son": 19, "tur": "KISI_AD_SOYAD", "skor": 0.9949836730957031}, {"bas": 20, "son": 39, "tur": "TUZEL_KISI", "skor": 0.9891397356987}, {"bas": 75, "son": 127, "tur": "ADRES", "skor": 0.891581118106842}]}
+{"id": "d47", "tahminler": [{"bas": 122, "son": 133, "tur": "TC_KIMLIK"}, {"bas": 145, "son": 166, "tur": "EMAIL"}, {"bas": 56, "son": 64, "tur": "KISI_AD_SOYAD", "skor": 0.9945589900016785}, {"bas": 74, "son": 83, "tur": "KIMLIK_BELGE_NO", "skor": 0.5308484435081482}, {"bas": 122, "son": 133, "tur": "TCKN", "skor": 0.9990665316581726}, {"bas": 145, "son": 163, "tur": "EMAIL", "skor": 0.6907037496566772}, {"bas": 178, "son": 181, "tur": "KIMLIK_BELGE_NO", "skor": 0.8768148422241211}, {"bas": 186, "son": 187, "tur": "KIMLIK_BELGE_NO", "skor": 0.31072720885276794}]}
+{"id": "d48", "tahminler": [{"bas": 22, "son": 39, "tur": "KIMLIK_BELGE_NO", "skor": 0.5206700563430786}]}
+{"id": "d49", "tahminler": [{"bas": 32, "son": 45, "tur": "IP_ADRESI"}, {"bas": 101, "son": 125, "tur": "EMAIL"}, {"bas": 32, "son": 34, "tur": "IP_ADRES", "skor": 0.9754087328910828}, {"bas": 34, "son": 35, "tur": "IP_ADRES", "skor": 0.2083013951778412}, {"bas": 41, "son": 42, "tur": "KIMLIK_BELGE_NO", "skor": 0.27343618869781494}, {"bas": 56, "son": 62, "tur": "KIMLIK_BELGE_NO", "skor": 0.7860570549964905}, {"bas": 71, "son": 87, "tur": "KART_NO", "skor": 0.737707257270813}, {"bas": 101, "son": 114, "tur": "EMAIL", "skor": 0.9223392009735107}, {"bas": 115, "son": 121, "tur": "EMAIL", "skor": 0.616880476474762}, {"bas": 138, "son": 146, "tur": "KIMLIK_BELGE_NO", "skor": 0.6657297015190125}]}
+{"id": "d50", "tahminler": []}
+{"id": "d51", "tahminler": [{"bas": 46, "son": 67, "tur": "ADRES"}, {"bas": 68, "son": 90, "tur": "ADRES"}, {"bas": 40, "son": 45, "tur": "KISI_AD_SOYAD", "skor": 0.9665164351463318}, {"bas": 54, "son": 95, "tur": "ADRES", "skor": 0.9892982840538025}, {"bas": 96, "son": 113, "tur": "ADRES", "skor": 0.9955045580863953}, {"bas": 125, "son": 135, "tur": "KIMLIK_BELGE_NO", "skor": 0.8697711825370789}, {"bas": 147, "son": 149, "tur": "KIMLIK_BELGE_NO", "skor": 0.8833133578300476}, {"bas": 196, "son": 210, "tur": "DOGUM_TARIHI", "skor": 0.9976583123207092}]}
+{"id": "d52", "tahminler": [{"bas": 14, "son": 19, "tur": "KISI_AD_SOYAD", "skor": 0.5890526175498962}]}
+{"id": "d53", "tahminler": []}
+{"id": "d54", "tahminler": [{"bas": 23, "son": 37, "tur": "IP_ADRESI"}]}
+{"id": "d55", "tahminler": [{"bas": 47, "son": 57, "tur": "KIMLIK_BELGE_NO", "skor": 0.5877306461334229}]}
+{"id": "d56", "tahminler": [{"bas": 102, "son": 116, "tur": "IP_ADRESI"}, {"bas": 21, "son": 63, "tur": "ETTN_EFATURA_ID", "skor": 0.9579166173934937}, {"bas": 102, "son": 105, "tur": "IP_ADRES", "skor": 0.9978540539741516}, {"bas": 207, "son": 229, "tur": "SAGLIK_BILGISI", "skor": 0.9858536720275879}]}
+{"id": "d57", "tahminler": []}
+{"id": "d58", "tahminler": [{"bas": 20, "son": 23, "tur": "EMAIL", "skor": 0.9861094355583191}, {"bas": 69, "son": 78, "tur": "KIMLIK_BELGE_NO", "skor": 0.9853217601776123}, {"bas": 117, "son": 127, "tur": "VKN", "skor": 0.845713198184967}, {"bas": 170, "son": 177, "tur": "SAGLIK_BILGISI", "skor": 0.6490745544433594}, {"bas": 248, "son": 258, "tur": "TCKN", "skor": 0.46479490399360657}, {"bas": 294, "son": 307, "tur": "KISI_AD_SOYAD", "skor": 0.9886813163757324}]}
+{"id": "d59", "tahminler": [{"bas": 38, "son": 43, "tur": "KISI_AD_SOYAD", "skor": 0.9262685179710388}, {"bas": 54, "son": 66, "tur": "HESAP_NO", "skor": 0.6153441071510315}, {"bas": 66, "son": 67, "tur": "KIMLIK_BELGE_NO", "skor": 0.5625696778297424}, {"bas": 107, "son": 115, "tur": "SURUCU_BELGESI_NO", "skor": 0.6047694087028503}, {"bas": 190, "son": 217, "tur": "TUZEL_KISI", "skor": 0.897803008556366}]}
+{"id": "d60", "tahminler": [{"bas": 91, "son": 99, "tur": "KIMLIK_BELGE_NO", "skor": 0.8897827863693237}, {"bas": 109, "son": 121, "tur": "KISI_AD_SOYAD", "skor": 0.9951188564300537}, {"bas": 122, "son": 138, "tur": "TUZEL_KISI", "skor": 0.9921348094940186}, {"bas": 139, "son": 141, "tur": "TUZEL_KISI", "skor": 0.9331826567649841}, {"bas": 179, "son": 190, "tur": "KISI_AD_SOYAD", "skor": 0.9981197714805603}, {"bas": 202, "son": 206, "tur": "KART_CVV", "skor": 0.898579478263855}]}
+{"id": "d61", "tahminler": [{"bas": 24, "son": 37, "tur": "IP_ADRESI"}, {"bas": 26, "son": 27, "tur": "KIMLIK_BELGE_NO", "skor": 0.7162756323814392}, {"bas": 29, "son": 30, "tur": "KIMLIK_BELGE_NO", "skor": 0.5332241654396057}, {"bas": 52, "son": 54, "tur": "DOGUM_TARIHI", "skor": 0.9973217844963074}, {"bas": 55, "son": 62, "tur": "DOGUM_TARIHI", "skor": 0.87852543592453}, {"bas": 73, "son": 83, "tur": "KIMLIK_BELGE_NO", "skor": 0.9568318724632263}, {"bas": 94, "son": 97, "tur": "KISI_AD_SOYAD", "skor": 0.9971259236335754}, {"bas": 107, "son": 122, "tur": "KISI_AD_SOYAD", "skor": 0.9830465912818909}]}
+{"id": "d62", "tahminler": []}
+{"id": "d63", "tahminler": [{"bas": 0, "son": 55, "tur": "ADRES", "skor": 0.9511116147041321}]}
+{"id": "d64", "tahminler": []}
+{"id": "d65", "tahminler": [{"bas": 41, "son": 52, "tur": "PLAKA_TR"}]}
+{"id": "d66", "tahminler": [{"bas": 8, "son": 21, "tur": "KISI_AD_SOYAD", "skor": 0.857332706451416}, {"bas": 31, "son": 41, "tur": "KISI_AD_SOYAD", "skor": 0.819207489490509}]}
+{"id": "d67", "tahminler": []}
+{"id": "d68", "tahminler": [{"bas": 275, "son": 289, "tur": "TC_KIMLIK"}, {"bas": 24, "son": 49, "tur": "SAGLIK_BILGISI", "skor": 0.8081299066543579}, {"bas": 117, "son": 127, "tur": "HESAP_NO", "skor": 0.895358145236969}, {"bas": 168, "son": 202, "tur": "ETTN_EFATURA_ID", "skor": 0.8698195219039917}, {"bas": 275, "son": 278, "tur": "KART_NO", "skor": 0.5249077081680298}, {"bas": 312, "son": 327, "tur": "TELEFON", "skor": 0.9371905326843262}, {"bas": 379, "son": 383, "tur": "HESAP_NO", "skor": 0.9995417594909668}, {"bas": 384, "son": 390, "tur": "KART_NO", "skor": 0.8777609467506409}]}
+{"id": "d69", "tahminler": [{"bas": 0, "son": 23, "tur": "EMAIL"}, {"bas": 0, "son": 7, "tur": "EMAIL", "skor": 0.9960348010063171}, {"bas": 41, "son": 55, "tur": "KISI_AD_SOYAD", "skor": 0.9341498017311096}]}
+{"id": "d70", "tahminler": [{"bas": 37, "son": 47, "tur": "HESAP_NO", "skor": 0.5702029466629028}]}
+{"id": "d71", "tahminler": [{"bas": 32, "son": 45, "tur": "KART_NO", "skor": 0.3919772505760193}]}
+{"id": "d72", "tahminler": []}
+{"id": "d73", "tahminler": [{"bas": 32, "son": 41, "tur": "PASAPORT_TR"}]}
+{"id": "d74", "tahminler": [{"bas": 154, "son": 168, "tur": "IP_ADRESI"}, {"bas": 179, "son": 190, "tur": "TELEFON_TR"}, {"bas": 34, "son": 68, "tur": "ETTN_EFATURA_ID", "skor": 0.6991451382637024}, {"bas": 79, "son": 84, "tur": "KISI_AD_SOYAD", "skor": 0.9973611235618591}, {"bas": 135, "son": 149, "tur": "EMAIL", "skor": 0.9607409834861755}, {"bas": 154, "son": 156, "tur": "IP_ADRES", "skor": 0.9502948522567749}, {"bas": 156, "son": 157, "tur": "VKN", "skor": 0.2434738427400589}, {"bas": 157, "son": 160, "tur": "IP_ADRES", "skor": 0.591887891292572}, {"bas": 160, "son": 161, "tur": "EMAIL", "skor": 0.5654558539390564}, {"bas": 164, "son": 165, "tur": "EMAIL", "skor": 0.5123842358589172}, {"bas": 179, "son": 190, "tur": "TELEFON", "skor": 0.9941360950469971}]}
+{"id": "d75", "tahminler": []}
+{"id": "d76", "tahminler": [{"bas": 23, "son": 37, "tur": "IP_ADRESI"}]}
+{"id": "d77", "tahminler": [{"bas": 36, "son": 62, "tur": "IBAN_TR", "skor": 0.9993564486503601}, {"bas": 68, "son": 80, "tur": "KISI_AD_SOYAD", "skor": 0.9878460764884949}]}
+{"id": "d78", "tahminler": [{"bas": 66, "son": 80, "tur": "TC_KIMLIK"}, {"bas": 50, "son": 62, "tur": "KISI_AD_SOYAD", "skor": 0.998640239238739}, {"bas": 77, "son": 78, "tur": "KIMLIK_BELGE_NO", "skor": 0.5998197793960571}, {"bas": 195, "son": 208, "tur": "KISI_AD_SOYAD", "skor": 0.99818354845047}]}
+{"id": "d79", "tahminler": [{"bas": 8, "son": 22, "tur": "KISI_AD_SOYAD", "skor": 0.9896143674850464}, {"bas": 23, "son": 47, "tur": "TUZEL_KISI", "skor": 0.9868850111961365}, {"bas": 83, "son": 94, "tur": "KISI_AD_SOYAD", "skor": 0.9790670871734619}, {"bas": 107, "son": 116, "tur": "KISI_AD_SOYAD", "skor": 0.9877928495407104}]}
+{"id": "d80", "tahminler": [{"bas": 67, "son": 78, "tur": "TC_KIMLIK"}, {"bas": 50, "son": 63, "tur": "KISI_AD_SOYAD", "skor": 0.9962515830993652}, {"bas": 67, "son": 78, "tur": "TCKN", "skor": 0.9693399667739868}, {"bas": 86, "son": 97, "tur": "KISI_AD_SOYAD", "skor": 0.9930251836776733}, {"bas": 110, "son": 121, "tur": "KISI_AD_SOYAD", "skor": 0.8333938717842102}]}
+{"id": "d81", "tahminler": [{"bas": 39, "son": 49, "tur": "KIMLIK_BELGE_NO", "skor": 0.9126672744750977}, {"bas": 64, "son": 66, "tur": "DOGUM_TARIHI", "skor": 0.9926800727844238}, {"bas": 67, "son": 74, "tur": "DOGUM_TARIHI", "skor": 0.5897260308265686}]}
+{"id": "d82", "tahminler": [{"bas": 0, "son": 9, "tur": "KIMLIK_BELGE_NO", "skor": 0.5536858439445496}]}
+{"id": "d83", "tahminler": [{"bas": 42, "son": 46, "tur": "HESAP_NO", "skor": 0.47251367568969727}]}
+{"id": "d84", "tahminler": [{"bas": 122, "son": 132, "tur": "PLAKA_TR"}, {"bas": 52, "son": 60, "tur": "KIMLIK_BELGE_NO", "skor": 0.8526344299316406}, {"bas": 84, "son": 87, "tur": "KIMLIK_BELGE_NO", "skor": 0.7441165447235107}, {"bas": 122, "son": 132, "tur": "PLAKA", "skor": 0.9780418872833252}]}
+{"id": "d85", "tahminler": [{"bas": 83, "son": 118, "tur": "ADRES"}, {"bas": 118, "son": 141, "tur": "ADRES"}, {"bas": 162, "son": 173, "tur": "TELEFON_TR"}, {"bas": 8, "son": 20, "tur": "KISI_AD_SOYAD", "skor": 0.997941255569458}, {"bas": 32, "son": 35, "tur": "KART_CVV", "skor": 0.7804334163665771}, {"bas": 105, "son": 139, "tur": "ADRES", "skor": 0.9851723909378052}, {"bas": 140, "son": 157, "tur": "ADRES", "skor": 0.9837756156921387}, {"bas": 162, "son": 173, "tur": "TELEFON", "skor": 0.9995763897895813}]}
+{"id": "d86", "tahminler": [{"bas": 119, "son": 141, "tur": "EMAIL"}, {"bas": 230, "son": 246, "tur": "ADRES"}, {"bas": 247, "son": 261, "tur": "ADRES"}, {"bas": 38, "son": 62, "tur": "TUZEL_KISI", "skor": 0.9986183047294617}, {"bas": 75, "son": 84, "tur": "KIMLIK_BELGE_NO", "skor": 0.9903056621551514}, {"bas": 92, "son": 94, "tur": "IP_ADRES", "skor": 0.8123812079429626}, {"bas": 101, "son": 103, "tur": "IP_ADRES", "skor": 0.26659274101257324}, {"bas": 119, "son": 130, "tur": "EMAIL", "skor": 0.8289527893066406}, {"bas": 137, "son": 138, "tur": "EMAIL", "skor": 0.6164044141769409}, {"bas": 189, "son": 193, "tur": "KIMLIK_BELGE_NO", "skor": 0.5180642008781433}, {"bas": 214, "son": 229, "tur": "TELEFON", "skor": 0.9812777638435364}, {"bas": 238, "son": 279, "tur": "ADRES", "skor": 0.9922447204589844}, {"bas": 280, "son": 295, "tur": "ADRES", "skor": 0.9946840405464172}, {"bas": 316, "son": 320, "tur": "KISI_AD_SOYAD", "skor": 0.976947546005249}]}
+{"id": "d87", "tahminler": []}
+{"id": "d88", "tahminler": []}
+{"id": "d89", "tahminler": [{"bas": 47, "son": 57, "tur": "HESAP_NO", "skor": 0.8434556722640991}, {"bas": 164, "son": 173, "tur": "PASAPORT_NO", "skor": 0.9916667342185974}, {"bas": 179, "son": 195, "tur": "KART_NO", "skor": 0.968052089214325}, {"bas": 371, "son": 379, "tur": "SURUCU_BELGESI_NO", "skor": 0.7413478493690491}]}
+{"id": "d90", "tahminler": [{"bas": 65, "son": 76, "tur": "TC_KIMLIK"}, {"bas": 124, "son": 133, "tur": "PASAPORT_TR"}, {"bas": 156, "son": 170, "tur": "TELEFON_TR"}, {"bas": 50, "son": 61, "tur": "KISI_AD_SOYAD", "skor": 0.9912441968917847}, {"bas": 65, "son": 76, "tur": "TCKN", "skor": 0.9955093860626221}, {"bas": 124, "son": 133, "tur": "PASAPORT_NO", "skor": 0.9977812170982361}, {"bas": 156, "son": 170, "tur": "TELEFON", "skor": 0.9957261085510254}, {"bas": 245, "son": 250, "tur": "TUZEL_KISI", "skor": 0.9419630169868469}, {"bas": 290, "son": 305, "tur": "SAGLIK_BILGISI", "skor": 0.965732216835022}]}
+{"id": "d91", "tahminler": [{"bas": 41, "son": 52, "tur": "PLAKA_TR"}, {"bas": 244, "son": 279, "tur": "ADRES"}, {"bas": 326, "son": 343, "tur": "TELEFON_TR"}, {"bas": 41, "son": 52, "tur": "PLAKA", "skor": 0.9983587265014648}, {"bas": 63, "son": 65, "tur": "KIMLIK_BELGE_NO", "skor": 0.6507384777069092}, {"bas": 66, "son": 72, "tur": "PLAKA", "skor": 0.8936644792556763}, {"bas": 101, "son": 116, "tur": "KART_NO", "skor": 0.8146413564682007}, {"bas": 127, "son": 129, "tur": "KART_SON_KULLANMA", "skor": 0.736061155796051}, {"bas": 181, "son": 213, "tur": "IBAN_TR", "skor": 0.9946314096450806}, {"bas": 219, "son": 231, "tur": "KISI_AD_SOYAD", "skor": 0.9982677698135376}, {"bas": 267, "son": 304, "tur": "ADRES", "skor": 0.9814261198043823}, {"bas": 305, "son": 321, "tur": "ADRES", "skor": 0.9876552224159241}, {"bas": 326, "son": 343, "tur": "TELEFON", "skor": 0.9970755577087402}]}
+{"id": "d92", "tahminler": [{"bas": 20, "son": 37, "tur": "EMAIL", "skor": 0.8228034377098083}, {"bas": 126, "son": 143, "tur": "KISI_AD_SOYAD", "skor": 0.9845405220985413}, {"bas": 144, "son": 163, "tur": "TUZEL_KISI", "skor": 0.9955843091011047}, {"bas": 220, "son": 235, "tur": "KART_NO", "skor": 0.6993569135665894}, {"bas": 298, "son": 306, "tur": "KIMLIK_BELGE_NO", "skor": 0.9810696840286255}, {"bas": 324, "son": 327, "tur": "KIMLIK_BELGE_NO", "skor": 0.8174523711204529}]}
+{"id": "d93", "tahminler": []}
+{"id": "d94", "tahminler": [{"bas": 74, "son": 84, "tur": "PLAKA_TR"}, {"bas": 57, "son": 66, "tur": "PASAPORT_NO", "skor": 0.9507138133049011}, {"bas": 74, "son": 84, "tur": "PLAKA", "skor": 0.9332065582275391}, {"bas": 93, "son": 120, "tur": "TUZEL_KISI", "skor": 0.9967072606086731}, {"bas": 132, "son": 144, "tur": "KISI_AD_SOYAD", "skor": 0.9617586135864258}]}
+{"id": "d95", "tahminler": []}
+{"id": "d96", "tahminler": [{"bas": 41, "son": 52, "tur": "PLAKA_TR"}, {"bas": 63, "son": 65, "tur": "KIMLIK_BELGE_NO", "skor": 0.8835102319717407}, {"bas": 211, "son": 224, "tur": "KART_NO", "skor": 0.9864163398742676}, {"bas": 255, "son": 266, "tur": "KISI_AD_SOYAD", "skor": 0.8997974395751953}]}
+{"id": "d97", "tahminler": []}
+{"id": "d98", "tahminler": [{"bas": 65, "son": 77, "tur": "IP_ADRESI"}, {"bas": 44, "son": 60, "tur": "KART_NO", "skor": 0.7054505348205566}, {"bas": 65, "son": 67, "tur": "IP_ADRES", "skor": 0.981204628944397}, {"bas": 68, "son": 71, "tur": "IP_ADRES", "skor": 0.4689202308654785}, {"bas": 74, "son": 75, "tur": "EMAIL", "skor": 0.6198780536651611}, {"bas": 97, "son": 100, "tur": "KART_CVV", "skor": 0.9975684285163879}, {"bas": 107, "son": 138, "tur": "IBAN_TR", "skor": 0.9980029463768005}, {"bas": 147, "son": 169, "tur": "TUZEL_KISI", "skor": 0.9981892108917236}, {"bas": 181, "son": 191, "tur": "KIMLIK_BELGE_NO", "skor": 0.9765066504478455}]}
+{"id": "d99", "tahminler": [{"bas": 0, "son": 4, "tur": "IBAN_TR", "skor": 0.9902783036231995}, {"bas": 10, "son": 32, "tur": "IBAN_TR", "skor": 0.6907703280448914}]}
+{"id": "d100", "tahminler": [{"bas": 86, "son": 115, "tur": "EMAIL"}, {"bas": 37, "son": 53, "tur": "KART_NO", "skor": 0.9956822395324707}, {"bas": 63, "son": 71, "tur": "SWIFT_BIC", "skor": 0.21166642010211945}, {"bas": 86, "son": 104, "tur": "EMAIL", "skor": 0.9397222399711609}, {"bas": 105, "son": 112, "tur": "EMAIL", "skor": 0.636691689491272}]}
+{"id": "d101", "tahminler": [{"bas": 64, "son": 78, "tur": "TC_KIMLIK"}, {"bas": 86, "son": 109, "tur": "EMAIL"}, {"bas": 50, "son": 60, "tur": "KISI_AD_SOYAD", "skor": 0.9985378384590149}, {"bas": 64, "son": 75, "tur": "TELEFON", "skor": 0.6117402911186218}, {"bas": 86, "son": 106, "tur": "EMAIL", "skor": 0.8033395409584045}, {"bas": 127, "son": 140, "tur": "KISI_AD_SOYAD", "skor": 0.9947448968887329}]}
+{"id": "d102", "tahminler": []}
+{"id": "d103", "tahminler": [{"bas": 8, "son": 20, "tur": "KISI_AD_SOYAD", "skor": 0.5935847163200378}, {"bas": 30, "son": 43, "tur": "KISI_AD_SOYAD", "skor": 0.7026531100273132}]}
+{"id": "d104", "tahminler": [{"bas": 8, "son": 23, "tur": "KISI_AD_SOYAD", "skor": 0.7706722021102905}, {"bas": 33, "son": 50, "tur": "KISI_AD_SOYAD", "skor": 0.9254494905471802}]}
+{"id": "d105", "tahminler": [{"bas": 32, "son": 41, "tur": "PASAPORT_NO", "skor": 0.9866509437561035}, {"bas": 145, "son": 162, "tur": "PLAKA", "skor": 0.47777652740478516}, {"bas": 169, "son": 179, "tur": "KIMLIK_BELGE_NO", "skor": 0.7277830839157104}]}
+{"id": "d106", "tahminler": [{"bas": 50, "son": 64, "tur": "KISI_AD_SOYAD", "skor": 0.9946170449256897}, {"bas": 65, "son": 67, "tur": "KIMLIK_BELGE_NO", "skor": 0.5459067821502686}, {"bas": 68, "son": 72, "tur": "TCKN", "skor": 0.36014866828918457}, {"bas": 73, "son": 81, "tur": "KART_NO", "skor": 0.3032601475715637}, {"bas": 97, "son": 107, "tur": "KISI_AD_SOYAD", "skor": 0.9884333610534668}, {"bas": 119, "son": 122, "tur": "KART_CVV", "skor": 0.8992017507553101}]}
+{"id": "d107", "tahminler": []}
+{"id": "d108", "tahminler": [{"bas": 21, "son": 38, "tur": "TELEFON_TR"}, {"bas": 21, "son": 22, "tur": "TELEFON", "skor": 0.6877715587615967}]}
+{"id": "d109", "tahminler": []}
+{"id": "d110", "tahminler": [{"bas": 0, "son": 4, "tur": "DOGUM_TARIHI", "skor": 0.917832612991333}, {"bas": 38, "son": 55, "tur": "KISI_AD_SOYAD", "skor": 0.9859001040458679}]}
+{"id": "d111", "tahminler": [{"bas": 41, "son": 52, "tur": "KISI_AD_SOYAD", "skor": 0.9837976694107056}, {"bas": 62, "son": 72, "tur": "SWIFT_BIC", "skor": 0.634393036365509}, {"bas": 154, "son": 156, "tur": "IP_ADRES", "skor": 0.7995694875717163}, {"bas": 157, "son": 159, "tur": "IP_ADRES", "skor": 0.5332265496253967}, {"bas": 160, "son": 162, "tur": "IP_ADRES", "skor": 0.5291439294815063}, {"bas": 182, "son": 187, "tur": "KISI_AD_SOYAD", "skor": 0.9410579800605774}]}
+{"id": "d112", "tahminler": []}
+{"id": "d113", "tahminler": []}
+{"id": "d114", "tahminler": [{"bas": 27, "son": 42, "tur": "KART_NO", "skor": 0.9191693663597107}]}
+{"id": "d115", "tahminler": [{"bas": 0, "son": 11, "tur": "TC_KIMLIK"}, {"bas": 0, "son": 11, "tur": "HESAP_NO", "skor": 0.28758910298347473}]}
+{"id": "d116", "tahminler": [{"bas": 184, "son": 193, "tur": "PASAPORT_TR"}, {"bas": 251, "son": 265, "tur": "TC_KIMLIK"}, {"bas": 46, "son": 56, "tur": "KIMLIK_BELGE_NO", "skor": 0.830362856388092}, {"bas": 112, "son": 118, "tur": "KIMLIK_BELGE_NO", "skor": 0.8633101582527161}, {"bas": 184, "son": 193, "tur": "PASAPORT_NO", "skor": 0.9982743263244629}, {"bas": 237, "son": 241, "tur": "HESAP_NO", "skor": 0.9440302848815918}, {"bas": 241, "son": 242, "tur": "KIMLIK_BELGE_NO", "skor": 0.3389301300048828}]}
+{"id": "d117", "tahminler": [{"bas": 13, "son": 48, "tur": "ADRES"}, {"bas": 48, "son": 61, "tur": "ADRES"}, {"bas": 34, "son": 79, "tur": "ADRES", "skor": 0.978965699672699}, {"bas": 80, "son": 97, "tur": "ADRES", "skor": 0.9747198224067688}, {"bas": 98, "son": 101, "tur": "TELEFON", "skor": 0.7502519488334656}, {"bas": 102, "son": 103, "tur": "TELEFON", "skor": 0.9961943626403809}, {"bas": 103, "son": 117, "tur": "TELEFON", "skor": 0.8736615180969238}]}
+{"id": "d118", "tahminler": []}
+{"id": "d119", "tahminler": [{"bas": 51, "son": 65, "tur": "KART_NO", "skor": 0.6618958115577698}]}
+{"id": "d120", "tahminler": [{"bas": 36, "son": 62, "tur": "IBAN_TR", "skor": 0.9972416162490845}, {"bas": 68, "son": 84, "tur": "KISI_AD_SOYAD", "skor": 0.9994062185287476}, {"bas": 100, "son": 111, "tur": "KISI_AD_SOYAD", "skor": 0.9984047412872314}, {"bas": 123, "son": 126, "tur": "KART_CVV", "skor": 0.6565040349960327}]}
+{"id": "d121", "tahminler": [{"bas": 111, "son": 123, "tur": "IP_ADRESI"}, {"bas": 135, "son": 156, "tur": "EMAIL"}, {"bas": 38, "son": 42, "tur": "KISI_AD_SOYAD", "skor": 0.9679487943649292}, {"bas": 55, "son": 59, "tur": "KART_CVV", "skor": 0.8854294419288635}, {"bas": 75, "son": 83, "tur": "SWIFT_BIC", "skor": 0.7053172588348389}, {"bas": 93, "son": 100, "tur": "IP_ADRES", "skor": 0.4860038459300995}, {"bas": 100, "son": 101, "tur": "EMAIL", "skor": 0.6242637634277344}, {"bas": 101, "son": 105, "tur": "POSTA_KODU", "skor": 0.2757473289966583}, {"bas": 105, "son": 106, "tur": "EMAIL", "skor": 0.5591689944267273}, {"bas": 111, "son": 114, "tur": "IP_ADRES", "skor": 0.9743672013282776}, {"bas": 114, "son": 115, "tur": "EMAIL", "skor": 0.2866469919681549}, {"bas": 119, "son": 120, "tur": "EMAIL", "skor": 0.4224388301372528}, {"bas": 135, "son": 153, "tur": "EMAIL", "skor": 0.7847892642021179}, {"bas": 172, "son": 176, "tur": "KIMLIK_BELGE_NO", "skor": 0.5830531120300293}]}
+{"id": "d122", "tahminler": []}
+{"id": "d123", "tahminler": []}
+{"id": "d124", "tahminler": [{"bas": 21, "son": 22, "tur": "TELEFON", "skor": 0.5112313032150269}]}
+{"id": "d125", "tahminler": []}
+{"id": "d126", "tahminler": [{"bas": 0, "son": 23, "tur": "EMAIL"}, {"bas": 0, "son": 5, "tur": "EMAIL", "skor": 0.9824433326721191}, {"bas": 6, "son": 11, "tur": "EMAIL", "skor": 0.7820225358009338}, {"bas": 19, "son": 20, "tur": "EMAIL", "skor": 0.5621548295021057}, {"bas": 41, "son": 53, "tur": "KISI_AD_SOYAD", "skor": 0.9888181090354919}]}
+{"id": "d127", "tahminler": [{"bas": 116, "son": 127, "tur": "KISI_AD_SOYAD", "skor": 0.9962478876113892}]}
+{"id": "d128", "tahminler": [{"bas": 22, "son": 26, "tur": "KISI_AD_SOYAD", "skor": 0.6576084494590759}, {"bas": 100, "son": 110, "tur": "VKN", "skor": 0.9115700125694275}, {"bas": 149, "son": 157, "tur": "KISI_AD_SOYAD", "skor": 0.6961615085601807}, {"bas": 222, "son": 237, "tur": "KART_NO", "skor": 0.9379608631134033}, {"bas": 260, "son": 264, "tur": "KART_CVV", "skor": 0.8130496740341187}, {"bas": 312, "son": 328, "tur": "KART_NO", "skor": 0.994967520236969}, {"bas": 333, "son": 335, "tur": "KART_SON_KULLANMA", "skor": 0.9884694218635559}]}
+{"id": "d129", "tahminler": [{"bas": 113, "son": 124, "tur": "TC_KIMLIK"}, {"bas": 418, "son": 432, "tur": "IP_ADRESI"}, {"bas": 13, "son": 15, "tur": "SAGLIK_BILGISI", "skor": 0.6479192972183228}, {"bas": 97, "son": 109, "tur": "KISI_AD_SOYAD", "skor": 0.9941331148147583}, {"bas": 113, "son": 124, "tur": "TCKN", "skor": 0.9971193075180054}, {"bas": 147, "son": 162, "tur": "TELEFON", "skor": 0.9638254046440125}, {"bas": 338, "son": 360, "tur": "SAGLIK_BILGISI", "skor": 0.9789180159568787}, {"bas": 418, "son": 421, "tur": "IP_ADRES", "skor": 0.991395890712738}, {"bas": 421, "son": 422, "tur": "EMAIL", "skor": 0.3619440495967865}, {"bas": 425, "son": 426, "tur": "EMAIL", "skor": 0.6433823108673096}, {"bas": 426, "son": 429, "tur": "SWIFT_BIC", "skor": 0.33119234442710876}, {"bas": 429, "son": 430, "tur": "EMAIL", "skor": 0.6978565454483032}]}
+{"id": "d130", "tahminler": [{"bas": 43, "son": 52, "tur": "PASAPORT_TR"}]}
+{"id": "d131", "tahminler": [{"bas": 38, "son": 49, "tur": "KISI_AD_SOYAD", "skor": 0.941121518611908}]}
+{"id": "d132", "tahminler": [{"bas": 300, "son": 313, "tur": "IP_ADRESI"}, {"bas": 26, "son": 32, "tur": "KIMLIK_BELGE_NO", "skor": 0.7104252576828003}, {"bas": 102, "son": 115, "tur": "TCKN", "skor": 0.42379677295684814}, {"bas": 176, "son": 186, "tur": "KIMLIK_BELGE_NO", "skor": 0.7331085205078125}, {"bas": 209, "son": 222, "tur": "KISI_AD_SOYAD", "skor": 0.9945509433746338}, {"bas": 223, "son": 241, "tur": "TUZEL_KISI", "skor": 0.9922354817390442}, {"bas": 243, "son": 247, "tur": "TUZEL_KISI", "skor": 0.9529851675033569}, {"bas": 300, "son": 303, "tur": "IP_ADRES", "skor": 0.9947158694267273}, {"bas": 303, "son": 304, "tur": "IP_ADRES", "skor": 0.26179131865501404}, {"bas": 310, "son": 311, "tur": "EMAIL", "skor": 0.4140038788318634}]}
+{"id": "d133", "tahminler": [{"bas": 77, "son": 95, "tur": "SAGLIK_BILGISI", "skor": 0.9223059415817261}, {"bas": 176, "son": 186, "tur": "PASAPORT_NO", "skor": 0.4745662808418274}]}
+{"id": "d134", "tahminler": [{"bas": 0, "son": 26, "tur": "IBAN_TR", "skor": 0.9950079917907715}]}
+{"id": "d135", "tahminler": [{"bas": 77, "son": 83, "tur": "DIN_ETNIK_SIYASI_TERIM", "skor": 0.8484196066856384}]}
+{"id": "d136", "tahminler": []}
+{"id": "d137", "tahminler": [{"bas": 8, "son": 20, "tur": "KISI_AD_SOYAD", "skor": 0.846198320388794}]}
+{"id": "d138", "tahminler": [{"bas": 78, "son": 92, "tur": "IP_ADRESI"}, {"bas": 18, "son": 25, "tur": "DIN_ETNIK_SIYASI_TERIM", "skor": 0.6858380436897278}, {"bas": 78, "son": 81, "tur": "IP_ADRES", "skor": 0.978289008140564}, {"bas": 81, "son": 82, "tur": "IP_ADRES", "skor": 0.3705650568008423}, {"bas": 82, "son": 85, "tur": "IP_ADRES", "skor": 0.5438130497932434}, {"bas": 85, "son": 86, "tur": "EMAIL", "skor": 0.36324530839920044}, {"bas": 88, "son": 89, "tur": "EMAIL", "skor": 0.3210684359073639}, {"bas": 124, "son": 137, "tur": "KISI_AD_SOYAD", "skor": 0.9814985990524292}, {"bas": 138, "son": 152, "tur": "TUZEL_KISI", "skor": 0.9851937294006348}, {"bas": 153, "son": 155, "tur": "TUZEL_KISI", "skor": 0.9207929968833923}, {"bas": 297, "son": 307, "tur": "KIMLIK_BELGE_NO", "skor": 0.5746075510978699}, {"bas": 364, "son": 368, "tur": "HESAP_NO", "skor": 0.9587501883506775}, {"bas": 368, "son": 369, "tur": "KIMLIK_BELGE_NO", "skor": 0.47724664211273193}, {"bas": 378, "son": 391, "tur": "KART_NO", "skor": 0.5845353603363037}]}
+{"id": "d139", "tahminler": []}
+{"id": "d140", "tahminler": []}
+{"id": "d141", "tahminler": []}
+{"id": "d142", "tahminler": [{"bas": 56, "son": 67, "tur": "TC_KIMLIK"}, {"bas": 283, "son": 294, "tur": "PLAKA_TR"}, {"bas": 42, "son": 46, "tur": "HESAP_NO", "skor": 0.9116128087043762}, {"bas": 46, "son": 47, "tur": "KIMLIK_BELGE_NO", "skor": 0.44313791394233704}, {"bas": 47, "son": 52, "tur": "PLAKA", "skor": 0.229326069355011}, {"bas": 56, "son": 67, "tur": "TCKN", "skor": 0.9941689968109131}, {"bas": 85, "son": 88, "tur": "KIMLIK_BELGE_NO", "skor": 0.6754204630851746}, {"bas": 200, "son": 205, "tur": "KISI_AD_SOYAD", "skor": 0.8680784702301025}, {"bas": 283, "son": 294, "tur": "PLAKA", "skor": 0.9943222403526306}, {"bas": 305, "son": 307, "tur": "KIMLIK_BELGE_NO", "skor": 0.7571726441383362}, {"bas": 308, "son": 314, "tur": "PLAKA", "skor": 0.7731356620788574}, {"bas": 366, "son": 381, "tur": "KISI_AD_SOYAD", "skor": 0.9969525337219238}, {"bas": 385, "son": 389, "tur": "TCKN", "skor": 0.8563835024833679}, {"bas": 390, "son": 398, "tur": "KART_NO", "skor": 0.9258663058280945}]}
+{"id": "d143", "tahminler": []}
+{"id": "d144", "tahminler": [{"bas": 42, "son": 46, "tur": "HESAP_NO", "skor": 0.6848096251487732}]}
+{"id": "d145", "tahminler": []}
+{"id": "d146", "tahminler": [{"bas": 29, "son": 55, "tur": "EMAIL"}, {"bas": 29, "son": 52, "tur": "EMAIL", "skor": 0.8291199803352356}, {"bas": 67, "son": 77, "tur": "KIMLIK_BELGE_NO", "skor": 0.9513894319534302}, {"bas": 89, "son": 101, "tur": "SAGLIK_BILGISI", "skor": 0.6161315441131592}, {"bas": 113, "son": 117, "tur": "HESAP_NO", "skor": 0.9762731790542603}, {"bas": 138, "son": 152, "tur": "KISI_AD_SOYAD", "skor": 0.9972361326217651}, {"bas": 165, "son": 168, "tur": "KART_CVV", "skor": 0.9475458264350891}, {"bas": 183, "son": 187, "tur": "DOGUM_TARIHI", "skor": 0.9962749481201172}, {"bas": 188, "son": 193, "tur": "DOGUM_TARIHI", "skor": 0.4937128722667694}, {"bas": 209, "son": 219, "tur": "EMAIL", "skor": 0.9556254148483276}]}
+{"id": "d147", "tahminler": [{"bas": 50, "son": 61, "tur": "KISI_AD_SOYAD", "skor": 0.9807276129722595}]}
+{"id": "d148", "tahminler": [{"bas": 215, "son": 224, "tur": "PASAPORT_NO", "skor": 0.9995989203453064}]}
+{"id": "d149", "tahminler": [{"bas": 39, "son": 49, "tur": "KIMLIK_BELGE_NO", "skor": 0.9010494351387024}, {"bas": 64, "son": 77, "tur": "DOGUM_TARIHI", "skor": 0.9638540148735046}]}
+{"id": "d150", "tahminler": [{"bas": 8, "son": 25, "tur": "KISI_AD_SOYAD", "skor": 0.9863132834434509}, {"bas": 26, "son": 56, "tur": "TUZEL_KISI", "skor": 0.9460725784301758}]}
+{"id": "d151", "tahminler": [{"bas": 23, "son": 36, "tur": "IP_ADRESI"}, {"bas": 23, "son": 25, "tur": "IP_ADRES", "skor": 0.8884817957878113}, {"bas": 170, "son": 179, "tur": "PASAPORT_NO", "skor": 0.9985815286636353}, {"bas": 208, "son": 223, "tur": "KART_NO", "skor": 0.9486896395683289}]}
+{"id": "d152", "tahminler": [{"bas": 8, "son": 20, "tur": "KISI_AD_SOYAD", "skor": 0.993942379951477}, {"bas": 21, "son": 44, "tur": "TUZEL_KISI", "skor": 0.9901211857795715}, {"bas": 80, "son": 93, "tur": "KISI_AD_SOYAD", "skor": 0.9923923015594482}, {"bas": 106, "son": 116, "tur": "KISI_AD_SOYAD", "skor": 0.9846954345703125}]}
+{"id": "d153", "tahminler": [{"bas": 32, "son": 40, "tur": "PLAKA_TR"}]}
+{"id": "d154", "tahminler": [{"bas": 0, "son": 10, "tur": "PLAKA_TR"}]}
+{"id": "d155", "tahminler": []}
+{"id": "d156", "tahminler": [{"bas": 41, "son": 52, "tur": "PLAKA_TR"}, {"bas": 41, "son": 47, "tur": "PLAKA", "skor": 0.6755688190460205}, {"bas": 63, "son": 65, "tur": "KIMLIK_BELGE_NO", "skor": 0.6159884929656982}]}
+{"id": "d157", "tahminler": [{"bas": 8, "son": 38, "tur": "TUZEL_KISI", "skor": 0.8045963048934937}]}
+{"id": "d158", "tahminler": [{"bas": 8, "son": 19, "tur": "KISI_AD_SOYAD", "skor": 0.9980524182319641}, {"bas": 20, "son": 37, "tur": "TUZEL_KISI", "skor": 0.9960057139396667}, {"bas": 39, "son": 43, "tur": "TUZEL_KISI", "skor": 0.9599857330322266}, {"bas": 129, "son": 141, "tur": "KISI_AD_SOYAD", "skor": 0.9979997873306274}]}
+{"id": "d159", "tahminler": []}
+{"id": "d160", "tahminler": []}
+{"id": "d161", "tahminler": [{"bas": 34, "son": 42, "tur": "KIMLIK_BELGE_NO", "skor": 0.5403306484222412}]}
+{"id": "d162", "tahminler": [{"bas": 15, "son": 50, "tur": "ADRES"}, {"bas": 50, "son": 67, "tur": "ADRES"}, {"bas": 34, "son": 49, "tur": "ADRES", "skor": 0.9509246349334717}, {"bas": 51, "son": 82, "tur": "ADRES", "skor": 0.9616305828094482}, {"bas": 83, "son": 86, "tur": "TELEFON", "skor": 0.6260892152786255}, {"bas": 87, "son": 102, "tur": "TELEFON", "skor": 0.9292984008789062}]}
+{"id": "d163", "tahminler": [{"bas": 36, "son": 68, "tur": "IBAN_TR", "skor": 0.716860830783844}, {"bas": 69, "son": 73, "tur": "KISI_AD_SOYAD", "skor": 0.7131748199462891}, {"bas": 74, "son": 86, "tur": "KISI_AD_SOYAD", "skor": 0.9893765449523926}, {"bas": 94, "son": 104, "tur": "KISI_AD_SOYAD", "skor": 0.993032693862915}, {"bas": 118, "son": 129, "tur": "KISI_AD_SOYAD", "skor": 0.9075822830200195}]}
+{"id": "d164", "tahminler": [{"bas": 0, "son": 22, "tur": "EMAIL"}, {"bas": 0, "son": 4, "tur": "EMAIL", "skor": 0.8937093615531921}, {"bas": 40, "son": 48, "tur": "KISI_AD_SOYAD", "skor": 0.910400390625}]}
+{"id": "d165", "tahminler": [{"bas": 71, "son": 85, "tur": "TELEFON_TR"}, {"bas": 71, "son": 85, "tur": "TELEFON", "skor": 0.9958933591842651}, {"bas": 101, "son": 116, "tur": "KART_NO", "skor": 0.978394091129303}, {"bas": 132, "son": 140, "tur": "EMAIL", "skor": 0.5728681683540344}, {"bas": 150, "son": 155, "tur": "KIMLIK_BELGE_NO", "skor": 0.25425443053245544}, {"bas": 155, "son": 160, "tur": "EMAIL", "skor": 0.35720980167388916}, {"bas": 173, "son": 175, "tur": "KIMLIK_BELGE_NO", "skor": 0.9519016742706299}, {"bas": 176, "son": 182, "tur": "PLAKA", "skor": 0.5098426342010498}, {"bas": 191, "son": 204, "tur": "TCKN", "skor": 0.5639162659645081}]}
+{"id": "d166", "tahminler": [{"bas": 93, "son": 103, "tur": "KISI_AD_SOYAD", "skor": 0.9979759454727173}, {"bas": 110, "son": 142, "tur": "IBAN_TR", "skor": 0.9884106516838074}]}
+{"id": "d167", "tahminler": [{"bas": 39, "son": 63, "tur": "EMAIL"}, {"bas": 7, "son": 18, "tur": "KISI_AD_SOYAD", "skor": 0.996248185634613}, {"bas": 39, "son": 60, "tur": "EMAIL", "skor": 0.8775265216827393}]}
+{"id": "d168", "tahminler": [{"bas": 41, "son": 52, "tur": "PLAKA_TR"}, {"bas": 247, "son": 257, "tur": "IP_ADRESI"}, {"bas": 41, "son": 52, "tur": "PLAKA", "skor": 0.9972607493400574}, {"bas": 63, "son": 65, "tur": "KIMLIK_BELGE_NO", "skor": 0.7570104002952576}, {"bas": 66, "son": 72, "tur": "PLAKA", "skor": 0.9780862927436829}, {"bas": 95, "son": 96, "tur": "TELEFON", "skor": 0.9812599420547485}, {"bas": 99, "son": 110, "tur": "TELEFON", "skor": 0.9804384708404541}, {"bas": 199, "son": 209, "tur": "KIMLIK_BELGE_NO", "skor": 0.7535564303398132}, {"bas": 247, "son": 249, "tur": "IP_ADRES", "skor": 0.9615519642829895}, {"bas": 293, "son": 298, "tur": "DOGUM_TARIHI", "skor": 0.7751334309577942}, {"bas": 374, "son": 381, "tur": "EMAIL", "skor": 0.6206136345863342}, {"bas": 390, "son": 397, "tur": "SWIFT_BIC", "skor": 0.889748752117157}]}
+{"id": "d169", "tahminler": [{"bas": 9, "son": 43, "tur": "ADRES"}, {"bas": 44, "son": 58, "tur": "ADRES"}, {"bas": 87, "son": 98, "tur": "TELEFON_TR"}, {"bas": 34, "son": 43, "tur": "ADRES", "skor": 0.9794914722442627}, {"bas": 45, "son": 82, "tur": "ADRES", "skor": 0.9736045598983765}, {"bas": 87, "son": 98, "tur": "TELEFON", "skor": 0.9974132180213928}, {"bas": 139, "son": 142, "tur": "KIMLIK_BELGE_NO", "skor": 0.5821980237960815}, {"bas": 165, "son": 167, "tur": "DOGUM_TARIHI", "skor": 0.9954795837402344}, {"bas": 168, "son": 175, "tur": "DOGUM_TARIHI", "skor": 0.8020982146263123}, {"bas": 193, "son": 203, "tur": "KISI_AD_SOYAD", "skor": 0.9970202445983887}, {"bas": 260, "son": 264, "tur": "IBAN_TR", "skor": 0.9985471367835999}, {"bas": 265, "son": 285, "tur": "IBAN_TR", "skor": 0.796159029006958}, {"bas": 289, "son": 290, "tur": "IBAN_TR", "skor": 0.3037872612476349}, {"bas": 298, "son": 312, "tur": "KISI_AD_SOYAD", "skor": 0.9969592094421387}]}
+{"id": "d170", "tahminler": [{"bas": 41, "son": 52, "tur": "PLAKA_TR"}, {"bas": 130, "son": 165, "tur": "ADRES"}, {"bas": 165, "son": 187, "tur": "ADRES"}, {"bas": 41, "son": 52, "tur": "PLAKA", "skor": 0.9889242053031921}, {"bas": 63, "son": 65, "tur": "KIMLIK_BELGE_NO", "skor": 0.668275773525238}, {"bas": 85, "son": 98, "tur": "SAGLIK_BILGISI", "skor": 0.7731838226318359}, {"bas": 156, "son": 164, "tur": "ADRES", "skor": 0.9917420148849487}, {"bas": 166, "son": 206, "tur": "ADRES", "skor": 0.9820186495780945}, {"bas": 286, "son": 290, "tur": "KISI_AD_SOYAD", "skor": 0.815545916557312}, {"bas": 335, "son": 347, "tur": "KISI_AD_SOYAD", "skor": 0.9953858256340027}, {"bas": 348, "son": 365, "tur": "TUZEL_KISI", "skor": 0.9939125180244446}, {"bas": 366, "son": 368, "tur": "TUZEL_KISI", "skor": 0.9567502737045288}]}
+{"id": "d171", "tahminler": []}
+{"id": "d172", "tahminler": [{"bas": 96, "son": 106, "tur": "PLAKA_TR"}, {"bas": 213, "son": 227, "tur": "TELEFON_TR"}, {"bas": 9, "son": 18, "tur": "HESAP_NO", "skor": 0.998023509979248}, {"bas": 96, "son": 106, "tur": "PLAKA", "skor": 0.9539269804954529}, {"bas": 117, "son": 119, "tur": "KIMLIK_BELGE_NO", "skor": 0.5418235063552856}, {"bas": 160, "son": 162, "tur": "TUZEL_KISI", "skor": 0.8036075830459595}, {"bas": 169, "son": 172, "tur": "TUZEL_KISI", "skor": 0.8177207112312317}, {"bas": 213, "son": 227, "tur": "TELEFON", "skor": 0.9972910284996033}]}
+{"id": "d173", "tahminler": [{"bas": 281, "son": 309, "tur": "EMAIL"}, {"bas": 38, "son": 52, "tur": "EMAIL", "skor": 0.8617611527442932}, {"bas": 61, "son": 70, "tur": "SWIFT_BIC", "skor": 0.7916036248207092}, {"bas": 95, "son": 101, "tur": "TUZEL_KISI", "skor": 0.4629800021648407}, {"bas": 152, "son": 162, "tur": "SAGLIK_BILGISI", "skor": 0.7876132130622864}, {"bas": 194, "son": 206, "tur": "KISI_AD_SOYAD", "skor": 0.9905041456222534}, {"bas": 207, "son": 231, "tur": "TUZEL_KISI", "skor": 0.9926899075508118}, {"bas": 281, "son": 306, "tur": "EMAIL", "skor": 0.9215651154518127}, {"bas": 397, "son": 404, "tur": "KISI_AD_SOYAD", "skor": 0.9919981360435486}, {"bas": 417, "son": 422, "tur": "KISI_AD_SOYAD", "skor": 0.9871283769607544}]}
+{"id": "d174", "tahminler": []}
+{"id": "d175", "tahminler": [{"bas": 103, "son": 105, "tur": "KART_SON_KULLANMA", "skor": 0.7780382037162781}]}
+{"id": "d176", "tahminler": [{"bas": 109, "son": 125, "tur": "TUZEL_KISI", "skor": 0.9953656792640686}, {"bas": 126, "son": 128, "tur": "TUZEL_KISI", "skor": 0.9368575811386108}, {"bas": 144, "son": 156, "tur": "EMAIL", "skor": 0.9660307168960571}, {"bas": 195, "son": 200, "tur": "KISI_AD_SOYAD", "skor": 0.4694184362888336}, {"bas": 218, "son": 225, "tur": "TUZEL_KISI", "skor": 0.8775303363800049}]}
+{"id": "d177", "tahminler": []}
+{"id": "d178", "tahminler": []}
+{"id": "d179", "tahminler": [{"bas": 138, "son": 163, "tur": "EMAIL"}, {"bas": 28, "son": 32, "tur": "KART_NO", "skor": 0.4879862666130066}, {"bas": 32, "son": 33, "tur": "KIMLIK_BELGE_NO", "skor": 0.3409157395362854}, {"bas": 33, "son": 37, "tur": "PLAKA", "skor": 0.49145615100860596}, {"bas": 66, "son": 68, "tur": "KART_SON_KULLANMA", "skor": 0.5050325393676758}, {"bas": 96, "son": 100, "tur": "KART_CVV", "skor": 0.8829482793807983}, {"bas": 138, "son": 153, "tur": "EMAIL", "skor": 0.9198684692382812}, {"bas": 159, "son": 160, "tur": "EMAIL", "skor": 0.43194928765296936}]}
+{"id": "d180", "tahminler": []}
+{"id": "d181", "tahminler": [{"bas": 32, "son": 41, "tur": "PASAPORT_TR"}]}
+{"id": "d182", "tahminler": []}
+{"id": "d183", "tahminler": []}
+{"id": "d184", "tahminler": [{"bas": 68, "son": 79, "tur": "TC_KIMLIK"}, {"bas": 50, "son": 64, "tur": "KISI_AD_SOYAD", "skor": 0.9956584572792053}, {"bas": 68, "son": 79, "tur": "TCKN", "skor": 0.9891971945762634}, {"bas": 95, "son": 109, "tur": "KISI_AD_SOYAD", "skor": 0.9618254899978638}, {"bas": 119, "son": 130, "tur": "KISI_AD_SOYAD", "skor": 0.992997407913208}]}
+{"id": "d185", "tahminler": [{"bas": 0, "son": 17, "tur": "TELEFON_TR"}, {"bas": 0, "son": 7, "tur": "TELEFON", "skor": 0.8056913018226624}, {"bas": 12, "son": 14, "tur": "TELEFON", "skor": 0.7707422375679016}]}
+{"id": "d186", "tahminler": []}
+{"id": "d187", "tahminler": [{"bas": 20, "son": 43, "tur": "EMAIL"}, {"bas": 20, "son": 40, "tur": "EMAIL", "skor": 0.8114967346191406}, {"bas": 73, "son": 81, "tur": "HESAP_NO", "skor": 0.9630497097969055}, {"bas": 104, "son": 146, "tur": "ETTN_EFATURA_ID", "skor": 0.9928125739097595}, {"bas": 180, "son": 184, "tur": "DIN_ETNIK_SIYASI_TERIM", "skor": 0.854303777217865}, {"bas": 236, "son": 240, "tur": "KIMLIK_BELGE_NO", "skor": 0.46471482515335083}]}
+{"id": "d188", "tahminler": []}
+{"id": "d189", "tahminler": [{"bas": 66, "son": 77, "tur": "TC_KIMLIK"}, {"bas": 50, "son": 62, "tur": "KISI_AD_SOYAD", "skor": 0.8751124143600464}, {"bas": 63, "son": 65, "tur": "KIMLIK_BELGE_NO", "skor": 0.4563199281692505}, {"bas": 66, "son": 77, "tur": "VKN", "skor": 0.6211549639701843}]}
+{"id": "d190", "tahminler": [{"bas": 37, "son": 47, "tur": "HESAP_NO", "skor": 0.576752245426178}]}
+{"id": "d191", "tahminler": []}
+{"id": "d192", "tahminler": [{"bas": 8, "son": 21, "tur": "KISI_AD_SOYAD", "skor": 0.9665157198905945}, {"bas": 33, "son": 36, "tur": "KART_CVV", "skor": 0.5523629784584045}, {"bas": 122, "son": 135, "tur": "KISI_AD_SOYAD", "skor": 0.9861961603164673}, {"bas": 139, "son": 143, "tur": "DOGUM_TARIHI", "skor": 0.5243619680404663}]}
+{"id": "d193", "tahminler": [{"bas": 39, "son": 55, "tur": "KART_NO", "skor": 0.9958987832069397}, {"bas": 71, "son": 105, "tur": "SWIFT_BIC", "skor": 0.5346905589103699}, {"bas": 117, "son": 127, "tur": "KIMLIK_BELGE_NO", "skor": 0.7499319314956665}, {"bas": 139, "son": 141, "tur": "KIMLIK_BELGE_NO", "skor": 0.9602224230766296}, {"bas": 142, "son": 148, "tur": "PLAKA", "skor": 0.4352964460849762}, {"bas": 175, "son": 185, "tur": "VKN", "skor": 0.8841643333435059}]}
+{"id": "d194", "tahminler": [{"bas": 50, "son": 61, "tur": "KISI_AD_SOYAD", "skor": 0.9710484743118286}]}
+{"id": "d195", "tahminler": [{"bas": 36, "son": 62, "tur": "IBAN_TR", "skor": 0.99787437915802}, {"bas": 68, "son": 79, "tur": "KISI_AD_SOYAD", "skor": 0.9959520697593689}]}
+{"id": "d196", "tahminler": [{"bas": 49, "son": 72, "tur": "SAGLIK_BILGISI", "skor": 0.9946563243865967}, {"bas": 79, "son": 105, "tur": "IBAN_TR", "skor": 0.9994202852249146}, {"bas": 113, "son": 115, "tur": "KART_SON_KULLANMA", "skor": 0.942314624786377}, {"bas": 115, "son": 116, "tur": "KART_SON_KULLANMA", "skor": 0.4534153342247009}, {"bas": 163, "son": 182, "tur": "KART_NO", "skor": 0.9472732543945312}, {"bas": 188, "son": 203, "tur": "TELEFON", "skor": 0.9814234375953674}, {"bas": 224, "son": 229, "tur": "KISI_AD_SOYAD", "skor": 0.7134543657302856}, {"bas": 249, "son": 250, "tur": "KIMLIK_BELGE_NO", "skor": 0.41453975439071655}]}
+{"id": "d197", "tahminler": [{"bas": 94, "son": 105, "tur": "TC_KIMLIK"}, {"bas": 65, "son": 79, "tur": "DOGUM_TARIHI", "skor": 0.9951973557472229}, {"bas": 94, "son": 105, "tur": "TCKN", "skor": 0.9989109039306641}, {"bas": 117, "son": 120, "tur": "KIMLIK_BELGE_NO", "skor": 0.770379900932312}, {"bas": 146, "son": 188, "tur": "ETTN_EFATURA_ID", "skor": 0.9911320805549622}, {"bas": 194, "son": 196, "tur": "KART_SON_KULLANMA", "skor": 0.7487208843231201}, {"bas": 210, "son": 220, "tur": "KIMLIK_BELGE_NO", "skor": 0.8698737025260925}]}
+{"id": "d198", "tahminler": [{"bas": 145, "son": 166, "tur": "EMAIL"}, {"bas": 259, "son": 272, "tur": "IP_ADRESI"}, {"bas": 32, "son": 41, "tur": "PASAPORT_NO", "skor": 0.9555959105491638}, {"bas": 47, "son": 51, "tur": "KART_NO", "skor": 0.8363165855407715}, {"bas": 52, "son": 66, "tur": "KART_NO", "skor": 0.8299007415771484}, {"bas": 77, "son": 81, "tur": "HESAP_NO", "skor": 0.9983202815055847}, {"bas": 82, "son": 88, "tur": "KART_NO", "skor": 0.6116386651992798}, {"bas": 145, "son": 156, "tur": "EMAIL", "skor": 0.744560956954956}, {"bas": 259, "son": 262, "tur": "IP_ADRES", "skor": 0.986336886882782}, {"bas": 262, "son": 263, "tur": "EMAIL", "skor": 0.3718210756778717}, {"bas": 266, "son": 267, "tur": "EMAIL", "skor": 0.6542204022407532}, {"bas": 268, "son": 269, "tur": "EMAIL", "skor": 0.510698676109314}, {"bas": 396, "son": 406, "tur": "KIMLIK_BELGE_NO", "skor": 0.6052319407463074}]}
+{"id": "d199", "tahminler": [{"bas": 0, "son": 8, "tur": "KISI_AD_SOYAD", "skor": 0.9854207038879395}, {"bas": 21, "son": 30, "tur": "KISI_AD_SOYAD", "skor": 0.9812144041061401}]}
+{"id": "d200", "tahminler": [{"bas": 9, "son": 13, "tur": "HESAP_NO", "skor": 0.9864611029624939}, {"bas": 14, "son": 20, "tur": "KART_NO", "skor": 0.37559229135513306}]}
+{"id": "d201", "tahminler": []}
+{"id": "d202", "tahminler": [{"bas": 14, "son": 48, "tur": "ADRES"}, {"bas": 49, "son": 61, "tur": "ADRES"}, {"bas": 100, "son": 114, "tur": "TELEFON_TR"}, {"bas": 34, "son": 73, "tur": "ADRES", "skor": 0.9735386371612549}, {"bas": 74, "son": 95, "tur": "ADRES", "skor": 0.9553920030593872}, {"bas": 100, "son": 114, "tur": "TELEFON", "skor": 0.9925997853279114}]}
+{"id": "d203", "tahminler": [{"bas": 0, "son": 14, "tur": "TC_KIMLIK"}, {"bas": 4, "son": 11, "tur": "KART_NO", "skor": 0.47453635931015015}]}
+{"id": "d204", "tahminler": [{"bas": 5, "son": 13, "tur": "KART_NO", "skor": 0.6270163655281067}]}
+{"id": "d205", "tahminler": [{"bas": 36, "son": 55, "tur": "IBAN_TR", "skor": 0.9322840571403503}, {"bas": 61, "son": 65, "tur": "HESAP_NO", "skor": 0.34780704975128174}, {"bas": 66, "son": 68, "tur": "IBAN_TR", "skor": 0.6334943175315857}, {"bas": 74, "son": 84, "tur": "KISI_AD_SOYAD", "skor": 0.9408378005027771}]}
+{"id": "d206", "tahminler": [{"bas": 32, "son": 41, "tur": "PASAPORT_TR"}]}
+{"id": "d207", "tahminler": []}
+{"id": "d208", "tahminler": []}
+{"id": "d209", "tahminler": [{"bas": 57, "son": 68, "tur": "TC_KIMLIK"}, {"bas": 57, "son": 68, "tur": "TCKN", "skor": 0.8095663785934448}]}
+{"id": "d210", "tahminler": [{"bas": 0, "son": 24, "tur": "IBAN_TR", "skor": 0.6045357584953308}]}
+{"id": "d211", "tahminler": [{"bas": 0, "son": 15, "tur": "KISI_AD_SOYAD", "skor": 0.9617798924446106}, {"bas": 28, "son": 38, "tur": "KISI_AD_SOYAD", "skor": 0.9062550067901611}]}
+{"id": "d212", "tahminler": [{"bas": 42, "son": 46, "tur": "HESAP_NO", "skor": 0.894757866859436}]}
+{"id": "d213", "tahminler": [{"bas": 56, "son": 75, "tur": "EMAIL"}, {"bas": 35, "son": 37, "tur": "KART_SON_KULLANMA", "skor": 0.5751973986625671}, {"bas": 38, "son": 42, "tur": "PLAKA", "skor": 0.6416008472442627}, {"bas": 56, "son": 72, "tur": "EMAIL", "skor": 0.6812998652458191}, {"bas": 112, "son": 120, "tur": "DIN_ETNIK_SIYASI_TERIM", "skor": 0.7216747403144836}, {"bas": 136, "son": 140, "tur": "DIN_ETNIK_SIYASI_TERIM", "skor": 0.7527304887771606}]}
+{"id": "d214", "tahminler": [{"bas": 32, "son": 41, "tur": "PASAPORT_TR"}]}
+{"id": "d215", "tahminler": []}
+{"id": "d216", "tahminler": [{"bas": 63, "son": 74, "tur": "TC_KIMLIK"}, {"bas": 82, "son": 106, "tur": "EMAIL"}, {"bas": 50, "son": 59, "tur": "KISI_AD_SOYAD", "skor": 0.997565507888794}, {"bas": 63, "son": 74, "tur": "TCKN", "skor": 0.9958603978157043}, {"bas": 82, "son": 103, "tur": "EMAIL", "skor": 0.7359254956245422}, {"bas": 124, "son": 135, "tur": "KISI_AD_SOYAD", "skor": 0.9979859590530396}]}
+{"id": "d217", "tahminler": [{"bas": 38, "son": 49, "tur": "KISI_AD_SOYAD", "skor": 0.8630123138427734}]}
+{"id": "d218", "tahminler": [{"bas": 89, "son": 100, "tur": "KISI_AD_SOYAD", "skor": 0.9842648506164551}]}
+{"id": "d219", "tahminler": [{"bas": 173, "son": 183, "tur": "PLAKA_TR"}, {"bas": 101, "son": 115, "tur": "KART_NO", "skor": 0.791191816329956}, {"bas": 173, "son": 183, "tur": "PLAKA", "skor": 0.9060304164886475}, {"bas": 194, "son": 196, "tur": "KIMLIK_BELGE_NO", "skor": 0.9890680909156799}, {"bas": 196, "son": 197, "tur": "KIMLIK_BELGE_NO", "skor": 0.5686185956001282}, {"bas": 197, "son": 203, "tur": "KIMLIK_BELGE_NO", "skor": 0.36440137028694153}, {"bas": 239, "son": 247, "tur": "KIMLIK_BELGE_NO", "skor": 0.995636522769928}, {"bas": 332, "son": 347, "tur": "TELEFON", "skor": 0.9618906378746033}]}
+{"id": "d220", "tahminler": [{"bas": 8, "son": 20, "tur": "KISI_AD_SOYAD", "skor": 0.6401864290237427}]}
+{"id": "d221", "tahminler": [{"bas": 32, "son": 36, "tur": "KART_CVV", "skor": 0.5448009967803955}]}
+{"id": "d222", "tahminler": [{"bas": 40, "son": 61, "tur": "EMAIL"}, {"bas": 7, "son": 20, "tur": "KISI_AD_SOYAD", "skor": 0.9957531690597534}, {"bas": 40, "son": 58, "tur": "EMAIL", "skor": 0.8666368126869202}]}
+{"id": "d223", "tahminler": [{"bas": 27, "son": 40, "tur": "TCKN", "skor": 0.8476843237876892}, {"bas": 54, "son": 56, "tur": "SAGLIK_BILGISI", "skor": 0.5079521536827087}, {"bas": 91, "son": 96, "tur": "KISI_AD_SOYAD", "skor": 0.9581809639930725}, {"bas": 104, "son": 106, "tur": "KART_SON_KULLANMA", "skor": 0.8472165465354919}, {"bas": 106, "son": 107, "tur": "KART_SON_KULLANMA", "skor": 0.25305643677711487}]}
+{"id": "d224", "tahminler": [{"bas": 8, "son": 20, "tur": "KISI_AD_SOYAD", "skor": 0.9721496105194092}, {"bas": 30, "son": 42, "tur": "KISI_AD_SOYAD", "skor": 0.9462204575538635}]}
+{"id": "d225", "tahminler": [{"bas": 36, "son": 68, "tur": "IBAN_TR", "skor": 0.9977386593818665}, {"bas": 69, "son": 73, "tur": "KISI_AD_SOYAD", "skor": 0.5153958797454834}, {"bas": 74, "son": 85, "tur": "KISI_AD_SOYAD", "skor": 0.9882377982139587}, {"bas": 93, "son": 101, "tur": "KISI_AD_SOYAD", "skor": 0.9897316694259644}, {"bas": 114, "son": 126, "tur": "KISI_AD_SOYAD", "skor": 0.9944249987602234}]}
+{"id": "d226", "tahminler": [{"bas": 185, "son": 205, "tur": "ADRES"}, {"bas": 206, "son": 225, "tur": "ADRES"}, {"bas": 88, "son": 104, "tur": "KART_NO", "skor": 0.9981644749641418}, {"bas": 110, "son": 113, "tur": "KART_CVV", "skor": 0.9884259700775146}, {"bas": 128, "son": 130, "tur": "DOGUM_TARIHI", "skor": 0.9979952573776245}, {"bas": 131, "son": 138, "tur": "DOGUM_TARIHI", "skor": 0.9175739884376526}, {"bas": 150, "son": 163, "tur": "SAGLIK_BILGISI", "skor": 0.7733540534973145}, {"bas": 176, "son": 184, "tur": "KIMLIK_BELGE_NO", "skor": 0.6288394331932068}, {"bas": 193, "son": 205, "tur": "ADRES", "skor": 0.9943323135375977}, {"bas": 207, "son": 242, "tur": "ADRES", "skor": 0.9863454103469849}]}
+{"id": "d227", "tahminler": []}
+{"id": "d228", "tahminler": []}
+{"id": "d229", "tahminler": []}
+{"id": "d230", "tahminler": [{"bas": 44, "son": 53, "tur": "PASAPORT_TR"}]}
+{"id": "d231", "tahminler": [{"bas": 8, "son": 22, "tur": "KISI_AD_SOYAD", "skor": 0.9903478622436523}, {"bas": 34, "son": 38, "tur": "KART_CVV", "skor": 0.8691425919532776}, {"bas": 81, "son": 93, "tur": "KISI_AD_SOYAD", "skor": 0.9841244220733643}, {"bas": 113, "son": 122, "tur": "EMAIL", "skor": 0.992967963218689}]}
+{"id": "d232", "tahminler": [{"bas": 8, "son": 18, "tur": "KISI_AD_SOYAD", "skor": 0.7703691720962524}, {"bas": 28, "son": 42, "tur": "KISI_AD_SOYAD", "skor": 0.8723541498184204}]}
+{"id": "d233", "tahminler": [{"bas": 76, "son": 103, "tur": "EMAIL"}, {"bas": 26, "son": 28, "tur": "IP_ADRES", "skor": 0.7452414035797119}, {"bas": 52, "son": 62, "tur": "KISI_AD_SOYAD", "skor": 0.9977710247039795}, {"bas": 76, "son": 92, "tur": "EMAIL", "skor": 0.9921367168426514}, {"bas": 93, "son": 100, "tur": "EMAIL", "skor": 0.5797267556190491}, {"bas": 137, "son": 147, "tur": "KIMLIK_BELGE_NO", "skor": 0.9737967848777771}, {"bas": 156, "son": 172, "tur": "KART_NO", "skor": 0.8847610354423523}, {"bas": 259, "son": 264, "tur": "DIN_ETNIK_SIYASI_TERIM", "skor": 0.4722856879234314}]}
+{"id": "d234", "tahminler": [{"bas": 56, "son": 67, "tur": "TC_KIMLIK"}, {"bas": 56, "son": 67, "tur": "KART_NO", "skor": 0.3239181637763977}]}
+{"id": "d235", "tahminler": []}
+{"id": "d236", "tahminler": []}
+{"id": "d237", "tahminler": []}
+{"id": "d238", "tahminler": [{"bas": 38, "son": 51, "tur": "EMAIL", "skor": 0.5395538806915283}]}
+{"id": "d239", "tahminler": [{"bas": 26, "son": 32, "tur": "KIMLIK_BELGE_NO", "skor": 0.6712995171546936}, {"bas": 83, "son": 93, "tur": "SAGLIK_BILGISI", "skor": 0.8191709518432617}, {"bas": 153, "son": 163, "tur": "IBAN_TR", "skor": 0.7333904504776001}, {"bas": 167, "son": 178, "tur": "IBAN_TR", "skor": 0.6622468829154968}, {"bas": 191, "son": 201, "tur": "KISI_AD_SOYAD", "skor": 0.987604022026062}, {"bas": 249, "son": 258, "tur": "PASAPORT_NO", "skor": 0.9994783997535706}]}
+{"id": "d240", "tahminler": [{"bas": 36, "son": 62, "tur": "IBAN_TR", "skor": 0.9996650218963623}, {"bas": 86, "son": 97, "tur": "KISI_AD_SOYAD", "skor": 0.9911599159240723}, {"bas": 111, "son": 124, "tur": "KISI_AD_SOYAD", "skor": 0.9879850149154663}]}
+{"id": "d241", "tahminler": []}
+{"id": "d242", "tahminler": [{"bas": 23, "son": 38, "tur": "IP_ADRESI"}, {"bas": 232, "son": 241, "tur": "PLAKA_TR"}, {"bas": 23, "son": 26, "tur": "IP_ADRES", "skor": 0.9834823608398438}, {"bas": 26, "son": 27, "tur": "IP_ADRES", "skor": 0.29304057359695435}, {"bas": 27, "son": 30, "tur": "IP_ADRES", "skor": 0.5612562894821167}, {"bas": 90, "son": 111, "tur": "SAGLIK_BILGISI", "skor": 0.5884382128715515}, {"bas": 232, "son": 241, "tur": "PLAKA", "skor": 0.9915396571159363}, {"bas": 252, "son": 254, "tur": "KIMLIK_BELGE_NO", "skor": 0.6909169554710388}]}
+{"id": "d243", "tahminler": [{"bas": 46, "son": 50, "tur": "KART_CVV", "skor": 0.5073513984680176}]}
+{"id": "d244", "tahminler": []}
+{"id": "d245", "tahminler": []}
+{"id": "d246", "tahminler": [{"bas": 67, "son": 72, "tur": "KISI_AD_SOYAD", "skor": 0.9885137677192688}, {"bas": 81, "son": 94, "tur": "TCKN", "skor": 0.882154643535614}, {"bas": 118, "son": 128, "tur": "KISI_AD_SOYAD", "skor": 0.9942785501480103}]}
+{"id": "d247", "tahminler": [{"bas": 139, "son": 150, "tur": "TC_KIMLIK"}, {"bas": 158, "son": 166, "tur": "PLAKA_TR"}, {"bas": 72, "son": 79, "tur": "TUZEL_KISI", "skor": 0.6197320222854614}, {"bas": 96, "son": 100, "tur": "KISI_AD_SOYAD", "skor": 0.8586981296539307}, {"bas": 123, "son": 131, "tur": "KIMLIK_BELGE_NO", "skor": 0.7273913025856018}, {"bas": 139, "son": 150, "tur": "TCKN", "skor": 0.9898480772972107}, {"bas": 158, "son": 166, "tur": "PLAKA", "skor": 0.99550461769104}, {"bas": 176, "son": 192, "tur": "KART_NO", "skor": 0.9981310963630676}, {"bas": 203, "son": 208, "tur": "KISI_AD_SOYAD", "skor": 0.941554844379425}]}
+{"id": "d248", "tahminler": []}
+{"id": "d249", "tahminler": [{"bas": 37, "son": 46, "tur": "KART_NO", "skor": 0.8129251003265381}]}
+{"id": "d250", "tahminler": [{"bas": 160, "son": 173, "tur": "IP_ADRESI"}, {"bas": 38, "son": 42, "tur": "KIMLIK_BELGE_NO", "skor": 0.6551885008811951}, {"bas": 66, "son": 75, "tur": "PASAPORT_NO", "skor": 0.9796103239059448}, {"bas": 81, "son": 85, "tur": "KART_CVV", "skor": 0.9093223810195923}, {"bas": 93, "son": 95, "tur": "IP_ADRES", "skor": 0.7392812967300415}, {"bas": 116, "son": 131, "tur": "KART_NO", "skor": 0.994012176990509}, {"bas": 145, "son": 149, "tur": "HESAP_NO", "skor": 0.9841411113739014}, {"bas": 160, "son": 162, "tur": "IP_ADRES", "skor": 0.9853314161300659}, {"bas": 162, "son": 163, "tur": "IP_ADRES", "skor": 0.4433107078075409}, {"bas": 163, "son": 166, "tur": "IP_ADRES", "skor": 0.7368200421333313}]}
+{"id": "d701", "tahminler": []}
+{"id": "d702", "tahminler": []}
+{"id": "d703", "tahminler": []}
+{"id": "d704", "tahminler": []}
+{"id": "d705", "tahminler": []}
+{"id": "d706", "tahminler": []}
+{"id": "d707", "tahminler": []}
+{"id": "d708", "tahminler": []}
+{"id": "d709", "tahminler": []}
+{"id": "d710", "tahminler": []}
+{"id": "d711", "tahminler": []}
+{"id": "d712", "tahminler": []}
+{"id": "d713", "tahminler": []}
+{"id": "d714", "tahminler": []}
+{"id": "d715", "tahminler": []}
+{"id": "d716", "tahminler": []}
+{"id": "d717", "tahminler": []}
+{"id": "d718", "tahminler": []}
+{"id": "d719", "tahminler": []}
+{"id": "d720", "tahminler": []}
+{"id": "d721", "tahminler": []}
+{"id": "d722", "tahminler": []}
+{"id": "d723", "tahminler": []}
+{"id": "d724", "tahminler": []}
+{"id": "d725", "tahminler": []}
+{"id": "d726", "tahminler": []}
+{"id": "d727", "tahminler": []}
+{"id": "d728", "tahminler": []}
+{"id": "d729", "tahminler": []}
+{"id": "d730", "tahminler": []}
+{"id": "d731", "tahminler": []}
+{"id": "d732", "tahminler": []}
+{"id": "d733", "tahminler": []}
+{"id": "d734", "tahminler": []}
+{"id": "d735", "tahminler": []}
+{"id": "d736", "tahminler": []}
+{"id": "d737", "tahminler": []}
+{"id": "d738", "tahminler": []}
+{"id": "d739", "tahminler": []}
+{"id": "d740", "tahminler": []}
+{"id": "d741", "tahminler": [{"bas": 0, "son": 14, "tur": "ADRES"}]}
+{"id": "d742", "tahminler": []}
+{"id": "d743", "tahminler": []}
+{"id": "d744", "tahminler": []}
+{"id": "d745", "tahminler": []}
+{"id": "d746", "tahminler": []}
+{"id": "d747", "tahminler": []}
+{"id": "d748", "tahminler": []}
+{"id": "d749", "tahminler": []}
+{"id": "d750", "tahminler": []}
+{"id": "d751", "tahminler": []}
+{"id": "d752", "tahminler": []}
+{"id": "d753", "tahminler": []}
+{"id": "d754", "tahminler": []}
+{"id": "d755", "tahminler": []}
+{"id": "d756", "tahminler": []}
+{"id": "d757", "tahminler": []}
+{"id": "d758", "tahminler": []}
+{"id": "d759", "tahminler": []}
+{"id": "d760", "tahminler": []}
+{"id": "d761", "tahminler": []}
+{"id": "d762", "tahminler": []}
+{"id": "d763", "tahminler": []}
+{"id": "d764", "tahminler": []}
+{"id": "d765", "tahminler": []}
+{"id": "d766", "tahminler": []}
+{"id": "d767", "tahminler": []}
+{"id": "d768", "tahminler": []}
+{"id": "d769", "tahminler": []}
+{"id": "d770", "tahminler": []}
+{"id": "d771", "tahminler": []}
+{"id": "d772", "tahminler": []}
+{"id": "d773", "tahminler": []}
+{"id": "d774", "tahminler": []}
+{"id": "d775", "tahminler": []}
+{"id": "d776", "tahminler": []}
+{"id": "d777", "tahminler": []}
+{"id": "d778", "tahminler": []}
+{"id": "d779", "tahminler": []}
+{"id": "d780", "tahminler": []}
+{"id": "d781", "tahminler": []}
+{"id": "d782", "tahminler": []}
+{"id": "d783", "tahminler": []}
+{"id": "d784", "tahminler": []}
+{"id": "d785", "tahminler": []}
+{"id": "d786", "tahminler": []}
+{"id": "d787", "tahminler": []}
+{"id": "d788", "tahminler": []}
+{"id": "d789", "tahminler": []}
+{"id": "d790", "tahminler": []}
+{"id": "d791", "tahminler": []}
+{"id": "d792", "tahminler": []}
+{"id": "d793", "tahminler": []}
+{"id": "d794", "tahminler": []}
+{"id": "d795", "tahminler": []}
+{"id": "d796", "tahminler": []}
+{"id": "d797", "tahminler": []}
+{"id": "d798", "tahminler": []}
+{"id": "d799", "tahminler": []}
+{"id": "d800", "tahminler": []}
+{"id": "d801", "tahminler": []}
+{"id": "d802", "tahminler": []}
+{"id": "d803", "tahminler": []}
+{"id": "d804", "tahminler": []}
+{"id": "d805", "tahminler": []}
+{"id": "d806", "tahminler": []}
+{"id": "d807", "tahminler": []}
+{"id": "d808", "tahminler": []}
+{"id": "d809", "tahminler": []}
+{"id": "d810", "tahminler": []}
+{"id": "d811", "tahminler": []}
+{"id": "d812", "tahminler": []}
+{"id": "d813", "tahminler": []}
+{"id": "d814", "tahminler": []}
+{"id": "d815", "tahminler": []}
+{"id": "d816", "tahminler": []}
+{"id": "d817", "tahminler": []}
+{"id": "d818", "tahminler": []}
+{"id": "d819", "tahminler": []}
+{"id": "d820", "tahminler": []}
+{"id": "d821", "tahminler": []}
+{"id": "d822", "tahminler": []}
+{"id": "d823", "tahminler": []}
+{"id": "d824", "tahminler": []}
+{"id": "d825", "tahminler": []}
+{"id": "d826", "tahminler": []}
+{"id": "d827", "tahminler": []}
+{"id": "d828", "tahminler": []}
+{"id": "d829", "tahminler": []}
+{"id": "d830", "tahminler": []}
+{"id": "d831", "tahminler": []}
+{"id": "d832", "tahminler": []}
+{"id": "d833", "tahminler": []}
+{"id": "d834", "tahminler": []}
+{"id": "d835", "tahminler": []}
+{"id": "d836", "tahminler": []}
+{"id": "d837", "tahminler": []}
+{"id": "d838", "tahminler": []}
+{"id": "d839", "tahminler": []}
+{"id": "d840", "tahminler": []}
+{"id": "d841", "tahminler": []}
+{"id": "d842", "tahminler": []}
+{"id": "d843", "tahminler": []}
+{"id": "d844", "tahminler": []}
+{"id": "d845", "tahminler": []}
+{"id": "d846", "tahminler": []}
+{"id": "d847", "tahminler": []}
+{"id": "d848", "tahminler": []}
+{"id": "d849", "tahminler": []}
+{"id": "d850", "tahminler": []}
+{"id": "d851", "tahminler": []}
+{"id": "d852", "tahminler": []}
+{"id": "d853", "tahminler": []}
+{"id": "d854", "tahminler": []}
+{"id": "d855", "tahminler": []}
+{"id": "d856", "tahminler": []}
+{"id": "d857", "tahminler": []}
+{"id": "d858", "tahminler": []}
+{"id": "d859", "tahminler": []}
+{"id": "d860", "tahminler": []}
+{"id": "d861", "tahminler": []}
+{"id": "d862", "tahminler": []}
+{"id": "d863", "tahminler": []}
+{"id": "d864", "tahminler": []}
+{"id": "d865", "tahminler": []}
+{"id": "d866", "tahminler": []}
+{"id": "d867", "tahminler": []}
+{"id": "d868", "tahminler": []}
+{"id": "d869", "tahminler": []}
+{"id": "d870", "tahminler": []}
+{"id": "d871", "tahminler": []}
+{"id": "d872", "tahminler": []}
+{"id": "d873", "tahminler": []}
+{"id": "d874", "tahminler": []}
+{"id": "d875", "tahminler": []}
+{"id": "d876", "tahminler": []}
+{"id": "d877", "tahminler": []}
+{"id": "d878", "tahminler": []}
+{"id": "d879", "tahminler": []}
+{"id": "d880", "tahminler": []}
+{"id": "d881", "tahminler": []}
+{"id": "d882", "tahminler": []}
+{"id": "d883", "tahminler": []}
+{"id": "d884", "tahminler": []}
+{"id": "d885", "tahminler": []}
+{"id": "d886", "tahminler": []}
+{"id": "d887", "tahminler": []}
+{"id": "d888", "tahminler": []}
+{"id": "d889", "tahminler": []}
+{"id": "d890", "tahminler": []}
+{"id": "d891", "tahminler": []}
+{"id": "d892", "tahminler": []}
+{"id": "d893", "tahminler": []}
+{"id": "d894", "tahminler": []}
+{"id": "d895", "tahminler": []}
+{"id": "d896", "tahminler": []}
+{"id": "d897", "tahminler": []}
+{"id": "d898", "tahminler": []}
+{"id": "d899", "tahminler": []}
+{"id": "d900", "tahminler": []}
+{"id": "d901", "tahminler": [{"bas": 152, "son": 164, "tur": "SAGLIK_BILGISI", "skor": 0.7723420858383179}]}
+{"id": "d902", "tahminler": []}
+{"id": "d903", "tahminler": [{"bas": 42, "son": 53, "tur": "TC_KIMLIK"}, {"bas": 42, "son": 53, "tur": "TCKN", "skor": 0.9997275471687317}, {"bas": 74, "son": 80, "tur": "KISI_AD_SOYAD", "skor": 0.7126764059066772}, {"bas": 86, "son": 88, "tur": "KART_SON_KULLANMA", "skor": 0.44372275471687317}, {"bas": 88, "son": 89, "tur": "KIMLIK_BELGE_NO", "skor": 0.18498964607715607}, {"bas": 89, "son": 93, "tur": "PLAKA", "skor": 0.4532886743545532}, {"bas": 133, "son": 134, "tur": "SAGLIK_BILGISI", "skor": 0.40084967017173767}]}
+{"id": "d904", "tahminler": []}
+{"id": "d905", "tahminler": [{"bas": 42, "son": 53, "tur": "TC_KIMLIK"}, {"bas": 184, "son": 204, "tur": "EMAIL"}, {"bas": 42, "son": 53, "tur": "TCKN", "skor": 0.9950410723686218}, {"bas": 105, "son": 114, "tur": "KIMLIK_BELGE_NO", "skor": 0.9897875785827637}, {"bas": 124, "son": 140, "tur": "KART_NO", "skor": 0.9990391731262207}, {"bas": 156, "son": 172, "tur": "SAGLIK_BILGISI", "skor": 0.8519816398620605}, {"bas": 184, "son": 201, "tur": "EMAIL", "skor": 0.6290541887283325}]}
+{"id": "d906", "tahminler": [{"bas": 9, "son": 21, "tur": "HESAP_NO", "skor": 0.7450679540634155}]}
+{"id": "d907", "tahminler": [{"bas": 56, "son": 67, "tur": "TC_KIMLIK"}, {"bas": 56, "son": 67, "tur": "TCKN", "skor": 0.7430359125137329}]}
+{"id": "d908", "tahminler": [{"bas": 173, "son": 187, "tur": "TC_KIMLIK"}, {"bas": 34, "son": 36, "tur": "DOGUM_TARIHI", "skor": 0.9938333034515381}, {"bas": 37, "son": 39, "tur": "DOGUM_TARIHI", "skor": 0.6684533357620239}, {"bas": 40, "son": 44, "tur": "DOGUM_TARIHI", "skor": 0.9662315845489502}, {"bas": 55, "son": 59, "tur": "KIMLIK_BELGE_NO", "skor": 0.6716793179512024}, {"bas": 85, "son": 127, "tur": "ETTN_EFATURA_ID", "skor": 0.9936641454696655}, {"bas": 140, "son": 149, "tur": "KIMLIK_BELGE_NO", "skor": 0.9627391695976257}, {"bas": 155, "son": 158, "tur": "KART_CVV", "skor": 0.9930621981620789}, {"bas": 177, "son": 180, "tur": "VKN", "skor": 0.36143967509269714}]}
+{"id": "d909", "tahminler": [{"bas": 32, "son": 34, "tur": "SAGLIK_BILGISI", "skor": 0.6344513297080994}, {"bas": 63, "son": 72, "tur": "KISI_AD_SOYAD", "skor": 0.9939717650413513}, {"bas": 147, "son": 153, "tur": "SAGLIK_BILGISI", "skor": 0.7436906099319458}, {"bas": 199, "son": 203, "tur": "KISI_AD_SOYAD", "skor": 0.9875484704971313}, {"bas": 240, "son": 247, "tur": "KIMLIK_BELGE_NO", "skor": 0.8647681474685669}]}
+{"id": "d910", "tahminler": []}
+{"id": "d911", "tahminler": [{"bas": 43, "son": 52, "tur": "PASAPORT_TR"}]}
+{"id": "d912", "tahminler": [{"bas": 35, "son": 37, "tur": "IP_ADRES", "skor": 0.7615746259689331}, {"bas": 63, "son": 67, "tur": "KIMLIK_BELGE_NO", "skor": 0.8319351673126221}, {"bas": 88, "son": 95, "tur": "KISI_AD_SOYAD", "skor": 0.9989042282104492}, {"bas": 104, "son": 126, "tur": "TUZEL_KISI", "skor": 0.9985317587852478}, {"bas": 135, "son": 148, "tur": "KART_NO", "skor": 0.7858672738075256}]}
+{"id": "d913", "tahminler": [{"bas": 65, "son": 78, "tur": "DOGUM_TARIHI", "skor": 0.9947403073310852}]}
+{"id": "d914", "tahminler": [{"bas": 33, "son": 36, "tur": "KART_CVV", "skor": 0.9291207790374756}, {"bas": 42, "son": 44, "tur": "KART_SON_KULLANMA", "skor": 0.9769763350486755}, {"bas": 105, "son": 119, "tur": "KISI_AD_SOYAD", "skor": 0.9941973686218262}]}
+{"id": "d915", "tahminler": []}
+{"id": "d916", "tahminler": [{"bas": 109, "son": 120, "tur": "PLAKA_TR"}, {"bas": 81, "son": 101, "tur": "TUZEL_KISI", "skor": 0.9360218048095703}, {"bas": 112, "son": 120, "tur": "PLAKA", "skor": 0.7840908765792847}]}
+{"id": "d917", "tahminler": [{"bas": 93, "son": 115, "tur": "EMAIL"}, {"bas": 40, "son": 48, "tur": "KIMLIK_BELGE_NO", "skor": 0.9600929617881775}, {"bas": 57, "son": 79, "tur": "TUZEL_KISI", "skor": 0.999309241771698}, {"bas": 93, "son": 104, "tur": "EMAIL", "skor": 0.7160397171974182}, {"bas": 111, "son": 112, "tur": "EMAIL", "skor": 0.7144563794136047}, {"bas": 129, "son": 144, "tur": "SAGLIK_BILGISI", "skor": 0.9916418790817261}, {"bas": 165, "son": 171, "tur": "KISI_AD_SOYAD", "skor": 0.8482485413551331}, {"bas": 181, "son": 200, "tur": "KART_NO", "skor": 0.931979775428772}, {"bas": 211, "son": 221, "tur": "KIMLIK_BELGE_NO", "skor": 0.9781737923622131}]}
+{"id": "d918", "tahminler": [{"bas": 42, "son": 46, "tur": "KART_NO", "skor": 0.6874117851257324}]}
+{"id": "d919", "tahminler": [{"bas": 190, "son": 204, "tur": "TELEFON_TR"}, {"bas": 27, "son": 46, "tur": "KART_NO", "skor": 0.9930221438407898}, {"bas": 57, "son": 63, "tur": "KISI_AD_SOYAD", "skor": 0.9744406938552856}, {"bas": 78, "son": 79, "tur": "SAGLIK_BILGISI", "skor": 0.7625641822814941}, {"bas": 82, "son": 96, "tur": "SAGLIK_BILGISI", "skor": 0.8400418758392334}, {"bas": 107, "son": 112, "tur": "KISI_AD_SOYAD", "skor": 0.9945293068885803}, {"bas": 128, "son": 134, "tur": "DIN_ETNIK_SIYASI_TERIM", "skor": 0.7514105439186096}, {"bas": 140, "son": 142, "tur": "KIMLIK_BELGE_NO", "skor": 0.261418879032135}, {"bas": 142, "son": 147, "tur": "PLAKA", "skor": 0.6255385279655457}, {"bas": 166, "son": 170, "tur": "SAGLIK_BILGISI", "skor": 0.978469729423523}, {"bas": 190, "son": 204, "tur": "TELEFON", "skor": 0.9982771277427673}]}
+{"id": "d920", "tahminler": [{"bas": 81, "son": 94, "tur": "IP_ADRESI"}, {"bas": 63, "son": 67, "tur": "SAGLIK_BILGISI", "skor": 0.9099056720733643}, {"bas": 81, "son": 84, "tur": "IP_ADRES", "skor": 0.989493727684021}, {"bas": 84, "son": 85, "tur": "KIMLIK_BELGE_NO", "skor": 0.31997427344322205}, {"bas": 87, "son": 88, "tur": "EMAIL", "skor": 0.368285596370697}, {"bas": 88, "son": 91, "tur": "SWIFT_BIC", "skor": 0.42535296082496643}, {"bas": 91, "son": 92, "tur": "EMAIL", "skor": 0.46579477190971375}, {"bas": 92, "son": 94, "tur": "KIMLIK_BELGE_NO", "skor": 0.7497124075889587}, {"bas": 103, "son": 116, "tur": "TUZEL_KISI", "skor": 0.9893584251403809}, {"bas": 134, "son": 138, "tur": "TUZEL_KISI", "skor": 0.9575481414794922}, {"bas": 139, "son": 142, "tur": "TUZEL_KISI", "skor": 0.7041435241699219}, {"bas": 211, "son": 215, "tur": "KART_CVV", "skor": 0.6108235716819763}]}
+{"id": "d921", "tahminler": []}
+{"id": "d922", "tahminler": [{"bas": 138, "son": 151, "tur": "IP_ADRESI"}, {"bas": 32, "son": 54, "tur": "SAGLIK_BILGISI", "skor": 0.907260000705719}, {"bas": 123, "son": 133, "tur": "KIMLIK_BELGE_NO", "skor": 0.965555727481842}, {"bas": 138, "son": 140, "tur": "IP_ADRES", "skor": 0.9757177829742432}]}
+{"id": "d923", "tahminler": []}
+{"id": "d924", "tahminler": []}
+{"id": "d925", "tahminler": [{"bas": 19, "son": 40, "tur": "ADRES"}, {"bas": 41, "son": 60, "tur": "ADRES"}, {"bas": 27, "son": 40, "tur": "ADRES", "skor": 0.9919312000274658}, {"bas": 42, "son": 79, "tur": "ADRES", "skor": 0.9882511496543884}, {"bas": 94, "son": 98, "tur": "PLAKA", "skor": 0.30641254782676697}, {"bas": 109, "son": 120, "tur": "KISI_AD_SOYAD", "skor": 0.9970660209655762}, {"bas": 132, "son": 133, "tur": "SAGLIK_BILGISI", "skor": 0.7607588768005371}, {"bas": 178, "son": 181, "tur": "KIMLIK_BELGE_NO", "skor": 0.4712230861186981}, {"bas": 293, "son": 299, "tur": "KISI_AD_SOYAD", "skor": 0.9850111603736877}]}
+{"id": "d926", "tahminler": [{"bas": 98, "son": 120, "tur": "EMAIL"}, {"bas": 29, "son": 33, "tur": "HESAP_NO", "skor": 0.902742862701416}, {"bas": 34, "son": 41, "tur": "KART_NO", "skor": 0.38665103912353516}, {"bas": 41, "son": 45, "tur": "KIMLIK_BELGE_NO", "skor": 0.5433973073959351}, {"bas": 98, "son": 109, "tur": "EMAIL", "skor": 0.9951828122138977}, {"bas": 110, "son": 117, "tur": "EMAIL", "skor": 0.6587063074111938}, {"bas": 162, "son": 169, "tur": "SAGLIK_BILGISI", "skor": 0.6937981247901917}, {"bas": 191, "son": 193, "tur": "DOGUM_TARIHI", "skor": 0.9979628324508667}, {"bas": 194, "son": 196, "tur": "DOGUM_TARIHI", "skor": 0.8416910767555237}, {"bas": 197, "son": 201, "tur": "DOGUM_TARIHI", "skor": 0.9893283247947693}, {"bas": 212, "son": 218, "tur": "KIMLIK_BELGE_NO", "skor": 0.9042142629623413}]}
+{"id": "d927", "tahminler": [{"bas": 32, "son": 53, "tur": "EMAIL"}, {"bas": 157, "son": 175, "tur": "ADRES"}, {"bas": 32, "son": 41, "tur": "EMAIL", "skor": 0.9928923845291138}, {"bas": 49, "son": 50, "tur": "EMAIL", "skor": 0.5155420899391174}, {"bas": 101, "son": 109, "tur": "EMAIL", "skor": 0.39452049136161804}, {"bas": 123, "son": 132, "tur": "PASAPORT_NO", "skor": 0.9986573457717896}, {"bas": 146, "son": 150, "tur": "HESAP_NO", "skor": 0.8523285388946533}, {"bas": 151, "son": 156, "tur": "HESAP_NO", "skor": 0.39096471667289734}, {"bas": 165, "son": 200, "tur": "ADRES", "skor": 0.9857270121574402}, {"bas": 201, "son": 215, "tur": "ADRES", "skor": 0.9911417961120605}, {"bas": 240, "son": 248, "tur": "KIMLIK_BELGE_NO", "skor": 0.8821009397506714}]}
+{"id": "d928", "tahminler": [{"bas": 179, "son": 193, "tur": "TC_KIMLIK"}, {"bas": 43, "son": 85, "tur": "ETTN_EFATURA_ID", "skor": 0.997732400894165}, {"bas": 96, "son": 106, "tur": "HESAP_NO", "skor": 0.9968319535255432}, {"bas": 190, "son": 191, "tur": "KIMLIK_BELGE_NO", "skor": 0.6281386613845825}]}
+{"id": "d929", "tahminler": [{"bas": 132, "son": 152, "tur": "ADRES"}, {"bas": 33, "son": 43, "tur": "KISI_AD_SOYAD", "skor": 0.9985820651054382}, {"bas": 66, "son": 74, "tur": "KIMLIK_BELGE_NO", "skor": 0.9276572465896606}, {"bas": 88, "son": 97, "tur": "PASAPORT_NO", "skor": 0.99664306640625}, {"bas": 126, "son": 128, "tur": "KART_SON_KULLANMA", "skor": 0.8799111843109131}, {"bas": 140, "son": 152, "tur": "ADRES", "skor": 0.9782428741455078}, {"bas": 154, "son": 195, "tur": "ADRES", "skor": 0.9730040431022644}]}
+{"id": "d930", "tahminler": []}
+{"id": "d931", "tahminler": []}
+{"id": "d932", "tahminler": [{"bas": 244, "son": 269, "tur": "EMAIL"}, {"bas": 30, "son": 34, "tur": "KISI_AD_SOYAD", "skor": 0.9675021171569824}, {"bas": 48, "son": 63, "tur": "SAGLIK_BILGISI", "skor": 0.9930039048194885}, {"bas": 116, "son": 132, "tur": "EMAIL", "skor": 0.9877815246582031}, {"bas": 144, "son": 156, "tur": "SAGLIK_BILGISI", "skor": 0.5903565883636475}, {"bas": 171, "son": 192, "tur": "SAGLIK_BILGISI", "skor": 0.7632065415382385}, {"bas": 202, "son": 214, "tur": "KISI_AD_SOYAD", "skor": 0.9936540126800537}, {"bas": 227, "son": 232, "tur": "DOGUM_TARIHI", "skor": 0.39750930666923523}, {"bas": 244, "son": 266, "tur": "EMAIL", "skor": 0.8069736957550049}]}
+{"id": "d933", "tahminler": [{"bas": 28, "son": 39, "tur": "KISI_AD_SOYAD", "skor": 0.9612933397293091}, {"bas": 76, "son": 84, "tur": "KIMLIK_BELGE_NO", "skor": 0.4285551607608795}, {"bas": 97, "son": 106, "tur": "KIMLIK_BELGE_NO", "skor": 0.6957703828811646}]}
+{"id": "d934", "tahminler": [{"bas": 23, "son": 37, "tur": "IP_ADRESI"}]}
+{"id": "d935", "tahminler": [{"bas": 39, "son": 49, "tur": "KIMLIK_BELGE_NO", "skor": 0.9743186831474304}, {"bas": 64, "son": 66, "tur": "DOGUM_TARIHI", "skor": 0.9973198771476746}, {"bas": 66, "son": 74, "tur": "DOGUM_TARIHI", "skor": 0.6608800888061523}]}
+{"id": "d936", "tahminler": [{"bas": 120, "son": 131, "tur": "PLAKA_TR"}, {"bas": 34, "son": 38, "tur": "DIN_ETNIK_SIYASI_TERIM", "skor": 0.7418425679206848}, {"bas": 49, "son": 64, "tur": "TELEFON", "skor": 0.985140860080719}, {"bas": 102, "son": 112, "tur": "KIMLIK_BELGE_NO", "skor": 0.5715716481208801}, {"bas": 120, "son": 131, "tur": "PLAKA", "skor": 0.9954763054847717}, {"bas": 139, "son": 144, "tur": "PLAKA", "skor": 0.5744888782501221}, {"bas": 155, "son": 160, "tur": "KISI_AD_SOYAD", "skor": 0.9214017987251282}, {"bas": 175, "son": 197, "tur": "SAGLIK_BILGISI", "skor": 0.8186983466148376}, {"bas": 209, "son": 219, "tur": "KIMLIK_BELGE_NO", "skor": 0.6267265677452087}]}
+{"id": "d937", "tahminler": [{"bas": 46, "son": 56, "tur": "KIMLIK_BELGE_NO", "skor": 0.907698392868042}]}
+{"id": "d938", "tahminler": [{"bas": 10, "son": 45, "tur": "ADRES"}, {"bas": 45, "son": 68, "tur": "ADRES"}, {"bas": 34, "son": 67, "tur": "ADRES", "skor": 0.9741681814193726}, {"bas": 68, "son": 84, "tur": "ADRES", "skor": 0.969269871711731}, {"bas": 85, "son": 88, "tur": "TELEFON", "skor": 0.5434654355049133}, {"bas": 89, "son": 104, "tur": "TELEFON", "skor": 0.9057804942131042}]}
+{"id": "d939", "tahminler": [{"bas": 110, "son": 131, "tur": "EMAIL"}, {"bas": 142, "son": 153, "tur": "TELEFON_TR"}, {"bas": 40, "son": 46, "tur": "KIMLIK_BELGE_NO", "skor": 0.9421283602714539}, {"bas": 57, "son": 61, "tur": "KIMLIK_BELGE_NO", "skor": 0.8023672103881836}, {"bas": 86, "son": 88, "tur": "DOGUM_TARIHI", "skor": 0.9953195452690125}, {"bas": 89, "son": 96, "tur": "DOGUM_TARIHI", "skor": 0.8592551350593567}, {"bas": 110, "son": 121, "tur": "EMAIL", "skor": 0.9799910187721252}, {"bas": 127, "son": 128, "tur": "EMAIL", "skor": 0.5378817319869995}, {"bas": 142, "son": 153, "tur": "TELEFON", "skor": 0.9994229078292847}]}
+{"id": "d940", "tahminler": [{"bas": 38, "son": 44, "tur": "KIMLIK_BELGE_NO", "skor": 0.8685098886489868}, {"bas": 55, "son": 59, "tur": "HESAP_NO", "skor": 0.9970506429672241}, {"bas": 60, "son": 66, "tur": "KART_NO", "skor": 0.3955481946468353}, {"bas": 76, "son": 92, "tur": "KART_NO", "skor": 0.9983386993408203}, {"bas": 184, "son": 190, "tur": "DIN_ETNIK_SIYASI_TERIM", "skor": 0.8206448554992676}, {"bas": 201, "son": 207, "tur": "KISI_AD_SOYAD", "skor": 0.5821922421455383}, {"bas": 223, "son": 235, "tur": "EMAIL", "skor": 0.9232155680656433}]}
+{"id": "d941", "tahminler": [{"bas": 25, "son": 36, "tur": "KISI_AD_SOYAD", "skor": 0.9980537295341492}, {"bas": 52, "son": 68, "tur": "EMAIL", "skor": 0.8326526880264282}, {"bas": 82, "son": 100, "tur": "SAGLIK_BILGISI", "skor": 0.9683867692947388}, {"bas": 111, "son": 116, "tur": "KISI_AD_SOYAD", "skor": 0.9458950757980347}, {"bas": 142, "son": 144, "tur": "DOGUM_TARIHI", "skor": 0.9936583638191223}, {"bas": 145, "son": 152, "tur": "DOGUM_TARIHI", "skor": 0.9144747257232666}, {"bas": 175, "son": 183, "tur": "VKN", "skor": 0.5164772272109985}]}
+{"id": "d942", "tahminler": [{"bas": 119, "son": 135, "tur": "ADRES"}, {"bas": 76, "son": 97, "tur": "TUZEL_KISI", "skor": 0.9956035017967224}, {"bas": 98, "son": 100, "tur": "TUZEL_KISI", "skor": 0.9535689353942871}, {"bas": 113, "son": 118, "tur": "TUZEL_KISI", "skor": 0.3599597215652466}, {"bas": 127, "son": 181, "tur": "ADRES", "skor": 0.9815300107002258}, {"bas": 197, "son": 217, "tur": "SAGLIK_BILGISI", "skor": 0.8087506294250488}]}
+{"id": "d943", "tahminler": [{"bas": 30, "son": 40, "tur": "HESAP_NO", "skor": 0.993433952331543}, {"bas": 73, "son": 83, "tur": "EMAIL", "skor": 0.5981699824333191}, {"bas": 111, "son": 117, "tur": "DIN_ETNIK_SIYASI_TERIM", "skor": 0.7632207870483398}, {"bas": 178, "son": 181, "tur": "KIMLIK_BELGE_NO", "skor": 0.6755871176719666}, {"bas": 201, "son": 206, "tur": "SWIFT_BIC", "skor": 0.9034451842308044}, {"bas": 207, "son": 211, "tur": "PLAKA", "skor": 0.2590062916278839}]}
+{"id": "d944", "tahminler": []}
+{"id": "d945", "tahminler": [{"bas": 56, "son": 67, "tur": "TC_KIMLIK"}, {"bas": 42, "son": 46, "tur": "HESAP_NO", "skor": 0.7681124806404114}, {"bas": 56, "son": 67, "tur": "TCKN", "skor": 0.5172502994537354}]}
+{"id": "d946", "tahminler": []}
+{"id": "d947", "tahminler": [{"bas": 42, "son": 46, "tur": "DOGUM_TARIHI", "skor": 0.9991797804832458}, {"bas": 50, "son": 52, "tur": "DOGUM_TARIHI", "skor": 0.3068857789039612}, {"bas": 63, "son": 73, "tur": "KIMLIK_BELGE_NO", "skor": 0.9779807329177856}, {"bas": 126, "son": 131, "tur": "SAGLIK_BILGISI", "skor": 0.33695051074028015}]}
+{"id": "d948", "tahminler": [{"bas": 212, "son": 223, "tur": "TC_KIMLIK"}, {"bas": 59, "son": 93, "tur": "ETTN_EFATURA_ID", "skor": 0.5103939175605774}, {"bas": 141, "son": 144, "tur": "KART_CVV", "skor": 0.798975944519043}, {"bas": 212, "son": 223, "tur": "TCKN", "skor": 0.5252257585525513}]}
+{"id": "d949", "tahminler": [{"bas": 8, "son": 43, "tur": "ADRES"}, {"bas": 84, "son": 95, "tur": "TELEFON_TR"}, {"bas": 34, "son": 42, "tur": "ADRES", "skor": 0.9731636047363281}, {"bas": 44, "son": 79, "tur": "ADRES", "skor": 0.9217207431793213}, {"bas": 84, "son": 95, "tur": "TELEFON", "skor": 0.9996033310890198}]}
+{"id": "d950", "tahminler": [{"bas": 21, "son": 38, "tur": "TELEFON_TR"}, {"bas": 21, "son": 22, "tur": "TELEFON", "skor": 0.6972196102142334}, {"bas": 33, "son": 35, "tur": "TELEFON", "skor": 0.5759925842285156}]}
+{"id": "d951", "tahminler": [{"bas": 116, "son": 131, "tur": "KART_NO", "skor": 0.9588591456413269}, {"bas": 149, "son": 153, "tur": "IP_ADRES", "skor": 0.6364910006523132}, {"bas": 200, "son": 206, "tur": "KISI_AD_SOYAD", "skor": 0.7604259848594666}, {"bas": 215, "son": 231, "tur": "TUZEL_KISI", "skor": 0.994210422039032}]}
+{"id": "d952", "tahminler": [{"bas": 93, "son": 107, "tur": "IP_ADRESI"}, {"bas": 85, "son": 88, "tur": "KART_CVV", "skor": 0.9978825449943542}, {"bas": 93, "son": 95, "tur": "IP_ADRES", "skor": 0.9815264344215393}, {"bas": 103, "son": 104, "tur": "KIMLIK_BELGE_NO", "skor": 0.43372485041618347}, {"bas": 113, "son": 125, "tur": "KISI_AD_SOYAD", "skor": 0.9957893490791321}, {"bas": 136, "son": 146, "tur": "KIMLIK_BELGE_NO", "skor": 0.5895212292671204}]}
+{"id": "d953", "tahminler": [{"bas": 9, "son": 43, "tur": "ADRES"}, {"bas": 34, "son": 43, "tur": "ADRES", "skor": 0.974118173122406}, {"bas": 45, "son": 77, "tur": "ADRES", "skor": 0.9687739610671997}, {"bas": 82, "son": 83, "tur": "TELEFON", "skor": 0.9962105751037598}, {"bas": 83, "son": 97, "tur": "TELEFON", "skor": 0.8917979001998901}]}
+{"id": "d954", "tahminler": [{"bas": 38, "son": 48, "tur": "KIMLIK_BELGE_NO", "skor": 0.9540871381759644}, {"bas": 64, "son": 70, "tur": "DIN_ETNIK_SIYASI_TERIM", "skor": 0.5026649236679077}, {"bas": 79, "son": 96, "tur": "TUZEL_KISI", "skor": 0.9954662919044495}, {"bas": 97, "son": 99, "tur": "TUZEL_KISI", "skor": 0.9428397417068481}, {"bas": 123, "son": 131, "tur": "SAGLIK_BILGISI", "skor": 0.733584463596344}, {"bas": 143, "son": 145, "tur": "KIMLIK_BELGE_NO", "skor": 0.8917166590690613}, {"bas": 145, "son": 146, "tur": "KIMLIK_BELGE_NO", "skor": 0.6059616208076477}, {"bas": 167, "son": 177, "tur": "SAGLIK_BILGISI", "skor": 0.6437232494354248}]}
+{"id": "d955", "tahminler": [{"bas": 21, "son": 22, "tur": "KIMLIK_BELGE_NO", "skor": 0.5288756489753723}]}
+{"id": "d956", "tahminler": [{"bas": 11, "son": 46, "tur": "ADRES"}, {"bas": 97, "son": 108, "tur": "TELEFON_TR"}, {"bas": 34, "son": 92, "tur": "ADRES", "skor": 0.9496831297874451}, {"bas": 97, "son": 108, "tur": "TELEFON", "skor": 0.9989799857139587}]}
+{"id": "d957", "tahminler": [{"bas": 50, "son": 61, "tur": "KISI_AD_SOYAD", "skor": 0.9955013990402222}, {"bas": 65, "son": 69, "tur": "TCKN", "skor": 0.783915102481842}, {"bas": 70, "son": 78, "tur": "KART_NO", "skor": 0.9388932585716248}]}
+{"id": "d958", "tahminler": [{"bas": 58, "son": 69, "tur": "TC_KIMLIK"}, {"bas": 104, "son": 113, "tur": "PASAPORT_TR"}, {"bas": 38, "son": 43, "tur": "KISI_AD_SOYAD", "skor": 0.9567745327949524}, {"bas": 58, "son": 69, "tur": "TCKN", "skor": 0.9987999200820923}, {"bas": 80, "son": 90, "tur": "HESAP_NO", "skor": 0.9948752522468567}, {"bas": 104, "son": 113, "tur": "PASAPORT_NO", "skor": 0.9763790965080261}]}
+{"id": "d959", "tahminler": []}
+{"id": "d960", "tahminler": [{"bas": 21, "son": 63, "tur": "ETTN_EFATURA_ID", "skor": 0.9599966406822205}]}
+{"id": "d961", "tahminler": [{"bas": 37, "son": 47, "tur": "HESAP_NO", "skor": 0.43221306800842285}]}
+{"id": "d962", "tahminler": [{"bas": 40, "son": 48, "tur": "KIMLIK_BELGE_NO", "skor": 0.9093157649040222}, {"bas": 82, "son": 84, "tur": "KIMLIK_BELGE_NO", "skor": 0.5639568567276001}, {"bas": 143, "son": 157, "tur": "EMAIL", "skor": 0.980612576007843}, {"bas": 168, "son": 178, "tur": "KIMLIK_BELGE_NO", "skor": 0.8058083653450012}, {"bas": 188, "son": 193, "tur": "SWIFT_BIC", "skor": 0.6657044291496277}, {"bas": 193, "son": 198, "tur": "EMAIL", "skor": 0.6618747115135193}, {"bas": 230, "son": 236, "tur": "KIMLIK_BELGE_NO", "skor": 0.6549147367477417}, {"bas": 252, "son": 269, "tur": "SAGLIK_BILGISI", "skor": 0.7602427005767822}]}
+{"id": "d963", "tahminler": [{"bas": 23, "son": 35, "tur": "IP_ADRESI"}]}
+{"id": "d964", "tahminler": [{"bas": 27, "son": 42, "tur": "KART_NO", "skor": 0.9382656216621399}]}
+{"id": "d965", "tahminler": [{"bas": 46, "son": 60, "tur": "IP_ADRESI"}, {"bas": 32, "son": 41, "tur": "KIMLIK_BELGE_NO", "skor": 0.9978959560394287}, {"bas": 46, "son": 49, "tur": "IP_ADRES", "skor": 0.9981229901313782}, {"bas": 50, "son": 53, "tur": "IP_ADRES", "skor": 0.45524096488952637}, {"bas": 96, "son": 98, "tur": "KIMLIK_BELGE_NO", "skor": 0.979087233543396}, {"bas": 98, "son": 99, "tur": "KIMLIK_BELGE_NO", "skor": 0.5548458695411682}, {"bas": 99, "son": 105, "tur": "VKN", "skor": 0.3459404706954956}, {"bas": 150, "son": 182, "tur": "IBAN_TR", "skor": 0.8733279705047607}, {"bas": 194, "son": 204, "tur": "KIMLIK_BELGE_NO", "skor": 0.8297186493873596}, {"bas": 220, "son": 254, "tur": "SWIFT_BIC", "skor": 0.7849227786064148}]}
+{"id": "d966", "tahminler": [{"bas": 29, "son": 39, "tur": "KIMLIK_BELGE_NO", "skor": 0.8496671319007874}, {"bas": 46, "son": 78, "tur": "IBAN_TR", "skor": 0.9988342523574829}, {"bas": 92, "son": 96, "tur": "HESAP_NO", "skor": 0.9899691939353943}, {"bas": 96, "son": 97, "tur": "KIMLIK_BELGE_NO", "skor": 0.35047945380210876}, {"bas": 193, "son": 206, "tur": "HESAP_NO", "skor": 0.6048291921615601}, {"bas": 221, "son": 223, "tur": "DOGUM_TARIHI", "skor": 0.999381422996521}, {"bas": 223, "son": 231, "tur": "DOGUM_TARIHI", "skor": 0.8392364978790283}]}
+{"id": "d967", "tahminler": [{"bas": 20, "son": 41, "tur": "EMAIL"}, {"bas": 25, "son": 31, "tur": "EMAIL", "skor": 0.6444414854049683}]}
+{"id": "d968", "tahminler": []}
+{"id": "d969", "tahminler": [{"bas": 26, "son": 41, "tur": "KART_NO", "skor": 0.9917795062065125}, {"bas": 52, "son": 57, "tur": "KISI_AD_SOYAD", "skor": 0.9593384861946106}, {"bas": 73, "son": 89, "tur": "EMAIL", "skor": 0.9911085367202759}, {"bas": 95, "son": 98, "tur": "KART_CVV", "skor": 0.9720622897148132}, {"bas": 119, "son": 123, "tur": "PLAKA", "skor": 0.5268540382385254}]}
+{"id": "d970", "tahminler": [{"bas": 132, "son": 146, "tur": "IP_ADRESI"}, {"bas": 43, "son": 52, "tur": "EMAIL", "skor": 0.7811349034309387}, {"bas": 68, "son": 70, "tur": "SAGLIK_BILGISI", "skor": 0.5580657124519348}, {"bas": 81, "son": 88, "tur": "SAGLIK_BILGISI", "skor": 0.7916335463523865}, {"bas": 95, "son": 110, "tur": "KART_NO", "skor": 0.9153575301170349}, {"bas": 132, "son": 134, "tur": "IP_ADRES", "skor": 0.8083739280700684}, {"bas": 157, "son": 169, "tur": "KISI_AD_SOYAD", "skor": 0.976621687412262}, {"bas": 190, "son": 205, "tur": "SAGLIK_BILGISI", "skor": 0.9710659384727478}]}
+{"id": "d971", "tahminler": [{"bas": 41, "son": 51, "tur": "PLAKA_TR"}]}
+{"id": "d972", "tahminler": [{"bas": 23, "son": 37, "tur": "IP_ADRESI"}]}
+{"id": "d973", "tahminler": [{"bas": 25, "son": 57, "tur": "IBAN_TR", "skor": 0.9919779896736145}, {"bas": 73, "son": 107, "tur": "SWIFT_BIC", "skor": 0.8610261678695679}, {"bas": 139, "son": 145, "tur": "KIMLIK_BELGE_NO", "skor": 0.7198407053947449}, {"bas": 156, "son": 160, "tur": "HESAP_NO", "skor": 0.9914406538009644}, {"bas": 178, "son": 185, "tur": "KISI_AD_SOYAD", "skor": 0.9922508597373962}, {"bas": 193, "son": 195, "tur": "KART_SON_KULLANMA", "skor": 0.4741400480270386}, {"bas": 195, "son": 196, "tur": "VKN", "skor": 0.25035709142684937}, {"bas": 222, "son": 230, "tur": "KIMLIK_BELGE_NO", "skor": 0.8736007809638977}]}
+{"id": "d974", "tahminler": [{"bas": 46, "son": 50, "tur": "KART_NO", "skor": 0.4510139226913452}, {"bas": 50, "son": 51, "tur": "KIMLIK_BELGE_NO", "skor": 0.4440779685974121}]}
+{"id": "d975", "tahminler": [{"bas": 46, "son": 56, "tur": "KIMLIK_BELGE_NO", "skor": 0.5244056582450867}]}
+{"id": "d976", "tahminler": [{"bas": 38, "son": 43, "tur": "EMAIL", "skor": 0.3760295808315277}, {"bas": 44, "son": 50, "tur": "EMAIL", "skor": 0.4056374430656433}]}
+{"id": "d977", "tahminler": [{"bas": 90, "son": 100, "tur": "PLAKA_TR"}, {"bas": 66, "son": 70, "tur": "KISI_AD_SOYAD", "skor": 0.9347302913665771}, {"bas": 90, "son": 100, "tur": "PLAKA", "skor": 0.9901437759399414}]}
+{"id": "d978", "tahminler": [{"bas": 41, "son": 50, "tur": "PASAPORT_TR"}, {"bas": 124, "son": 132, "tur": "PLAKA_TR"}, {"bas": 41, "son": 50, "tur": "PASAPORT_NO", "skor": 0.9851409196853638}, {"bas": 107, "son": 116, "tur": "KISI_AD_SOYAD", "skor": 0.9951520562171936}, {"bas": 124, "son": 132, "tur": "PLAKA", "skor": 0.9937808513641357}, {"bas": 165, "son": 177, "tur": "EMAIL", "skor": 0.6843919157981873}]}
+{"id": "d979", "tahminler": [{"bas": 20, "son": 32, "tur": "EMAIL", "skor": 0.9921958446502686}, {"bas": 33, "son": 38, "tur": "EMAIL", "skor": 0.37532755732536316}]}
+{"id": "d980", "tahminler": [{"bas": 38, "son": 43, "tur": "EMAIL", "skor": 0.4407607913017273}, {"bas": 44, "son": 50, "tur": "EMAIL", "skor": 0.7844766974449158}]}
+{"id": "d981", "tahminler": []}
+{"id": "d982", "tahminler": [{"bas": 60, "son": 70, "tur": "KIMLIK_BELGE_NO", "skor": 0.9878318905830383}, {"bas": 91, "son": 95, "tur": "KIMLIK_BELGE_NO", "skor": 0.5448097586631775}, {"bas": 144, "son": 150, "tur": "KIMLIK_BELGE_NO", "skor": 0.9644854068756104}, {"bas": 162, "son": 172, "tur": "KIMLIK_BELGE_NO", "skor": 0.6471465229988098}, {"bas": 189, "son": 196, "tur": "SAGLIK_BILGISI", "skor": 0.5868718028068542}, {"bas": 244, "son": 248, "tur": "PLAKA", "skor": 0.4047199487686157}, {"bas": 249, "son": 253, "tur": "PLAKA", "skor": 0.5272166132926941}]}
+{"id": "d983", "tahminler": []}
+{"id": "d984", "tahminler": [{"bas": 46, "son": 56, "tur": "KIMLIK_BELGE_NO", "skor": 0.48139527440071106}]}
+{"id": "d985", "tahminler": []}
+{"id": "d986", "tahminler": [{"bas": 125, "son": 133, "tur": "PLAKA_TR"}, {"bas": 40, "son": 50, "tur": "KIMLIK_BELGE_NO", "skor": 0.9587794542312622}, {"bas": 59, "son": 79, "tur": "TUZEL_KISI", "skor": 0.9955188035964966}, {"bas": 125, "son": 133, "tur": "SURUCU_BELGESI_NO", "skor": 0.3093649446964264}, {"bas": 149, "son": 161, "tur": "EMAIL", "skor": 0.8664329051971436}]}
+{"id": "d987", "tahminler": []}
+{"id": "d988", "tahminler": [{"bas": 146, "son": 154, "tur": "PLAKA_TR"}, {"bas": 58, "son": 66, "tur": "KIMLIK_BELGE_NO", "skor": 0.997779905796051}, {"bas": 76, "son": 89, "tur": "KISI_AD_SOYAD", "skor": 0.8787732720375061}, {"bas": 103, "son": 107, "tur": "HESAP_NO", "skor": 0.6594171524047852}, {"bas": 122, "son": 138, "tur": "KART_NO", "skor": 0.7716941237449646}, {"bas": 146, "son": 154, "tur": "PLAKA", "skor": 0.9818432927131653}, {"bas": 168, "son": 186, "tur": "SAGLIK_BILGISI", "skor": 0.9492799639701843}]}
+{"id": "d989", "tahminler": [{"bas": 91, "son": 108, "tur": "ADRES"}, {"bas": 50, "son": 55, "tur": "KISI_AD_SOYAD", "skor": 0.9824780821800232}, {"bas": 68, "son": 76, "tur": "KIMLIK_BELGE_NO", "skor": 0.7376986145973206}, {"bas": 99, "son": 108, "tur": "ADRES", "skor": 0.9802537560462952}, {"bas": 110, "son": 148, "tur": "ADRES", "skor": 0.9665898084640503}, {"bas": 160, "son": 170, "tur": "KIMLIK_BELGE_NO", "skor": 0.8344449996948242}, {"bas": 181, "son": 191, "tur": "KIMLIK_BELGE_NO", "skor": 0.9003672003746033}, {"bas": 207, "son": 219, "tur": "EMAIL", "skor": 0.8614452481269836}]}
+{"id": "d990", "tahminler": [{"bas": 39, "son": 41, "tur": "KIMLIK_BELGE_NO", "skor": 0.8742842674255371}, {"bas": 107, "son": 110, "tur": "KIMLIK_BELGE_NO", "skor": 0.4671189486980438}, {"bas": 111, "son": 114, "tur": "KART_CVV", "skor": 0.9908667802810669}, {"bas": 120, "son": 126, "tur": "HESAP_NO", "skor": 0.2670111656188965}, {"bas": 142, "son": 176, "tur": "SWIFT_BIC", "skor": 0.6425081491470337}, {"bas": 187, "son": 192, "tur": "KART_CVV", "skor": 0.5999483466148376}, {"bas": 204, "son": 214, "tur": "KIMLIK_BELGE_NO", "skor": 0.8075796365737915}]}
+{"id": "d991", "tahminler": [{"bas": 85, "son": 87, "tur": "DOGUM_TARIHI", "skor": 0.9959839582443237}, {"bas": 88, "son": 90, "tur": "DOGUM_TARIHI", "skor": 0.566340982913971}, {"bas": 91, "son": 95, "tur": "DOGUM_TARIHI", "skor": 0.9890292882919312}, {"bas": 125, "son": 135, "tur": "KIMLIK_BELGE_NO", "skor": 0.9542766213417053}, {"bas": 146, "son": 156, "tur": "KIMLIK_BELGE_NO", "skor": 0.9282209873199463}]}
+{"id": "d992", "tahminler": []}
+{"id": "d993", "tahminler": [{"bas": 76, "son": 102, "tur": "TUZEL_KISI", "skor": 0.8796579837799072}, {"bas": 112, "son": 119, "tur": "KIMLIK_BELGE_NO", "skor": 0.2908913791179657}]}
+{"id": "d994", "tahminler": []}
+{"id": "d995", "tahminler": [{"bas": 56, "son": 71, "tur": "SAGLIK_BILGISI", "skor": 0.5372486710548401}, {"bas": 87, "son": 103, "tur": "KART_NO", "skor": 0.827813982963562}, {"bas": 173, "son": 177, "tur": "KART_CVV", "skor": 0.49186280369758606}]}
+{"id": "d996", "tahminler": [{"bas": 125, "son": 137, "tur": "IP_ADRESI"}, {"bas": 62, "son": 81, "tur": "KART_NO", "skor": 0.983916163444519}, {"bas": 88, "son": 118, "tur": "IBAN_TR", "skor": 0.8136892318725586}, {"bas": 125, "son": 126, "tur": "IP_ADRES", "skor": 0.9538213610649109}, {"bas": 179, "son": 181, "tur": "DOGUM_TARIHI", "skor": 0.9958643913269043}, {"bas": 182, "son": 184, "tur": "DOGUM_TARIHI", "skor": 0.9608837366104126}, {"bas": 185, "son": 189, "tur": "DOGUM_TARIHI", "skor": 0.9990799427032471}, {"bas": 202, "son": 210, "tur": "TUZEL_KISI", "skor": 0.29522284865379333}]}
+{"id": "d997", "tahminler": [{"bas": 118, "son": 132, "tur": "TC_KIMLIK"}, {"bas": 42, "son": 46, "tur": "DOGUM_TARIHI", "skor": 0.9940595626831055}, {"bas": 47, "son": 49, "tur": "DOGUM_TARIHI", "skor": 0.6746852993965149}, {"bas": 50, "son": 52, "tur": "DOGUM_TARIHI", "skor": 0.6245322227478027}, {"bas": 68, "son": 110, "tur": "ETTN_EFATURA_ID", "skor": 0.35845524072647095}, {"bas": 118, "son": 121, "tur": "HESAP_NO", "skor": 0.676986575126648}, {"bas": 121, "son": 122, "tur": "KART_NO", "skor": 0.30952188372612}, {"bas": 129, "son": 130, "tur": "MERSIS_NO", "skor": 0.16728432476520538}, {"bas": 145, "son": 153, "tur": "TUZEL_KISI", "skor": 0.5574963688850403}, {"bas": 162, "son": 166, "tur": "HESAP_NO", "skor": 0.7103607654571533}, {"bas": 167, "son": 176, "tur": "KART_NO", "skor": 0.7752857208251953}, {"bas": 191, "son": 195, "tur": "KART_CVV", "skor": 0.6477404236793518}, {"bas": 206, "son": 216, "tur": "KIMLIK_BELGE_NO", "skor": 0.9001633524894714}]}
+{"id": "d998", "tahminler": [{"bas": 142, "son": 163, "tur": "EMAIL"}, {"bas": 43, "son": 55, "tur": "EMAIL", "skor": 0.6558346152305603}, {"bas": 64, "son": 68, "tur": "TCKN", "skor": 0.5164390206336975}, {"bas": 69, "son": 80, "tur": "KART_NO", "skor": 0.9108586311340332}, {"bas": 93, "son": 103, "tur": "TUZEL_KISI", "skor": 0.3360823094844818}, {"bas": 118, "son": 120, "tur": "DOGUM_TARIHI", "skor": 0.9891530275344849}, {"bas": 121, "son": 128, "tur": "DOGUM_TARIHI", "skor": 0.9566521644592285}, {"bas": 142, "son": 152, "tur": "EMAIL", "skor": 0.9266682267189026}, {"bas": 153, "son": 159, "tur": "EMAIL", "skor": 0.5158765316009521}]}
+{"id": "d999", "tahminler": [{"bas": 20, "son": 48, "tur": "EMAIL"}, {"bas": 20, "son": 37, "tur": "EMAIL", "skor": 0.43384233117103577}, {"bas": 78, "son": 87, "tur": "KIMLIK_BELGE_NO", "skor": 0.5747989416122437}]}
+{"id": "d1000", "tahminler": [{"bas": 27, "son": 42, "tur": "KART_NO", "skor": 0.8831480145454407}]}

@@ -1,7 +1,1 @@
-python sistemler/dis_set.py
-python sistemler/kural.py veri/dis_test.jsonl tahmin/dis_test
-python sistemler/ner.py veri/dis_test.jsonl ytu-ce-cosmos/modernbert-tr-pii-ner ersanbil/kvkk-pii-ner Werea-co/Werea-KVKK-PII-150M akdeniz27/bert-base-turkish-cased-ner akdeniz27/xlm-roberta-base-turkish-ner OpenMed/OpenMed-PII-Turkish-BiomedELECTRA-Large-335M-v1
-NER_MOD=birlesik python sistemler/ner.py veri/dis_test.jsonl ytu-ce-cosmos/modernbert-tr-pii-ner ersanbil/kvkk-pii-ner Werea-co/Werea-KVKK-PII-150M akdeniz27/bert-base-turkish-cased-ner akdeniz27/xlm-roberta-base-turkish-ner OpenMed/OpenMed-PII-Turkish-BiomedELECTRA-Large-335M-v1
-python sistemler/kvkk_tam.py veri/dis_test.jsonl
-python sistemler/gliner_calistir.py veri/dis_test.jsonl urchade/gliner_multi_pii-v1
-python sistemler/uretken.py veri/dis_test.jsonl
+python sistemler/cosmos_kontrol.py
