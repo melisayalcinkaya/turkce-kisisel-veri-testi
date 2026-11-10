@@ -1,0 +1,336 @@
+{"id": "p0000", "tahminler": [{"bas": 15, "son": 25, "tur": "KISI_ADI"}, {"bas": 70, "son": 94, "tur": "ADRES"}, {"bas": 97, "son": 107, "tur": "KONUM"}, {"bas": 127, "son": 135, "tur": "KONUM"}, {"bas": 138, "son": 143, "tur": "KONUM"}, {"bas": 177, "son": 191, "tur": "TELEFON_TR"}]}
+{"id": "p0001", "tahminler": [{"bas": 129, "son": 132, "tur": "KISI_ADI"}, {"bas": 132, "son": 141, "tur": "KISI_ADI"}]}
+{"id": "p0002", "tahminler": [{"bas": 53, "son": 62, "tur": "KISI_ADI"}, {"bas": 89, "son": 100, "tur": "TC_KIMLIK"}, {"bas": 123, "son": 144, "tur": "EMAIL"}]}
+{"id": "p0003", "tahminler": [{"bas": 7, "son": 10, "tur": "KISI_ADI"}, {"bas": 57, "son": 67, "tur": "KISI_ADI"}, {"bas": 95, "son": 108, "tur": "TELEFON_TR"}]}
+{"id": "p0004", "tahminler": [{"bas": 34, "son": 53, "tur": "KREDI_KARTI"}, {"bas": 95, "son": 104, "tur": "KISI_ADI"}]}
+{"id": "p0005", "tahminler": [{"bas": 53, "son": 57, "tur": "KONUM"}, {"bas": 97, "son": 107, "tur": "KISI_ADI"}, {"bas": 117, "son": 134, "tur": "TELEFON_TR"}]}
+{"id": "p0006", "tahminler": [{"bas": 0, "son": 30, "tur": "KURUM"}, {"bas": 158, "son": 166, "tur": "KISI_ADI"}, {"bas": 183, "son": 194, "tur": "TC_KIMLIK"}, {"bas": 202, "son": 211, "tur": "KONUM"}, {"bas": 212, "son": 225, "tur": "KONUM"}, {"bas": 237, "son": 245, "tur": "KONUM"}, {"bas": 257, "son": 268, "tur": "TELEFON_TR"}]}
+{"id": "p0007", "tahminler": [{"bas": 0, "son": 16, "tur": "KISI_ADI"}, {"bas": 38, "son": 49, "tur": "TC_KIMLIK"}, {"bas": 77, "son": 88, "tur": "KISI_ADI"}, {"bas": 134, "son": 137, "tur": "KISI_ADI"}, {"bas": 137, "son": 146, "tur": "KISI_ADI"}, {"bas": 148, "son": 162, "tur": "TELEFON_TR"}]}
+{"id": "p0008", "tahminler": [{"bas": 9, "son": 19, "tur": "KISI_ADI"}, {"bas": 165, "son": 168, "tur": "KISI_ADI"}, {"bas": 168, "son": 176, "tur": "KISI_ADI"}, {"bas": 207, "son": 211, "tur": "KONUM"}]}
+{"id": "p0009", "tahminler": [{"bas": 21, "son": 32, "tur": "KISI_ADI"}, {"bas": 65, "son": 68, "tur": "KISI_ADI"}, {"bas": 68, "son": 77, "tur": "KISI_ADI"}, {"bas": 109, "son": 133, "tur": "EMAIL"}]}
+{"id": "p0010", "tahminler": [{"bas": 0, "son": 3, "tur": "KISI_ADI"}, {"bas": 3, "son": 14, "tur": "KISI_ADI"}, {"bas": 74, "son": 85, "tur": "TC_KIMLIK"}, {"bas": 86, "son": 109, "tur": "ADRES"}, {"bas": 111, "son": 122, "tur": "KONUM"}, {"bas": 132, "son": 135, "tur": "KONUM"}]}
+{"id": "p0011", "tahminler": [{"bas": 22, "son": 27, "tur": "KISI_ADI"}, {"bas": 43, "son": 46, "tur": "KISI_ADI"}, {"bas": 58, "son": 61, "tur": "KISI_ADI"}, {"bas": 61, "son": 70, "tur": "KISI_ADI"}]}
+{"id": "p0012", "tahminler": [{"bas": 72, "son": 98, "tur": "IBAN_TR"}, {"bas": 122, "son": 130, "tur": "PLAKA_TR"}]}
+{"id": "p0013", "tahminler": [{"bas": 10, "son": 29, "tur": "EMAIL"}, {"bas": 65, "son": 73, "tur": "KISI_ADI"}, {"bas": 109, "son": 120, "tur": "TELEFON_TR"}]}
+{"id": "p0014", "tahminler": [{"bas": 18, "son": 29, "tur": "KISI_ADI"}, {"bas": 31, "son": 42, "tur": "TC_KIMLIK"}, {"bas": 117, "son": 124, "tur": "PLAKA_TR"}]}
+{"id": "p0015", "tahminler": [{"bas": 23, "son": 35, "tur": "ADRES"}, {"bas": 37, "son": 46, "tur": "KONUM"}, {"bas": 57, "son": 60, "tur": "KONUM"}, {"bas": 67, "son": 70, "tur": "KONUM"}, {"bas": 85, "son": 93, "tur": "KURUM"}, {"bas": 105, "son": 115, "tur": "KISI_ADI"}]}
+{"id": "p0016", "tahminler": [{"bas": 12, "son": 20, "tur": "KONUM"}]}
+{"id": "p0017", "tahminler": [{"bas": 32, "son": 58, "tur": "IBAN_TR"}]}
+{"id": "p0018", "tahminler": [{"bas": 1, "son": 7, "tur": "KISI_ADI"}, {"bas": 32, "son": 43, "tur": "TELEFON_TR"}]}
+{"id": "p0019", "tahminler": [{"bas": 15, "son": 26, "tur": "TC_KIMLIK"}, {"bas": 50, "son": 61, "tur": "TC_KIMLIK"}]}
+{"id": "p0020", "tahminler": [{"bas": 20, "son": 42, "tur": "EMAIL"}]}
+{"id": "p0021", "tahminler": [{"bas": 48, "son": 57, "tur": "PLAKA_TR"}]}
+{"id": "p0022", "tahminler": [{"bas": 6, "son": 9, "tur": "KISI_ADI"}, {"bas": 9, "son": 17, "tur": "KISI_ADI"}, {"bas": 69, "son": 80, "tur": "TC_KIMLIK"}, {"bas": 91, "son": 99, "tur": "KISI_ADI"}]}
+{"id": "p0023", "tahminler": [{"bas": 30, "son": 40, "tur": "PLAKA_TR"}, {"bas": 58, "son": 63, "tur": "PLAKA_TR"}, {"bas": 101, "son": 104, "tur": "KISI_ADI"}, {"bas": 104, "son": 112, "tur": "KISI_ADI"}, {"bas": 118, "son": 126, "tur": "KISI_ADI"}]}
+{"id": "p0024", "tahminler": [{"bas": 0, "son": 3, "tur": "KISI_ADI"}, {"bas": 5, "son": 12, "tur": "KISI_ADI"}, {"bas": 93, "son": 106, "tur": "TELEFON_TR"}]}
+{"id": "p0025", "tahminler": [{"bas": 0, "son": 3, "tur": "KISI_ADI"}, {"bas": 3, "son": 12, "tur": "KISI_ADI"}, {"bas": 73, "son": 99, "tur": "IBAN_TR"}]}
+{"id": "p0026", "tahminler": [{"bas": 24, "son": 33, "tur": "KISI_ADI"}, {"bas": 40, "son": 51, "tur": "TC_KIMLIK"}, {"bas": 52, "son": 71, "tur": "ADRES"}, {"bas": 73, "son": 92, "tur": "KONUM"}, {"bas": 102, "son": 109, "tur": "KONUM"}, {"bas": 110, "son": 118, "tur": "KONUM"}]}
+{"id": "p0027", "tahminler": [{"bas": 20, "son": 33, "tur": "KISI_ADI"}, {"bas": 47, "son": 72, "tur": "EMAIL"}]}
+{"id": "p0028", "tahminler": [{"bas": 14, "son": 22, "tur": "KISI_ADI"}, {"bas": 34, "son": 37, "tur": "KISI_ADI"}, {"bas": 37, "son": 45, "tur": "KISI_ADI"}]}
+{"id": "p0029", "tahminler": [{"bas": 6, "son": 16, "tur": "KISI_ADI"}, {"bas": 18, "son": 29, "tur": "TC_KIMLIK"}, {"bas": 41, "son": 44, "tur": "KISI_ADI"}, {"bas": 44, "son": 53, "tur": "KISI_ADI"}, {"bas": 56, "son": 59, "tur": "KONUM"}]}
+{"id": "p0030", "tahminler": [{"bas": 10, "son": 17, "tur": "KISI_ADI"}, {"bas": 64, "son": 75, "tur": "KISI_ADI"}, {"bas": 80, "son": 97, "tur": "TELEFON_TR"}]}
+{"id": "p0031", "tahminler": [{"bas": 2, "son": 12, "tur": "KISI_ADI"}, {"bas": 21, "son": 47, "tur": "EMAIL"}, {"bas": 69, "son": 72, "tur": "KISI_ADI"}]}
+{"id": "p0032", "tahminler": [{"bas": 15, "son": 23, "tur": "KISI_ADI"}, {"bas": 135, "son": 148, "tur": "TELEFON_TR"}]}
+{"id": "p0033", "tahminler": [{"bas": 46, "son": 72, "tur": "IBAN_TR"}, {"bas": 123, "son": 126, "tur": "KISI_ADI"}, {"bas": 126, "son": 135, "tur": "KISI_ADI"}]}
+{"id": "p0034", "tahminler": [{"bas": 52, "son": 55, "tur": "KISI_ADI"}, {"bas": 55, "son": 65, "tur": "KISI_ADI"}, {"bas": 92, "son": 103, "tur": "TC_KIMLIK"}, {"bas": 126, "son": 150, "tur": "EMAIL"}]}
+{"id": "p0035", "tahminler": [{"bas": 57, "son": 60, "tur": "KISI_ADI"}, {"bas": 60, "son": 68, "tur": "KISI_ADI"}, {"bas": 96, "son": 110, "tur": "TELEFON_TR"}]}
+{"id": "p0036", "tahminler": [{"bas": 34, "son": 53, "tur": "KREDI_KARTI"}, {"bas": 93, "son": 101, "tur": "KISI_ADI"}]}
+{"id": "p0037", "tahminler": [{"bas": 53, "son": 65, "tur": "KONUM"}, {"bas": 66, "son": 73, "tur": "KONUM"}, {"bas": 101, "son": 112, "tur": "KISI_ADI"}, {"bas": 122, "son": 135, "tur": "TELEFON_TR"}]}
+{"id": "p0038", "tahminler": [{"bas": 0, "son": 22, "tur": "KURUM"}, {"bas": 150, "son": 153, "tur": "KISI_ADI"}, {"bas": 153, "son": 160, "tur": "KISI_ADI"}, {"bas": 177, "son": 188, "tur": "TC_KIMLIK"}, {"bas": 196, "son": 199, "tur": "KONUM"}, {"bas": 232, "son": 235, "tur": "KONUM"}, {"bas": 246, "son": 259, "tur": "TELEFON_TR"}]}
+{"id": "p0039", "tahminler": [{"bas": 0, "son": 16, "tur": "KISI_ADI"}, {"bas": 37, "son": 48, "tur": "TC_KIMLIK"}, {"bas": 78, "son": 89, "tur": "KISI_ADI"}, {"bas": 135, "son": 138, "tur": "KISI_ADI"}, {"bas": 138, "son": 145, "tur": "KISI_ADI"}]}
+{"id": "p0040", "tahminler": [{"bas": 8, "son": 18, "tur": "KISI_ADI"}, {"bas": 86, "son": 112, "tur": "IBAN_TR"}, {"bas": 158, "son": 161, "tur": "KISI_ADI"}, {"bas": 161, "son": 170, "tur": "KISI_ADI"}]}
+{"id": "p0041", "tahminler": [{"bas": 20, "son": 23, "tur": "KISI_ADI"}, {"bas": 23, "son": 31, "tur": "KISI_ADI"}, {"bas": 62, "son": 65, "tur": "KISI_ADI"}, {"bas": 104, "son": 121, "tur": "EMAIL"}, {"bas": 124, "son": 141, "tur": "TELEFON_TR"}]}
+{"id": "p0042", "tahminler": [{"bas": 2, "son": 12, "tur": "KISI_ADI"}, {"bas": 72, "son": 83, "tur": "TC_KIMLIK"}, {"bas": 95, "son": 98, "tur": "KONUM"}, {"bas": 135, "son": 161, "tur": "IBAN_TR"}]}
+{"id": "p0043", "tahminler": [{"bas": 43, "son": 46, "tur": "KISI_ADI"}, {"bas": 60, "son": 70, "tur": "KISI_ADI"}]}
+{"id": "p0044", "tahminler": [{"bas": 0, "son": 3, "tur": "KISI_ADI"}, {"bas": 3, "son": 12, "tur": "KISI_ADI"}, {"bas": 124, "son": 133, "tur": "PLAKA_TR"}]}
+{"id": "p0045", "tahminler": [{"bas": 10, "son": 32, "tur": "EMAIL"}, {"bas": 68, "son": 76, "tur": "KISI_ADI"}]}
+{"id": "p0046", "tahminler": [{"bas": 18, "son": 21, "tur": "KISI_ADI"}, {"bas": 21, "son": 29, "tur": "KISI_ADI"}, {"bas": 31, "son": 42, "tur": "TC_KIMLIK"}, {"bas": 117, "son": 124, "tur": "PLAKA_TR"}]}
+{"id": "p0047", "tahminler": [{"bas": 23, "son": 40, "tur": "ADRES"}, {"bas": 42, "son": 57, "tur": "KONUM"}, {"bas": 64, "son": 71, "tur": "KONUM"}, {"bas": 108, "son": 116, "tur": "KISI_ADI"}, {"bas": 144, "son": 157, "tur": "TELEFON_TR"}]}
+{"id": "p0048", "tahminler": [{"bas": 0, "son": 27, "tur": "ADRES"}, {"bas": 28, "son": 59, "tur": "ADRES"}, {"bas": 62, "son": 71, "tur": "KONUM"}, {"bas": 74, "son": 81, "tur": "KONUM"}]}
+{"id": "p0049", "tahminler": [{"bas": 34, "son": 60, "tur": "IBAN_TR"}]}
+{"id": "p0050", "tahminler": []}
+{"id": "p0051", "tahminler": [{"bas": 15, "son": 26, "tur": "TC_KIMLIK"}, {"bas": 50, "son": 61, "tur": "TC_KIMLIK"}]}
+{"id": "p0052", "tahminler": [{"bas": 20, "son": 45, "tur": "EMAIL"}]}
+{"id": "p0053", "tahminler": [{"bas": 51, "son": 61, "tur": "PLAKA_TR"}]}
+{"id": "p0054", "tahminler": [{"bas": 6, "son": 19, "tur": "KISI_ADI"}, {"bas": 75, "son": 86, "tur": "TC_KIMLIK"}, {"bas": 95, "son": 98, "tur": "KISI_ADI"}, {"bas": 98, "son": 109, "tur": "KISI_ADI"}, {"bas": 111, "son": 125, "tur": "TELEFON_TR"}]}
+{"id": "p0055", "tahminler": [{"bas": 30, "son": 38, "tur": "PLAKA_TR"}, {"bas": 56, "son": 65, "tur": "PLAKA_TR"}, {"bas": 103, "son": 106, "tur": "KISI_ADI"}, {"bas": 106, "son": 113, "tur": "KISI_ADI"}, {"bas": 117, "son": 130, "tur": "KISI_ADI"}]}
+{"id": "p0056", "tahminler": [{"bas": 0, "son": 3, "tur": "KISI_ADI"}, {"bas": 5, "son": 14, "tur": "KISI_ADI"}, {"bas": 33, "son": 38, "tur": "KISI_ADI"}]}
+{"id": "p0057", "tahminler": [{"bas": 2, "son": 12, "tur": "KISI_ADI"}]}
+{"id": "p0058", "tahminler": [{"bas": 25, "son": 35, "tur": "KISI_ADI"}, {"bas": 42, "son": 53, "tur": "TC_KIMLIK"}, {"bas": 61, "son": 65, "tur": "KONUM"}, {"bas": 77, "son": 80, "tur": "KONUM"}]}
+{"id": "p0059", "tahminler": [{"bas": 20, "son": 23, "tur": "KISI_ADI"}, {"bas": 23, "son": 29, "tur": "KISI_ADI"}, {"bas": 43, "son": 57, "tur": "EMAIL"}]}
+{"id": "p0060", "tahminler": [{"bas": 13, "son": 16, "tur": "KISI_ADI"}, {"bas": 16, "son": 24, "tur": "KISI_ADI"}, {"bas": 36, "son": 39, "tur": "KISI_ADI"}, {"bas": 39, "son": 49, "tur": "KISI_ADI"}, {"bas": 134, "son": 169, "tur": "ADRES"}, {"bas": 172, "son": 183, "tur": "KONUM"}, {"bas": 202, "son": 205, "tur": "KONUM"}, {"bas": 211, "son": 216, "tur": "KONUM"}]}
+{"id": "p0061", "tahminler": [{"bas": 0, "son": 3, "tur": "KISI_ADI"}, {"bas": 3, "son": 18, "tur": "KISI_ADI"}, {"bas": 20, "son": 31, "tur": "TC_KIMLIK"}, {"bas": 45, "son": 54, "tur": "KISI_ADI"}]}
+{"id": "p0062", "tahminler": [{"bas": 8, "son": 21, "tur": "KISI_ADI"}, {"bas": 23, "son": 33, "tur": "VKN"}, {"bas": 68, "son": 80, "tur": "KISI_ADI"}, {"bas": 85, "son": 98, "tur": "TELEFON_TR"}]}
+{"id": "p0063", "tahminler": [{"bas": 2, "son": 11, "tur": "KISI_ADI"}, {"bas": 20, "son": 41, "tur": "EMAIL"}]}
+{"id": "p0064", "tahminler": [{"bas": 13, "son": 16, "tur": "KISI_ADI"}, {"bas": 16, "son": 23, "tur": "KISI_ADI"}, {"bas": 68, "son": 90, "tur": "ADRES"}, {"bas": 92, "son": 106, "tur": "KONUM"}, {"bas": 115, "son": 122, "tur": "KONUM"}, {"bas": 162, "son": 176, "tur": "TELEFON_TR"}]}
+{"id": "p0065", "tahminler": [{"bas": 49, "son": 75, "tur": "IBAN_TR"}, {"bas": 126, "son": 129, "tur": "KISI_ADI"}, {"bas": 129, "son": 137, "tur": "KISI_ADI"}]}
+{"id": "p0066", "tahminler": [{"bas": 53, "son": 63, "tur": "KISI_ADI"}, {"bas": 90, "son": 101, "tur": "TC_KIMLIK"}, {"bas": 124, "son": 141, "tur": "EMAIL"}]}
+{"id": "p0067", "tahminler": [{"bas": 7, "son": 12, "tur": "KISI_ADI"}, {"bas": 57, "son": 68, "tur": "KISI_ADI"}, {"bas": 96, "son": 110, "tur": "TELEFON_TR"}]}
+{"id": "p0068", "tahminler": [{"bas": 34, "son": 50, "tur": "KREDI_KARTI"}, {"bas": 89, "son": 103, "tur": "KISI_ADI"}]}
+{"id": "p0069", "tahminler": [{"bas": 52, "son": 70, "tur": "ADRES"}, {"bas": 72, "son": 100, "tur": "ADRES"}, {"bas": 103, "son": 109, "tur": "KONUM"}, {"bas": 112, "son": 117, "tur": "KONUM"}, {"bas": 125, "son": 138, "tur": "KISI_ADI"}]}
+{"id": "p0070", "tahminler": [{"bas": 0, "son": 30, "tur": "KURUM"}, {"bas": 160, "son": 168, "tur": "KISI_ADI"}, {"bas": 185, "son": 196, "tur": "TC_KIMLIK"}, {"bas": 203, "son": 216, "tur": "ADRES"}, {"bas": 218, "son": 228, "tur": "KONUM"}, {"bas": 240, "son": 247, "tur": "KONUM"}, {"bas": 259, "son": 273, "tur": "TELEFON_TR"}]}
+{"id": "p0071", "tahminler": [{"bas": 0, "son": 16, "tur": "KISI_ADI"}, {"bas": 37, "son": 48, "tur": "TC_KIMLIK"}, {"bas": 77, "son": 87, "tur": "KISI_ADI"}, {"bas": 133, "son": 144, "tur": "KISI_ADI"}, {"bas": 146, "son": 163, "tur": "TELEFON_TR"}]}
+{"id": "p0072", "tahminler": [{"bas": 11, "son": 18, "tur": "KISI_ADI"}, {"bas": 166, "son": 175, "tur": "KISI_ADI"}, {"bas": 178, "son": 188, "tur": "KONUM"}]}
+{"id": "p0073", "tahminler": [{"bas": 20, "son": 29, "tur": "KISI_ADI"}, {"bas": 60, "son": 63, "tur": "KISI_ADI"}, {"bas": 63, "son": 71, "tur": "KISI_ADI"}, {"bas": 103, "son": 119, "tur": "EMAIL"}, {"bas": 122, "son": 136, "tur": "TELEFON_TR"}]}
+{"id": "p0074", "tahminler": [{"bas": 1, "son": 11, "tur": "KISI_ADI"}, {"bas": 71, "son": 82, "tur": "TC_KIMLIK"}, {"bas": 141, "son": 167, "tur": "IBAN_TR"}]}
+{"id": "p0075", "tahminler": [{"bas": 42, "son": 47, "tur": "KISI_ADI"}, {"bas": 57, "son": 68, "tur": "KISI_ADI"}]}
+{"id": "p0076", "tahminler": [{"bas": 0, "son": 11, "tur": "KISI_ADI"}, {"bas": 70, "son": 96, "tur": "IBAN_TR"}, {"bas": 120, "son": 128, "tur": "PLAKA_TR"}]}
+{"id": "p0077", "tahminler": [{"bas": 10, "son": 34, "tur": "EMAIL"}, {"bas": 70, "son": 81, "tur": "KISI_ADI"}, {"bas": 117, "son": 130, "tur": "TELEFON_TR"}]}
+{"id": "p0078", "tahminler": [{"bas": 18, "son": 27, "tur": "KISI_ADI"}, {"bas": 29, "son": 40, "tur": "TC_KIMLIK"}, {"bas": 115, "son": 125, "tur": "PLAKA_TR"}]}
+{"id": "p0079", "tahminler": [{"bas": 12, "son": 22, "tur": "VKN"}, {"bas": 24, "son": 32, "tur": "KONUM"}, {"bas": 79, "son": 82, "tur": "KISI_ADI"}, {"bas": 82, "son": 91, "tur": "KISI_ADI"}, {"bas": 119, "son": 133, "tur": "TELEFON_TR"}]}
+{"id": "p0080", "tahminler": [{"bas": 0, "son": 3, "tur": "KISI_ADI"}, {"bas": 14, "son": 23, "tur": "KONUM"}]}
+{"id": "p0081", "tahminler": []}
+{"id": "p0082", "tahminler": [{"bas": 30, "son": 44, "tur": "TELEFON_TR"}]}
+{"id": "p0083", "tahminler": [{"bas": 15, "son": 26, "tur": "TC_KIMLIK"}, {"bas": 50, "son": 61, "tur": "TC_KIMLIK"}]}
+{"id": "p0084", "tahminler": [{"bas": 19, "son": 39, "tur": "EMAIL"}]}
+{"id": "p0085", "tahminler": [{"bas": 30, "son": 33, "tur": "KISI_ADI"}, {"bas": 50, "son": 59, "tur": "PLAKA_TR"}]}
+{"id": "p0086", "tahminler": [{"bas": 6, "son": 9, "tur": "KISI_ADI"}, {"bas": 9, "son": 17, "tur": "KISI_ADI"}, {"bas": 75, "son": 86, "tur": "TC_KIMLIK"}, {"bas": 95, "son": 98, "tur": "KISI_ADI"}, {"bas": 98, "son": 105, "tur": "KISI_ADI"}, {"bas": 107, "son": 120, "tur": "TELEFON_TR"}]}
+{"id": "p0087", "tahminler": [{"bas": 30, "son": 40, "tur": "PLAKA_TR"}, {"bas": 58, "son": 67, "tur": "PLAKA_TR"}, {"bas": 106, "son": 117, "tur": "KISI_ADI"}, {"bas": 121, "son": 131, "tur": "KISI_ADI"}]}
+{"id": "p0088", "tahminler": [{"bas": 0, "son": 3, "tur": "KISI_ADI"}, {"bas": 5, "son": 13, "tur": "KISI_ADI"}, {"bas": 32, "son": 35, "tur": "KISI_ADI"}, {"bas": 95, "son": 109, "tur": "TELEFON_TR"}]}
+{"id": "p0089", "tahminler": [{"bas": 1, "son": 10, "tur": "KISI_ADI"}, {"bas": 72, "son": 98, "tur": "IBAN_TR"}]}
+{"id": "p0090", "tahminler": [{"bas": 26, "son": 33, "tur": "KISI_ADI"}, {"bas": 40, "son": 51, "tur": "TC_KIMLIK"}, {"bas": 52, "son": 79, "tur": "ADRES"}, {"bas": 81, "son": 111, "tur": "ADRES"}, {"bas": 114, "son": 123, "tur": "KONUM"}, {"bas": 126, "son": 133, "tur": "KONUM"}]}
+{"id": "p0091", "tahminler": [{"bas": 21, "son": 30, "tur": "KISI_ADI"}, {"bas": 44, "son": 67, "tur": "EMAIL"}]}
+{"id": "p0092", "tahminler": [{"bas": 13, "son": 16, "tur": "KISI_ADI"}, {"bas": 16, "son": 23, "tur": "KISI_ADI"}, {"bas": 35, "son": 48, "tur": "KISI_ADI"}]}
+{"id": "p0093", "tahminler": [{"bas": 0, "son": 3, "tur": "KISI_ADI"}, {"bas": 6, "son": 17, "tur": "KISI_ADI"}, {"bas": 19, "son": 30, "tur": "TC_KIMLIK"}, {"bas": 42, "son": 53, "tur": "KISI_ADI"}, {"bas": 54, "son": 74, "tur": "ADRES"}, {"bas": 75, "son": 105, "tur": "ADRES"}, {"bas": 108, "son": 114, "tur": "KONUM"}, {"bas": 117, "son": 122, "tur": "KONUM"}]}
+{"id": "p0094", "tahminler": [{"bas": 8, "son": 11, "tur": "KISI_ADI"}, {"bas": 11, "son": 19, "tur": "KISI_ADI"}]}
+{"id": "p0095", "tahminler": [{"bas": 0, "son": 3, "tur": "KISI_ADI"}, {"bas": 3, "son": 10, "tur": "KISI_ADI"}, {"bas": 19, "son": 42, "tur": "EMAIL"}, {"bas": 65, "son": 68, "tur": "KISI_ADI"}]}
+{"id": "p0096", "tahminler": [{"bas": 13, "son": 26, "tur": "KISI_ADI"}, {"bas": 28, "son": 38, "tur": "VKN"}, {"bas": 71, "son": 89, "tur": "ADRES"}, {"bas": 91, "son": 106, "tur": "KONUM"}, {"bas": 114, "son": 121, "tur": "KONUM"}, {"bas": 122, "son": 130, "tur": "KONUM"}, {"bas": 164, "son": 178, "tur": "TELEFON_TR"}]}
+{"id": "p0097", "tahminler": [{"bas": 132, "son": 142, "tur": "KISI_ADI"}]}
+{"id": "p0098", "tahminler": [{"bas": 54, "son": 63, "tur": "KISI_ADI"}, {"bas": 90, "son": 101, "tur": "TC_KIMLIK"}, {"bas": 124, "son": 146, "tur": "EMAIL"}]}
+{"id": "p0099", "tahminler": [{"bas": 7, "son": 12, "tur": "KISI_ADI"}, {"bas": 57, "son": 69, "tur": "KISI_ADI"}, {"bas": 98, "son": 112, "tur": "TELEFON_TR"}]}
+{"id": "p0100", "tahminler": [{"bas": 34, "son": 50, "tur": "KREDI_KARTI"}, {"bas": 92, "son": 95, "tur": "KISI_ADI"}, {"bas": 95, "son": 105, "tur": "KISI_ADI"}]}
+{"id": "p0101", "tahminler": [{"bas": 52, "son": 73, "tur": "ADRES"}, {"bas": 76, "son": 86, "tur": "KONUM"}, {"bas": 105, "son": 113, "tur": "KONUM"}, {"bas": 116, "son": 121, "tur": "KONUM"}, {"bas": 129, "son": 141, "tur": "KISI_ADI"}]}
+{"id": "p0102", "tahminler": [{"bas": 0, "son": 30, "tur": "KURUM"}, {"bas": 187, "son": 198, "tur": "TC_KIMLIK"}, {"bas": 206, "son": 218, "tur": "KONUM"}, {"bas": 239, "son": 245, "tur": "KONUM"}, {"bas": 257, "son": 271, "tur": "TELEFON_TR"}]}
+{"id": "p0103", "tahminler": [{"bas": 0, "son": 16, "tur": "KISI_ADI"}, {"bas": 43, "son": 54, "tur": "TC_KIMLIK"}, {"bas": 84, "son": 93, "tur": "KISI_ADI"}, {"bas": 139, "son": 150, "tur": "KISI_ADI"}]}
+{"id": "p0104", "tahminler": [{"bas": 8, "son": 11, "tur": "KISI_ADI"}, {"bas": 11, "son": 19, "tur": "KISI_ADI"}, {"bas": 165, "son": 175, "tur": "KISI_ADI"}, {"bas": 177, "son": 180, "tur": "KONUM"}, {"bas": 189, "son": 192, "tur": "KONUM"}]}
+{"id": "p0105", "tahminler": [{"bas": 20, "son": 31, "tur": "KISI_ADI"}, {"bas": 64, "son": 75, "tur": "KISI_ADI"}, {"bas": 107, "son": 129, "tur": "EMAIL"}]}
+{"id": "p0106", "tahminler": [{"bas": 0, "son": 10, "tur": "KISI_ADI"}, {"bas": 70, "son": 81, "tur": "TC_KIMLIK"}, {"bas": 93, "son": 100, "tur": "KONUM"}]}
+{"id": "p0107", "tahminler": [{"bas": 22, "son": 27, "tur": "KISI_ADI"}, {"bas": 59, "son": 67, "tur": "KISI_ADI"}]}
+{"id": "p0108", "tahminler": [{"bas": 1, "son": 12, "tur": "KISI_ADI"}, {"bas": 126, "son": 136, "tur": "PLAKA_TR"}]}
+{"id": "p0109", "tahminler": [{"bas": 10, "son": 36, "tur": "EMAIL"}, {"bas": 72, "son": 84, "tur": "KISI_ADI"}, {"bas": 120, "son": 134, "tur": "TELEFON_TR"}]}
+{"id": "p0110", "tahminler": [{"bas": 18, "son": 30, "tur": "KISI_ADI"}, {"bas": 32, "son": 43, "tur": "TC_KIMLIK"}, {"bas": 118, "son": 128, "tur": "PLAKA_TR"}]}
+{"id": "p0111", "tahminler": [{"bas": 23, "son": 40, "tur": "ADRES"}, {"bas": 42, "son": 60, "tur": "KONUM"}, {"bas": 66, "son": 73, "tur": "KONUM"}, {"bas": 110, "son": 113, "tur": "KISI_ADI"}, {"bas": 113, "son": 121, "tur": "KISI_ADI"}, {"bas": 151, "son": 168, "tur": "TELEFON_TR"}]}
+{"id": "p0112", "tahminler": [{"bas": 13, "son": 16, "tur": "KONUM"}]}
+{"id": "p0113", "tahminler": [{"bas": 33, "son": 59, "tur": "IBAN_TR"}]}
+{"id": "p0114", "tahminler": []}
+{"id": "p0115", "tahminler": [{"bas": 15, "son": 26, "tur": "TC_KIMLIK"}, {"bas": 50, "son": 61, "tur": "TC_KIMLIK"}]}
+{"id": "p0116", "tahminler": [{"bas": 19, "son": 42, "tur": "EMAIL"}]}
+{"id": "p0117", "tahminler": [{"bas": 50, "son": 58, "tur": "PLAKA_TR"}]}
+{"id": "p0118", "tahminler": [{"bas": 8, "son": 16, "tur": "KISI_ADI"}, {"bas": 69, "son": 80, "tur": "TC_KIMLIK"}, {"bas": 92, "son": 99, "tur": "KISI_ADI"}, {"bas": 101, "son": 115, "tur": "TELEFON_TR"}]}
+{"id": "p0119", "tahminler": [{"bas": 30, "son": 39, "tur": "PLAKA_TR"}, {"bas": 57, "son": 66, "tur": "PLAKA_TR"}, {"bas": 104, "son": 115, "tur": "KISI_ADI"}, {"bas": 122, "son": 130, "tur": "KISI_ADI"}]}
+{"id": "p0120", "tahminler": [{"bas": 0, "son": 3, "tur": "KISI_ADI"}, {"bas": 95, "son": 109, "tur": "TELEFON_TR"}]}
+{"id": "p0121", "tahminler": [{"bas": 0, "son": 3, "tur": "KISI_ADI"}]}
+{"id": "p0122", "tahminler": [{"bas": 26, "son": 35, "tur": "KISI_ADI"}, {"bas": 42, "son": 53, "tur": "TC_KIMLIK"}]}
+{"id": "p0123", "tahminler": [{"bas": 20, "son": 23, "tur": "KISI_ADI"}, {"bas": 45, "son": 68, "tur": "EMAIL"}]}
+{"id": "p0124", "tahminler": [{"bas": 13, "son": 24, "tur": "KISI_ADI"}, {"bas": 38, "son": 46, "tur": "KISI_ADI"}, {"bas": 131, "son": 170, "tur": "ADRES"}, {"bas": 172, "son": 203, "tur": "ADRES"}, {"bas": 208, "son": 213, "tur": "KONUM"}, {"bas": 216, "son": 222, "tur": "KONUM"}]}
+{"id": "p0125", "tahminler": [{"bas": 0, "son": 3, "tur": "KISI_ADI"}, {"bas": 3, "son": 18, "tur": "KISI_ADI"}, {"bas": 20, "son": 31, "tur": "TC_KIMLIK"}, {"bas": 43, "son": 46, "tur": "KISI_ADI"}, {"bas": 46, "son": 54, "tur": "KISI_ADI"}, {"bas": 55, "son": 66, "tur": "ADRES"}, {"bas": 67, "son": 81, "tur": "KONUM"}, {"bas": 90, "son": 97, "tur": "KONUM"}]}
+{"id": "p0126", "tahminler": [{"bas": 11, "son": 19, "tur": "KISI_ADI"}]}
+{"id": "p0127", "tahminler": [{"bas": 0, "son": 13, "tur": "KISI_ADI"}, {"bas": 22, "son": 41, "tur": "EMAIL"}, {"bas": 63, "son": 66, "tur": "KISI_ADI"}]}
+{"id": "p0128", "tahminler": [{"bas": 14, "son": 23, "tur": "KISI_ADI"}, {"bas": 68, "son": 87, "tur": "ADRES"}, {"bas": 89, "son": 103, "tur": "KONUM"}, {"bas": 121, "son": 124, "tur": "KONUM"}, {"bas": 160, "son": 174, "tur": "TELEFON_TR"}]}
+{"id": "p0129", "tahminler": [{"bas": 49, "son": 75, "tur": "IBAN_TR"}, {"bas": 126, "son": 138, "tur": "KISI_ADI"}]}
+{"id": "p0130", "tahminler": [{"bas": 53, "son": 62, "tur": "KISI_ADI"}, {"bas": 89, "son": 100, "tur": "TC_KIMLIK"}, {"bas": 123, "son": 143, "tur": "EMAIL"}]}
+{"id": "p0131", "tahminler": [{"bas": 56, "son": 66, "tur": "KISI_ADI"}, {"bas": 95, "son": 106, "tur": "TELEFON_TR"}]}
+{"id": "p0132", "tahminler": [{"bas": 34, "son": 53, "tur": "KREDI_KARTI"}, {"bas": 92, "son": 103, "tur": "KISI_ADI"}]}
+{"id": "p0133", "tahminler": [{"bas": 53, "son": 61, "tur": "KONUM"}, {"bas": 85, "son": 89, "tur": "KONUM"}, {"bas": 102, "son": 112, "tur": "KISI_ADI"}, {"bas": 122, "son": 133, "tur": "TELEFON_TR"}]}
+{"id": "p0134", "tahminler": [{"bas": 2, "son": 31, "tur": "KURUM"}, {"bas": 162, "son": 171, "tur": "KISI_ADI"}, {"bas": 188, "son": 199, "tur": "TC_KIMLIK"}, {"bas": 206, "son": 224, "tur": "ADRES"}, {"bas": 226, "son": 256, "tur": "ADRES"}, {"bas": 269, "son": 274, "tur": "KONUM"}, {"bas": 280, "son": 294, "tur": "TELEFON_TR"}]}
+{"id": "p0135", "tahminler": [{"bas": 0, "son": 16, "tur": "KISI_ADI"}, {"bas": 37, "son": 48, "tur": "TC_KIMLIK"}, {"bas": 76, "son": 87, "tur": "KISI_ADI"}, {"bas": 133, "son": 145, "tur": "KISI_ADI"}, {"bas": 147, "son": 160, "tur": "TELEFON_TR"}]}
+{"id": "p0136", "tahminler": [{"bas": 8, "son": 18, "tur": "KISI_ADI"}, {"bas": 82, "son": 108, "tur": "IBAN_TR"}, {"bas": 154, "son": 167, "tur": "KISI_ADI"}]}
+{"id": "p0137", "tahminler": [{"bas": 20, "son": 34, "tur": "KISI_ADI"}, {"bas": 67, "son": 76, "tur": "KISI_ADI"}, {"bas": 108, "son": 135, "tur": "EMAIL"}, {"bas": 138, "son": 152, "tur": "TELEFON_TR"}]}
+{"id": "p0138", "tahminler": [{"bas": 0, "son": 10, "tur": "KISI_ADI"}, {"bas": 70, "son": 81, "tur": "TC_KIMLIK"}, {"bas": 93, "son": 104, "tur": "KONUM"}]}
+{"id": "p0139", "tahminler": [{"bas": 22, "son": 25, "tur": "KISI_ADI"}, {"bas": 58, "son": 69, "tur": "KISI_ADI"}]}
+{"id": "p0140", "tahminler": [{"bas": 0, "son": 3, "tur": "KISI_ADI"}, {"bas": 3, "son": 10, "tur": "KISI_ADI"}, {"bas": 66, "son": 92, "tur": "IBAN_TR"}, {"bas": 116, "son": 124, "tur": "PLAKA_TR"}]}
+{"id": "p0141", "tahminler": [{"bas": 10, "son": 28, "tur": "EMAIL"}, {"bas": 64, "son": 75, "tur": "KISI_ADI"}, {"bas": 111, "son": 125, "tur": "TELEFON_TR"}]}
+{"id": "p0142", "tahminler": [{"bas": 18, "son": 21, "tur": "KISI_ADI"}, {"bas": 21, "son": 29, "tur": "KISI_ADI"}, {"bas": 31, "son": 42, "tur": "TC_KIMLIK"}, {"bas": 117, "son": 126, "tur": "PLAKA_TR"}]}
+{"id": "p0143", "tahminler": [{"bas": 22, "son": 35, "tur": "ADRES"}, {"bas": 68, "son": 71, "tur": "KONUM"}, {"bas": 71, "son": 75, "tur": "KONUM"}, {"bas": 106, "son": 109, "tur": "KISI_ADI"}, {"bas": 109, "son": 117, "tur": "KISI_ADI"}, {"bas": 145, "son": 162, "tur": "TELEFON_TR"}]}
+{"id": "p0144", "tahminler": [{"bas": 0, "son": 30, "tur": "ADRES"}, {"bas": 31, "son": 59, "tur": "ADRES"}, {"bas": 64, "son": 69, "tur": "KONUM"}, {"bas": 72, "son": 78, "tur": "KONUM"}]}
+{"id": "p0145", "tahminler": [{"bas": 33, "son": 59, "tur": "IBAN_TR"}]}
+{"id": "p0146", "tahminler": [{"bas": 34, "son": 47, "tur": "TELEFON_TR"}]}
+{"id": "p0147", "tahminler": [{"bas": 15, "son": 26, "tur": "TC_KIMLIK"}, {"bas": 50, "son": 61, "tur": "TC_KIMLIK"}]}
+{"id": "p0148", "tahminler": [{"bas": 22, "son": 41, "tur": "EMAIL"}]}
+{"id": "p0149", "tahminler": [{"bas": 51, "son": 61, "tur": "PLAKA_TR"}]}
+{"id": "p0150", "tahminler": [{"bas": 6, "son": 18, "tur": "KISI_ADI"}, {"bas": 70, "son": 81, "tur": "TC_KIMLIK"}, {"bas": 90, "son": 93, "tur": "KISI_ADI"}, {"bas": 93, "son": 98, "tur": "KISI_ADI"}, {"bas": 100, "son": 117, "tur": "TELEFON_TR"}]}
+{"id": "p0151", "tahminler": [{"bas": 30, "son": 37, "tur": "PLAKA_TR"}, {"bas": 55, "son": 63, "tur": "PLAKA_TR"}, {"bas": 101, "son": 104, "tur": "KISI_ADI"}, {"bas": 104, "son": 113, "tur": "KISI_ADI"}, {"bas": 117, "son": 128, "tur": "KISI_ADI"}]}
+{"id": "p0152", "tahminler": [{"bas": 8, "son": 13, "tur": "KISI_ADI"}, {"bas": 32, "son": 36, "tur": "KISI_ADI"}, {"bas": 94, "son": 111, "tur": "TELEFON_TR"}]}
+{"id": "p0153", "tahminler": [{"bas": 0, "son": 12, "tur": "KISI_ADI"}, {"bas": 74, "son": 100, "tur": "IBAN_TR"}]}
+{"id": "p0154", "tahminler": [{"bas": 24, "son": 34, "tur": "KISI_ADI"}, {"bas": 41, "son": 52, "tur": "TC_KIMLIK"}]}
+{"id": "p0155", "tahminler": [{"bas": 20, "son": 23, "tur": "KISI_ADI"}, {"bas": 45, "son": 70, "tur": "EMAIL"}]}
+{"id": "p0156", "tahminler": [{"bas": 13, "son": 25, "tur": "KISI_ADI"}, {"bas": 37, "son": 40, "tur": "KISI_ADI"}, {"bas": 40, "son": 48, "tur": "KISI_ADI"}]}
+{"id": "p0157", "tahminler": [{"bas": 0, "son": 3, "tur": "KISI_ADI"}, {"bas": 3, "son": 16, "tur": "KISI_ADI"}, {"bas": 18, "son": 29, "tur": "TC_KIMLIK"}, {"bas": 41, "son": 50, "tur": "KISI_ADI"}, {"bas": 51, "son": 66, "tur": "ADRES"}, {"bas": 67, "son": 83, "tur": "KONUM"}, {"bas": 88, "son": 91, "tur": "KONUM"}]}
+{"id": "p0158", "tahminler": [{"bas": 8, "son": 20, "tur": "KISI_ADI"}, {"bas": 67, "son": 76, "tur": "KISI_ADI"}]}
+{"id": "p0159", "tahminler": [{"bas": 0, "son": 3, "tur": "KISI_ADI"}, {"bas": 3, "son": 13, "tur": "KISI_ADI"}, {"bas": 22, "son": 47, "tur": "EMAIL"}]}
+{"id": "p0160", "tahminler": [{"bas": 15, "son": 24, "tur": "KISI_ADI"}, {"bas": 76, "son": 80, "tur": "KONUM"}, {"bas": 146, "son": 159, "tur": "TELEFON_TR"}]}
+{"id": "p0161", "tahminler": [{"bas": 131, "son": 143, "tur": "KISI_ADI"}]}
+{"id": "p0162", "tahminler": [{"bas": 54, "son": 63, "tur": "KISI_ADI"}, {"bas": 90, "son": 101, "tur": "TC_KIMLIK"}, {"bas": 124, "son": 147, "tur": "EMAIL"}]}
+{"id": "p0163", "tahminler": [{"bas": 9, "son": 12, "tur": "KISI_ADI"}, {"bas": 59, "son": 71, "tur": "KISI_ADI"}, {"bas": 99, "son": 113, "tur": "TELEFON_TR"}]}
+{"id": "p0164", "tahminler": [{"bas": 34, "son": 53, "tur": "KREDI_KARTI"}, {"bas": 97, "son": 107, "tur": "KISI_ADI"}]}
+{"id": "p0165", "tahminler": [{"bas": 53, "son": 56, "tur": "KONUM"}, {"bas": 56, "son": 61, "tur": "KONUM"}, {"bas": 62, "son": 73, "tur": "KONUM"}, {"bas": 82, "son": 86, "tur": "KONUM"}, {"bas": 99, "son": 110, "tur": "KISI_ADI"}, {"bas": 120, "son": 137, "tur": "TELEFON_TR"}]}
+{"id": "p0166", "tahminler": [{"bas": 0, "son": 22, "tur": "KURUM"}, {"bas": 151, "son": 159, "tur": "KISI_ADI"}, {"bas": 176, "son": 187, "tur": "TC_KIMLIK"}, {"bas": 195, "son": 199, "tur": "KONUM"}, {"bas": 229, "son": 232, "tur": "KONUM"}, {"bas": 232, "son": 236, "tur": "KONUM"}, {"bas": 244, "son": 261, "tur": "TELEFON_TR"}]}
+{"id": "p0167", "tahminler": [{"bas": 0, "son": 16, "tur": "KISI_ADI"}, {"bas": 36, "son": 47, "tur": "TC_KIMLIK"}, {"bas": 75, "son": 84, "tur": "KISI_ADI"}, {"bas": 130, "son": 140, "tur": "KISI_ADI"}, {"bas": 142, "son": 156, "tur": "TELEFON_TR"}]}
+{"id": "p0168", "tahminler": [{"bas": 8, "son": 11, "tur": "KISI_ADI"}, {"bas": 11, "son": 18, "tur": "KISI_ADI"}, {"bas": 86, "son": 112, "tur": "IBAN_TR"}, {"bas": 158, "son": 168, "tur": "KISI_ADI"}, {"bas": 169, "son": 187, "tur": "ADRES"}, {"bas": 189, "son": 215, "tur": "ADRES"}, {"bas": 218, "son": 225, "tur": "KONUM"}, {"bas": 228, "son": 236, "tur": "KONUM"}]}
+{"id": "p0169", "tahminler": [{"bas": 20, "son": 23, "tur": "KISI_ADI"}, {"bas": 23, "son": 31, "tur": "KISI_ADI"}, {"bas": 61, "son": 64, "tur": "KISI_ADI"}, {"bas": 64, "son": 72, "tur": "KISI_ADI"}, {"bas": 104, "son": 127, "tur": "EMAIL"}]}
+{"id": "p0170", "tahminler": [{"bas": 0, "son": 3, "tur": "KISI_ADI"}, {"bas": 3, "son": 12, "tur": "KISI_ADI"}, {"bas": 72, "son": 83, "tur": "TC_KIMLIK"}, {"bas": 84, "son": 108, "tur": "ADRES"}, {"bas": 111, "son": 121, "tur": "KONUM"}, {"bas": 150, "son": 155, "tur": "KONUM"}, {"bas": 169, "son": 195, "tur": "IBAN_TR"}]}
+{"id": "p0171", "tahminler": [{"bas": 43, "son": 50, "tur": "KISI_ADI"}, {"bas": 60, "son": 70, "tur": "KISI_ADI"}]}
+{"id": "p0172", "tahminler": [{"bas": 0, "son": 10, "tur": "KISI_ADI"}, {"bas": 65, "son": 91, "tur": "IBAN_TR"}, {"bas": 115, "son": 122, "tur": "PLAKA_TR"}]}
+{"id": "p0173", "tahminler": [{"bas": 10, "son": 32, "tur": "EMAIL"}, {"bas": 68, "son": 71, "tur": "KISI_ADI"}, {"bas": 71, "son": 78, "tur": "KISI_ADI"}]}
+{"id": "p0174", "tahminler": [{"bas": 18, "son": 21, "tur": "KISI_ADI"}, {"bas": 21, "son": 30, "tur": "KISI_ADI"}, {"bas": 32, "son": 43, "tur": "TC_KIMLIK"}, {"bas": 118, "son": 127, "tur": "PLAKA_TR"}]}
+{"id": "p0175", "tahminler": [{"bas": 24, "son": 27, "tur": "KONUM"}, {"bas": 62, "son": 70, "tur": "KURUM"}, {"bas": 120, "son": 137, "tur": "TELEFON_TR"}]}
+{"id": "p0176", "tahminler": []}
+{"id": "p0177", "tahminler": [{"bas": 35, "son": 61, "tur": "IBAN_TR"}]}
+{"id": "p0178", "tahminler": [{"bas": 33, "son": 47, "tur": "TELEFON_TR"}]}
+{"id": "p0179", "tahminler": [{"bas": 15, "son": 26, "tur": "TC_KIMLIK"}, {"bas": 50, "son": 61, "tur": "TC_KIMLIK"}]}
+{"id": "p0180", "tahminler": [{"bas": 21, "son": 37, "tur": "EMAIL"}]}
+{"id": "p0181", "tahminler": [{"bas": 49, "son": 58, "tur": "PLAKA_TR"}]}
+{"id": "p0182", "tahminler": [{"bas": 6, "son": 9, "tur": "KISI_ADI"}, {"bas": 9, "son": 18, "tur": "KISI_ADI"}, {"bas": 71, "son": 82, "tur": "TC_KIMLIK"}, {"bas": 91, "son": 94, "tur": "KISI_ADI"}, {"bas": 94, "son": 104, "tur": "KISI_ADI"}]}
+{"id": "p0183", "tahminler": [{"bas": 30, "son": 40, "tur": "PLAKA_TR"}, {"bas": 58, "son": 67, "tur": "PLAKA_TR"}, {"bas": 105, "son": 118, "tur": "KISI_ADI"}, {"bas": 122, "son": 133, "tur": "KISI_ADI"}]}
+{"id": "p0184", "tahminler": [{"bas": 0, "son": 3, "tur": "KISI_ADI"}, {"bas": 30, "son": 34, "tur": "KISI_ADI"}]}
+{"id": "p0185", "tahminler": [{"bas": 0, "son": 10, "tur": "KISI_ADI"}, {"bas": 71, "son": 97, "tur": "IBAN_TR"}]}
+{"id": "p0186", "tahminler": [{"bas": 24, "son": 34, "tur": "KISI_ADI"}, {"bas": 41, "son": 52, "tur": "TC_KIMLIK"}, {"bas": 53, "son": 75, "tur": "ADRES"}, {"bas": 77, "son": 92, "tur": "KONUM"}]}
+{"id": "p0187", "tahminler": [{"bas": 20, "son": 30, "tur": "KISI_ADI"}, {"bas": 44, "son": 60, "tur": "EMAIL"}]}
+{"id": "p0188", "tahminler": [{"bas": 13, "son": 16, "tur": "KISI_ADI"}, {"bas": 16, "son": 24, "tur": "KISI_ADI"}, {"bas": 38, "son": 46, "tur": "KISI_ADI"}, {"bas": 149, "son": 156, "tur": "KONUM"}]}
+{"id": "p0189", "tahminler": [{"bas": 0, "son": 3, "tur": "KISI_ADI"}, {"bas": 22, "son": 33, "tur": "TC_KIMLIK"}, {"bas": 45, "son": 48, "tur": "KISI_ADI"}, {"bas": 48, "son": 56, "tur": "KISI_ADI"}]}
+{"id": "p0190", "tahminler": [{"bas": 8, "son": 19, "tur": "KISI_ADI"}, {"bas": 66, "son": 77, "tur": "KISI_ADI"}]}
+{"id": "p0191", "tahminler": [{"bas": 0, "son": 8, "tur": "KISI_ADI"}, {"bas": 17, "son": 34, "tur": "EMAIL"}, {"bas": 56, "son": 59, "tur": "KISI_ADI"}]}
+{"id": "p0192", "tahminler": [{"bas": 13, "son": 25, "tur": "KISI_ADI"}, {"bas": 77, "son": 93, "tur": "KONUM"}, {"bas": 142, "son": 156, "tur": "TELEFON_TR"}]}
+{"id": "p0193", "tahminler": [{"bas": 45, "son": 71, "tur": "IBAN_TR"}, {"bas": 122, "son": 135, "tur": "KISI_ADI"}]}
+{"id": "p0194", "tahminler": [{"bas": 54, "son": 63, "tur": "KISI_ADI"}, {"bas": 90, "son": 101, "tur": "TC_KIMLIK"}, {"bas": 124, "son": 147, "tur": "EMAIL"}]}
+{"id": "p0195", "tahminler": [{"bas": 7, "son": 10, "tur": "KISI_ADI"}, {"bas": 57, "son": 70, "tur": "KISI_ADI"}, {"bas": 98, "son": 109, "tur": "TELEFON_TR"}]}
+{"id": "p0196", "tahminler": [{"bas": 34, "son": 50, "tur": "KREDI_KARTI"}, {"bas": 89, "son": 101, "tur": "KISI_ADI"}]}
+{"id": "p0197", "tahminler": [{"bas": 54, "son": 64, "tur": "KONUM"}, {"bas": 88, "son": 96, "tur": "KISI_ADI"}]}
+{"id": "p0198", "tahminler": [{"bas": 0, "son": 22, "tur": "KURUM"}, {"bas": 44, "son": 54, "tur": "VKN"}, {"bas": 150, "son": 153, "tur": "KISI_ADI"}, {"bas": 153, "son": 161, "tur": "KISI_ADI"}, {"bas": 178, "son": 189, "tur": "TC_KIMLIK"}, {"bas": 196, "son": 214, "tur": "ADRES"}, {"bas": 216, "son": 243, "tur": "ADRES"}, {"bas": 246, "son": 253, "tur": "KONUM"}, {"bas": 256, "son": 264, "tur": "KONUM"}, {"bas": 270, "son": 281, "tur": "TELEFON_TR"}]}
+{"id": "p0199", "tahminler": [{"bas": 0, "son": 16, "tur": "KISI_ADI"}, {"bas": 37, "son": 48, "tur": "TC_KIMLIK"}, {"bas": 78, "son": 87, "tur": "KISI_ADI"}, {"bas": 133, "son": 143, "tur": "KISI_ADI"}]}
+{"id": "p0200", "tahminler": [{"bas": 10, "son": 18, "tur": "KISI_ADI"}, {"bas": 176, "son": 180, "tur": "KONUM"}]}
+{"id": "p0201", "tahminler": [{"bas": 22, "son": 32, "tur": "KISI_ADI"}, {"bas": 63, "son": 74, "tur": "KISI_ADI"}, {"bas": 106, "son": 123, "tur": "EMAIL"}]}
+{"id": "p0202", "tahminler": [{"bas": 0, "son": 15, "tur": "KISI_ADI"}, {"bas": 75, "son": 86, "tur": "TC_KIMLIK"}, {"bas": 87, "son": 113, "tur": "ADRES"}, {"bas": 115, "son": 129, "tur": "KONUM"}, {"bas": 138, "son": 141, "tur": "KONUM"}, {"bas": 148, "son": 151, "tur": "KONUM"}, {"bas": 169, "son": 195, "tur": "IBAN_TR"}]}
+{"id": "p0203", "tahminler": [{"bas": 22, "son": 27, "tur": "KISI_ADI"}, {"bas": 43, "son": 46, "tur": "KISI_ADI"}, {"bas": 61, "son": 70, "tur": "KISI_ADI"}]}
+{"id": "p0204", "tahminler": [{"bas": 0, "son": 11, "tur": "KISI_ADI"}, {"bas": 70, "son": 96, "tur": "IBAN_TR"}, {"bas": 120, "son": 128, "tur": "PLAKA_TR"}]}
+{"id": "p0205", "tahminler": [{"bas": 10, "son": 32, "tur": "EMAIL"}, {"bas": 68, "son": 78, "tur": "KISI_ADI"}]}
+{"id": "p0206", "tahminler": [{"bas": 18, "son": 30, "tur": "KISI_ADI"}, {"bas": 32, "son": 43, "tur": "TC_KIMLIK"}, {"bas": 118, "son": 127, "tur": "PLAKA_TR"}]}
+{"id": "p0207", "tahminler": [{"bas": 23, "son": 41, "tur": "ADRES"}, {"bas": 43, "son": 74, "tur": "ADRES"}, {"bas": 77, "son": 86, "tur": "KONUM"}, {"bas": 89, "son": 96, "tur": "KONUM"}, {"bas": 127, "son": 130, "tur": "KISI_ADI"}, {"bas": 130, "son": 138, "tur": "KISI_ADI"}, {"bas": 166, "son": 177, "tur": "TELEFON_TR"}]}
+{"id": "p0208", "tahminler": [{"bas": 1, "son": 4, "tur": "KISI_ADI"}, {"bas": 27, "son": 30, "tur": "KONUM"}, {"bas": 43, "son": 46, "tur": "KONUM"}]}
+{"id": "p0209", "tahminler": [{"bas": 35, "son": 61, "tur": "IBAN_TR"}]}
+{"id": "p0210", "tahminler": []}
+{"id": "p0211", "tahminler": [{"bas": 15, "son": 26, "tur": "TC_KIMLIK"}, {"bas": 50, "son": 61, "tur": "TC_KIMLIK"}]}
+{"id": "p0212", "tahminler": [{"bas": 19, "son": 42, "tur": "EMAIL"}]}
+{"id": "p0213", "tahminler": [{"bas": 48, "son": 56, "tur": "PLAKA_TR"}]}
+{"id": "p0214", "tahminler": [{"bas": 6, "son": 15, "tur": "KISI_ADI"}, {"bas": 67, "son": 78, "tur": "TC_KIMLIK"}, {"bas": 87, "son": 90, "tur": "KISI_ADI"}, {"bas": 90, "son": 99, "tur": "KISI_ADI"}, {"bas": 101, "son": 115, "tur": "TELEFON_TR"}]}
+{"id": "p0215", "tahminler": [{"bas": 30, "son": 39, "tur": "PLAKA_TR"}, {"bas": 57, "son": 66, "tur": "PLAKA_TR"}, {"bas": 104, "son": 107, "tur": "KISI_ADI"}, {"bas": 107, "son": 116, "tur": "KISI_ADI"}, {"bas": 122, "son": 130, "tur": "KISI_ADI"}]}
+{"id": "p0216", "tahminler": [{"bas": 0, "son": 3, "tur": "KISI_ADI"}, {"bas": 5, "son": 13, "tur": "KISI_ADI"}, {"bas": 32, "son": 37, "tur": "KISI_ADI"}, {"bas": 95, "son": 108, "tur": "TELEFON_TR"}]}
+{"id": "p0217", "tahminler": [{"bas": 0, "son": 9, "tur": "KISI_ADI"}, {"bas": 68, "son": 94, "tur": "IBAN_TR"}]}
+{"id": "p0218", "tahminler": [{"bas": 24, "son": 38, "tur": "KISI_ADI"}, {"bas": 45, "son": 56, "tur": "TC_KIMLIK"}, {"bas": 57, "son": 80, "tur": "ADRES"}, {"bas": 82, "son": 111, "tur": "ADRES"}, {"bas": 114, "son": 121, "tur": "KONUM"}, {"bas": 124, "son": 129, "tur": "KONUM"}]}
+{"id": "p0219", "tahminler": [{"bas": 22, "son": 32, "tur": "KISI_ADI"}, {"bas": 46, "son": 68, "tur": "EMAIL"}]}
+{"id": "p0220", "tahminler": [{"bas": 15, "son": 25, "tur": "KISI_ADI"}, {"bas": 37, "son": 48, "tur": "KISI_ADI"}]}
+{"id": "p0221", "tahminler": [{"bas": 6, "son": 18, "tur": "KISI_ADI"}, {"bas": 20, "son": 31, "tur": "TC_KIMLIK"}, {"bas": 46, "son": 53, "tur": "KISI_ADI"}, {"bas": 54, "son": 74, "tur": "ADRES"}, {"bas": 75, "son": 106, "tur": "ADRES"}, {"bas": 109, "son": 121, "tur": "KONUM"}, {"bas": 124, "son": 131, "tur": "KONUM"}]}
+{"id": "p0222", "tahminler": [{"bas": 11, "son": 18, "tur": "KISI_ADI"}, {"bas": 65, "son": 77, "tur": "KISI_ADI"}]}
+{"id": "p0223", "tahminler": [{"bas": 0, "son": 3, "tur": "KISI_ADI"}, {"bas": 3, "son": 8, "tur": "KISI_ADI"}, {"bas": 17, "son": 35, "tur": "EMAIL"}]}
+{"id": "p0224", "tahminler": [{"bas": 13, "son": 24, "tur": "KISI_ADI"}, {"bas": 68, "son": 88, "tur": "ADRES"}, {"bas": 91, "son": 102, "tur": "KONUM"}, {"bas": 122, "son": 129, "tur": "KONUM"}, {"bas": 132, "son": 137, "tur": "KONUM"}, {"bas": 171, "son": 185, "tur": "TELEFON_TR"}]}
+{"id": "p0225", "tahminler": [{"bas": 49, "son": 75, "tur": "IBAN_TR"}, {"bas": 126, "son": 136, "tur": "KISI_ADI"}]}
+{"id": "p0226", "tahminler": [{"bas": 52, "son": 55, "tur": "KISI_ADI"}, {"bas": 55, "son": 65, "tur": "KISI_ADI"}, {"bas": 92, "son": 103, "tur": "TC_KIMLIK"}, {"bas": 126, "son": 150, "tur": "EMAIL"}]}
+{"id": "p0227", "tahminler": [{"bas": 7, "son": 10, "tur": "KISI_ADI"}, {"bas": 57, "son": 67, "tur": "KISI_ADI"}, {"bas": 95, "son": 109, "tur": "TELEFON_TR"}]}
+{"id": "p0228", "tahminler": [{"bas": 34, "son": 50, "tur": "KREDI_KARTI"}, {"bas": 92, "son": 102, "tur": "KISI_ADI"}]}
+{"id": "p0229", "tahminler": [{"bas": 52, "son": 70, "tur": "ADRES"}, {"bas": 72, "son": 103, "tur": "ADRES"}, {"bas": 106, "son": 115, "tur": "KONUM"}, {"bas": 118, "son": 125, "tur": "KONUM"}, {"bas": 133, "son": 144, "tur": "KISI_ADI"}, {"bas": 154, "son": 171, "tur": "TELEFON_TR"}]}
+{"id": "p0230", "tahminler": [{"bas": 2, "son": 31, "tur": "KURUM"}, {"bas": 53, "son": 63, "tur": "VKN"}, {"bas": 159, "son": 167, "tur": "KISI_ADI"}, {"bas": 184, "son": 195, "tur": "TC_KIMLIK"}, {"bas": 233, "son": 244, "tur": "TELEFON_TR"}]}
+{"id": "p0231", "tahminler": [{"bas": 0, "son": 16, "tur": "KISI_ADI"}, {"bas": 37, "son": 48, "tur": "TC_KIMLIK"}, {"bas": 76, "son": 89, "tur": "KISI_ADI"}, {"bas": 135, "son": 138, "tur": "KISI_ADI"}, {"bas": 138, "son": 148, "tur": "KISI_ADI"}, {"bas": 150, "son": 161, "tur": "TELEFON_TR"}]}
+{"id": "p0232", "tahminler": [{"bas": 8, "son": 15, "tur": "KISI_ADI"}, {"bas": 163, "son": 166, "tur": "KISI_ADI"}, {"bas": 166, "son": 176, "tur": "KISI_ADI"}]}
+{"id": "p0233", "tahminler": [{"bas": 21, "son": 32, "tur": "KISI_ADI"}, {"bas": 65, "son": 75, "tur": "KISI_ADI"}, {"bas": 107, "son": 127, "tur": "EMAIL"}]}
+{"id": "p0234", "tahminler": [{"bas": 2, "son": 11, "tur": "KISI_ADI"}, {"bas": 71, "son": 82, "tur": "TC_KIMLIK"}, {"bas": 94, "son": 97, "tur": "KONUM"}, {"bas": 135, "son": 161, "tur": "IBAN_TR"}]}
+{"id": "p0235", "tahminler": [{"bas": 22, "son": 25, "tur": "KISI_ADI"}, {"bas": 25, "son": 28, "tur": "KISI_ADI"}, {"bas": 58, "son": 61, "tur": "KISI_ADI"}, {"bas": 61, "son": 71, "tur": "KISI_ADI"}]}
+{"id": "p0236", "tahminler": [{"bas": 2, "son": 10, "tur": "KISI_ADI"}, {"bas": 68, "son": 94, "tur": "IBAN_TR"}, {"bas": 118, "son": 127, "tur": "PLAKA_TR"}]}
+{"id": "p0237", "tahminler": [{"bas": 10, "son": 30, "tur": "EMAIL"}, {"bas": 66, "son": 80, "tur": "KISI_ADI"}]}
+{"id": "p0238", "tahminler": [{"bas": 18, "son": 30, "tur": "KISI_ADI"}, {"bas": 32, "son": 43, "tur": "TC_KIMLIK"}, {"bas": 118, "son": 128, "tur": "PLAKA_TR"}]}
+{"id": "p0239", "tahminler": [{"bas": 23, "son": 36, "tur": "ADRES"}, {"bas": 38, "son": 50, "tur": "KONUM"}, {"bas": 62, "son": 74, "tur": "KONUM"}, {"bas": 75, "son": 78, "tur": "KONUM"}, {"bas": 113, "son": 121, "tur": "KISI_ADI"}, {"bas": 151, "son": 168, "tur": "TELEFON_TR"}]}
+{"id": "p0240", "tahminler": [{"bas": 0, "son": 26, "tur": "ADRES"}, {"bas": 27, "son": 39, "tur": "KONUM"}, {"bas": 51, "son": 58, "tur": "KONUM"}, {"bas": 59, "son": 67, "tur": "KONUM"}]}
+{"id": "p0241", "tahminler": [{"bas": 37, "son": 63, "tur": "IBAN_TR"}]}
+{"id": "p0242", "tahminler": [{"bas": 31, "son": 44, "tur": "TELEFON_TR"}]}
+{"id": "p0243", "tahminler": [{"bas": 15, "son": 26, "tur": "TC_KIMLIK"}, {"bas": 50, "son": 61, "tur": "TC_KIMLIK"}]}
+{"id": "p0244", "tahminler": [{"bas": 19, "son": 36, "tur": "EMAIL"}]}
+{"id": "p0245", "tahminler": [{"bas": 56, "son": 64, "tur": "PLAKA_TR"}]}
+{"id": "p0246", "tahminler": [{"bas": 6, "son": 17, "tur": "KISI_ADI"}, {"bas": 70, "son": 81, "tur": "TC_KIMLIK"}, {"bas": 90, "son": 93, "tur": "KISI_ADI"}, {"bas": 93, "son": 99, "tur": "KISI_ADI"}, {"bas": 101, "son": 115, "tur": "TELEFON_TR"}]}
+{"id": "p0247", "tahminler": [{"bas": 30, "son": 38, "tur": "PLAKA_TR"}, {"bas": 56, "son": 64, "tur": "PLAKA_TR"}, {"bas": 102, "son": 115, "tur": "KISI_ADI"}, {"bas": 119, "son": 122, "tur": "KISI_ADI"}, {"bas": 122, "son": 130, "tur": "KISI_ADI"}]}
+{"id": "p0248", "tahminler": [{"bas": 0, "son": 3, "tur": "KISI_ADI"}, {"bas": 5, "son": 11, "tur": "KISI_ADI"}, {"bas": 92, "son": 105, "tur": "TELEFON_TR"}]}
+{"id": "p0249", "tahminler": [{"bas": 2, "son": 11, "tur": "KISI_ADI"}]}
+{"id": "p0250", "tahminler": [{"bas": 24, "son": 27, "tur": "KISI_ADI"}, {"bas": 42, "son": 53, "tur": "TC_KIMLIK"}, {"bas": 62, "son": 71, "tur": "KONUM"}]}
+{"id": "p0251", "tahminler": [{"bas": 20, "son": 23, "tur": "KISI_ADI"}, {"bas": 23, "son": 32, "tur": "KISI_ADI"}, {"bas": 46, "son": 68, "tur": "EMAIL"}]}
+{"id": "p0252", "tahminler": [{"bas": 15, "son": 23, "tur": "KISI_ADI"}, {"bas": 35, "son": 38, "tur": "KISI_ADI"}, {"bas": 38, "son": 48, "tur": "KISI_ADI"}, {"bas": 133, "son": 167, "tur": "ADRES"}, {"bas": 181, "son": 184, "tur": "KONUM"}, {"bas": 197, "son": 200, "tur": "KONUM"}, {"bas": 205, "son": 209, "tur": "KONUM"}]}
+{"id": "p0253", "tahminler": [{"bas": 0, "son": 3, "tur": "KISI_ADI"}, {"bas": 3, "son": 19, "tur": "KISI_ADI"}, {"bas": 21, "son": 32, "tur": "TC_KIMLIK"}, {"bas": 44, "son": 56, "tur": "KISI_ADI"}, {"bas": 57, "son": 72, "tur": "ADRES"}, {"bas": 73, "son": 83, "tur": "KONUM"}, {"bas": 94, "son": 101, "tur": "KONUM"}]}
+{"id": "p0254", "tahminler": [{"bas": 9, "son": 18, "tur": "KISI_ADI"}, {"bas": 65, "son": 74, "tur": "KISI_ADI"}, {"bas": 79, "son": 96, "tur": "TELEFON_TR"}]}
+{"id": "p0255", "tahminler": [{"bas": 0, "son": 12, "tur": "KISI_ADI"}, {"bas": 21, "son": 44, "tur": "EMAIL"}]}
+{"id": "n0256", "tahminler": []}
+{"id": "n0257", "tahminler": []}
+{"id": "n0258", "tahminler": [{"bas": 29, "son": 35, "tur": "KONUM"}]}
+{"id": "n0259", "tahminler": []}
+{"id": "n0260", "tahminler": []}
+{"id": "n0261", "tahminler": []}
+{"id": "n0262", "tahminler": []}
+{"id": "n0263", "tahminler": []}
+{"id": "n0264", "tahminler": [{"bas": 0, "son": 18, "tur": "KURUM"}, {"bas": 22, "son": 36, "tur": "KURUM"}]}
+{"id": "n0265", "tahminler": [{"bas": 0, "son": 18, "tur": "KONUM"}, {"bas": 24, "son": 31, "tur": "KONUM"}]}
+{"id": "n0266", "tahminler": []}
+{"id": "n0267", "tahminler": []}
+{"id": "n0268", "tahminler": []}
+{"id": "n0269", "tahminler": []}
+{"id": "n0270", "tahminler": []}
+{"id": "n0271", "tahminler": [{"bas": 36, "son": 39, "tur": "KONUM"}, {"bas": 46, "son": 49, "tur": "KONUM"}]}
+{"id": "n0272", "tahminler": []}
+{"id": "n0273", "tahminler": [{"bas": 0, "son": 13, "tur": "KURUM"}, {"bas": 17, "son": 28, "tur": "KURUM"}]}
+{"id": "n0274", "tahminler": [{"bas": 0, "son": 30, "tur": "KURUM"}]}
+{"id": "n0275", "tahminler": []}
+{"id": "n0276", "tahminler": []}
+{"id": "n0277", "tahminler": []}
+{"id": "n0278", "tahminler": [{"bas": 29, "son": 35, "tur": "KONUM"}]}
+{"id": "n0279", "tahminler": []}
+{"id": "n0280", "tahminler": []}
+{"id": "n0281", "tahminler": []}
+{"id": "n0282", "tahminler": []}
+{"id": "n0283", "tahminler": []}
+{"id": "n0284", "tahminler": [{"bas": 0, "son": 18, "tur": "KURUM"}, {"bas": 22, "son": 36, "tur": "KURUM"}]}
+{"id": "n0285", "tahminler": [{"bas": 0, "son": 18, "tur": "KONUM"}, {"bas": 24, "son": 31, "tur": "KONUM"}]}
+{"id": "n0286", "tahminler": []}
+{"id": "n0287", "tahminler": []}
+{"id": "n0288", "tahminler": []}
+{"id": "n0289", "tahminler": []}
+{"id": "n0290", "tahminler": []}
+{"id": "n0291", "tahminler": [{"bas": 36, "son": 39, "tur": "KONUM"}, {"bas": 46, "son": 49, "tur": "KONUM"}]}
+{"id": "n0292", "tahminler": []}
+{"id": "n0293", "tahminler": [{"bas": 0, "son": 13, "tur": "KURUM"}, {"bas": 17, "son": 28, "tur": "KURUM"}]}
+{"id": "n0294", "tahminler": [{"bas": 0, "son": 30, "tur": "KURUM"}]}
+{"id": "n0295", "tahminler": []}
+{"id": "n0296", "tahminler": []}
+{"id": "n0297", "tahminler": []}
+{"id": "n0298", "tahminler": [{"bas": 29, "son": 35, "tur": "KONUM"}]}
+{"id": "n0299", "tahminler": []}
+{"id": "n0300", "tahminler": []}
+{"id": "n0301", "tahminler": []}
+{"id": "n0302", "tahminler": []}
+{"id": "n0303", "tahminler": []}
+{"id": "n0304", "tahminler": [{"bas": 0, "son": 18, "tur": "KURUM"}, {"bas": 22, "son": 36, "tur": "KURUM"}]}
+{"id": "n0305", "tahminler": [{"bas": 0, "son": 18, "tur": "KONUM"}, {"bas": 24, "son": 31, "tur": "KONUM"}]}
+{"id": "n0306", "tahminler": []}
+{"id": "n0307", "tahminler": []}
+{"id": "n0308", "tahminler": []}
+{"id": "n0309", "tahminler": []}
+{"id": "n0310", "tahminler": []}
+{"id": "n0311", "tahminler": [{"bas": 36, "son": 39, "tur": "KONUM"}, {"bas": 46, "son": 49, "tur": "KONUM"}]}
+{"id": "n0312", "tahminler": []}
+{"id": "n0313", "tahminler": [{"bas": 0, "son": 13, "tur": "KURUM"}, {"bas": 17, "son": 28, "tur": "KURUM"}]}
+{"id": "n0314", "tahminler": [{"bas": 0, "son": 30, "tur": "KURUM"}]}
+{"id": "n0315", "tahminler": []}
+{"id": "n0316", "tahminler": []}
+{"id": "n0317", "tahminler": []}
+{"id": "n0318", "tahminler": [{"bas": 29, "son": 35, "tur": "KONUM"}]}
+{"id": "n0319", "tahminler": []}
+{"id": "n0320", "tahminler": []}
+{"id": "n0321", "tahminler": []}
+{"id": "n0322", "tahminler": []}
+{"id": "n0323", "tahminler": []}
+{"id": "n0324", "tahminler": [{"bas": 0, "son": 18, "tur": "KURUM"}, {"bas": 22, "son": 36, "tur": "KURUM"}]}
+{"id": "n0325", "tahminler": [{"bas": 0, "son": 18, "tur": "KONUM"}, {"bas": 24, "son": 31, "tur": "KONUM"}]}
+{"id": "n0326", "tahminler": []}
+{"id": "n0327", "tahminler": []}
+{"id": "n0328", "tahminler": []}
+{"id": "n0329", "tahminler": []}
+{"id": "n0330", "tahminler": []}
+{"id": "n0331", "tahminler": [{"bas": 36, "son": 39, "tur": "KONUM"}, {"bas": 46, "son": 49, "tur": "KONUM"}]}
+{"id": "n0332", "tahminler": []}
+{"id": "n0333", "tahminler": [{"bas": 0, "son": 13, "tur": "KURUM"}, {"bas": 17, "son": 28, "tur": "KURUM"}]}
+{"id": "n0334", "tahminler": [{"bas": 0, "son": 30, "tur": "KURUM"}]}
+{"id": "n0335", "tahminler": []}
