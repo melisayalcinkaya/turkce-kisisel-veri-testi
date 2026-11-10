@@ -1,0 +1,9 @@
+transformers>=4.48
+huggingface_hub
+sentencepiece
+protobuf
+kvkk-pii[full]
+gliner
+presidio-analyzer
+python-stdnum
+onnxruntime

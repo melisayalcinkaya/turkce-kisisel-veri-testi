@@ -1,0 +1,3 @@
+python sistemler/kesif.py ytu-ce-cosmos/modernbert-tr-pii-ner ersanbil/kvkk-pii-ner Werea-co/Werea-KVKK-PII-150M akdeniz27/bert-base-turkish-cased-ner akdeniz27/xlm-roberta-base-turkish-ner OpenMed/OpenMed-PII-Turkish-BiomedELECTRA-Large-335M-v1 halilneed/turkish-pii-detection melikegks/turkish-pii-guard-qwen2.5-1.5b ds:cagrigungor/turkish-pii-masking-benchmark urchade/gliner_multi_pii-v1 urchade/gliner_multi-v2.1
+python sistemler/kural.py veri/test.jsonl tahmin/
+python sistemler/ner.py veri/test.jsonl ytu-ce-cosmos/modernbert-tr-pii-ner ersanbil/kvkk-pii-ner Werea-co/Werea-KVKK-PII-150M akdeniz27/bert-base-turkish-cased-ner akdeniz27/xlm-roberta-base-turkish-ner OpenMed/OpenMed-PII-Turkish-BiomedELECTRA-Large-335M-v1
