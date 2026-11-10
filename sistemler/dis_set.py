@@ -15,7 +15,7 @@ from hizalama import etiketli_hizala  # noqa: E402
 
 yol = hf_hub_download("cagrigungor/turkish-pii-masking-benchmark", "benchmark_1000.csv", repo_type="dataset")
 n = kesin = 0
-with open(yol, encoding="utf-8") as f, open("veri/dis_test.jsonl", "w", encoding="utf-8") as out:
+with open(yol, encoding="utf-8-sig") as f, open("veri/dis_test.jsonl", "w", encoding="utf-8") as out:
     for r in csv.DictReader(f):
         if r["kategori"] not in ("tam", "negatif"):
             continue
