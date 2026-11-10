@@ -1,0 +1,550 @@
+{"id": "d1", "tahminler": [{"bas": 0, "son": 13, "tur": "ADRES"}, {"bas": 13, "son": 27, "tur": "ADRES"}]}
+{"id": "d2", "tahminler": []}
+{"id": "d3", "tahminler": []}
+{"id": "d4", "tahminler": []}
+{"id": "d5", "tahminler": [{"bas": 43, "son": 52, "tur": "PASAPORT_TR"}, {"bas": 119, "son": 130, "tur": "TC_KIMLIK"}]}
+{"id": "d6", "tahminler": [{"bas": 31, "son": 45, "tur": "TC_KIMLIK"}]}
+{"id": "d7", "tahminler": []}
+{"id": "d8", "tahminler": []}
+{"id": "d9", "tahminler": [{"bas": 65, "son": 76, "tur": "TC_KIMLIK"}]}
+{"id": "d10", "tahminler": []}
+{"id": "d11", "tahminler": []}
+{"id": "d12", "tahminler": [{"bas": 66, "son": 77, "tur": "TC_KIMLIK"}]}
+{"id": "d13", "tahminler": [{"bas": 44, "son": 58, "tur": "TC_KIMLIK"}, {"bas": 63, "son": 76, "tur": "IP_ADRESI"}]}
+{"id": "d14", "tahminler": []}
+{"id": "d15", "tahminler": [{"bas": 41, "son": 50, "tur": "PLAKA_TR"}]}
+{"id": "d16", "tahminler": [{"bas": 52, "son": 61, "tur": "PLAKA_TR"}, {"bas": 88, "son": 107, "tur": "KREDI_KARTI"}, {"bas": 108, "son": 132, "tur": "ADRES"}, {"bas": 133, "son": 157, "tur": "ADRES"}]}
+{"id": "d17", "tahminler": [{"bas": 23, "son": 38, "tur": "IP_ADRESI"}]}
+{"id": "d18", "tahminler": [{"bas": 43, "son": 52, "tur": "PASAPORT_TR"}]}
+{"id": "d19", "tahminler": []}
+{"id": "d20", "tahminler": []}
+{"id": "d21", "tahminler": []}
+{"id": "d22", "tahminler": [{"bas": 0, "son": 11, "tur": "TC_KIMLIK"}]}
+{"id": "d23", "tahminler": []}
+{"id": "d24", "tahminler": [{"bas": 57, "son": 71, "tur": "TC_KIMLIK"}]}
+{"id": "d25", "tahminler": []}
+{"id": "d26", "tahminler": []}
+{"id": "d27", "tahminler": []}
+{"id": "d28", "tahminler": []}
+{"id": "d29", "tahminler": [{"bas": 48, "son": 57, "tur": "PASAPORT_TR"}]}
+{"id": "d30", "tahminler": [{"bas": 41, "son": 52, "tur": "PLAKA_TR"}, {"bas": 230, "son": 239, "tur": "PASAPORT_TR"}, {"bas": 245, "son": 261, "tur": "KREDI_KARTI"}]}
+{"id": "d31", "tahminler": []}
+{"id": "d32", "tahminler": [{"bas": 37, "son": 58, "tur": "EMAIL"}]}
+{"id": "d33", "tahminler": [{"bas": 39, "son": 58, "tur": "EMAIL"}]}
+{"id": "d34", "tahminler": []}
+{"id": "d35", "tahminler": []}
+{"id": "d36", "tahminler": []}
+{"id": "d37", "tahminler": [{"bas": 23, "son": 37, "tur": "IP_ADRESI"}]}
+{"id": "d38", "tahminler": []}
+{"id": "d39", "tahminler": []}
+{"id": "d40", "tahminler": [{"bas": 0, "son": 11, "tur": "TC_KIMLIK"}]}
+{"id": "d41", "tahminler": [{"bas": 41, "son": 52, "tur": "PLAKA_TR"}]}
+{"id": "d42", "tahminler": []}
+{"id": "d43", "tahminler": []}
+{"id": "d44", "tahminler": [{"bas": 224, "son": 247, "tur": "EMAIL"}]}
+{"id": "d45", "tahminler": [{"bas": 225, "son": 244, "tur": "EMAIL"}, {"bas": 407, "son": 416, "tur": "PASAPORT_TR"}]}
+{"id": "d46", "tahminler": [{"bas": 57, "son": 92, "tur": "ADRES"}, {"bas": 92, "son": 110, "tur": "ADRES"}]}
+{"id": "d47", "tahminler": [{"bas": 122, "son": 133, "tur": "TC_KIMLIK"}, {"bas": 145, "son": 166, "tur": "EMAIL"}]}
+{"id": "d48", "tahminler": []}
+{"id": "d49", "tahminler": [{"bas": 32, "son": 45, "tur": "IP_ADRESI"}, {"bas": 101, "son": 125, "tur": "EMAIL"}]}
+{"id": "d50", "tahminler": []}
+{"id": "d51", "tahminler": [{"bas": 46, "son": 67, "tur": "ADRES"}, {"bas": 68, "son": 90, "tur": "ADRES"}]}
+{"id": "d52", "tahminler": []}
+{"id": "d53", "tahminler": []}
+{"id": "d54", "tahminler": [{"bas": 23, "son": 37, "tur": "IP_ADRESI"}]}
+{"id": "d55", "tahminler": []}
+{"id": "d56", "tahminler": [{"bas": 102, "son": 116, "tur": "IP_ADRESI"}]}
+{"id": "d57", "tahminler": []}
+{"id": "d58", "tahminler": []}
+{"id": "d59", "tahminler": []}
+{"id": "d60", "tahminler": []}
+{"id": "d61", "tahminler": [{"bas": 24, "son": 37, "tur": "IP_ADRESI"}]}
+{"id": "d62", "tahminler": []}
+{"id": "d63", "tahminler": []}
+{"id": "d64", "tahminler": []}
+{"id": "d65", "tahminler": [{"bas": 41, "son": 52, "tur": "PLAKA_TR"}]}
+{"id": "d66", "tahminler": []}
+{"id": "d67", "tahminler": []}
+{"id": "d68", "tahminler": [{"bas": 275, "son": 289, "tur": "TC_KIMLIK"}]}
+{"id": "d69", "tahminler": [{"bas": 0, "son": 23, "tur": "EMAIL"}]}
+{"id": "d70", "tahminler": []}
+{"id": "d71", "tahminler": []}
+{"id": "d72", "tahminler": []}
+{"id": "d73", "tahminler": [{"bas": 32, "son": 41, "tur": "PASAPORT_TR"}]}
+{"id": "d74", "tahminler": [{"bas": 154, "son": 168, "tur": "IP_ADRESI"}, {"bas": 179, "son": 190, "tur": "TELEFON_TR"}]}
+{"id": "d75", "tahminler": []}
+{"id": "d76", "tahminler": [{"bas": 23, "son": 37, "tur": "IP_ADRESI"}]}
+{"id": "d77", "tahminler": []}
+{"id": "d78", "tahminler": [{"bas": 66, "son": 80, "tur": "TC_KIMLIK"}]}
+{"id": "d79", "tahminler": []}
+{"id": "d80", "tahminler": [{"bas": 67, "son": 78, "tur": "TC_KIMLIK"}]}
+{"id": "d81", "tahminler": []}
+{"id": "d82", "tahminler": []}
+{"id": "d83", "tahminler": []}
+{"id": "d84", "tahminler": [{"bas": 122, "son": 132, "tur": "PLAKA_TR"}]}
+{"id": "d85", "tahminler": [{"bas": 83, "son": 118, "tur": "ADRES"}, {"bas": 118, "son": 141, "tur": "ADRES"}, {"bas": 162, "son": 173, "tur": "TELEFON_TR"}]}
+{"id": "d86", "tahminler": [{"bas": 119, "son": 141, "tur": "EMAIL"}, {"bas": 230, "son": 246, "tur": "ADRES"}, {"bas": 247, "son": 261, "tur": "ADRES"}]}
+{"id": "d87", "tahminler": []}
+{"id": "d88", "tahminler": []}
+{"id": "d89", "tahminler": []}
+{"id": "d90", "tahminler": [{"bas": 65, "son": 76, "tur": "TC_KIMLIK"}, {"bas": 124, "son": 133, "tur": "PASAPORT_TR"}, {"bas": 156, "son": 170, "tur": "TELEFON_TR"}]}
+{"id": "d91", "tahminler": [{"bas": 41, "son": 52, "tur": "PLAKA_TR"}, {"bas": 244, "son": 279, "tur": "ADRES"}, {"bas": 326, "son": 343, "tur": "TELEFON_TR"}]}
+{"id": "d92", "tahminler": []}
+{"id": "d93", "tahminler": []}
+{"id": "d94", "tahminler": [{"bas": 74, "son": 84, "tur": "PLAKA_TR"}]}
+{"id": "d95", "tahminler": []}
+{"id": "d96", "tahminler": [{"bas": 41, "son": 52, "tur": "PLAKA_TR"}]}
+{"id": "d97", "tahminler": []}
+{"id": "d98", "tahminler": [{"bas": 65, "son": 77, "tur": "IP_ADRESI"}]}
+{"id": "d99", "tahminler": []}
+{"id": "d100", "tahminler": [{"bas": 86, "son": 115, "tur": "EMAIL"}]}
+{"id": "d101", "tahminler": [{"bas": 64, "son": 78, "tur": "TC_KIMLIK"}, {"bas": 86, "son": 109, "tur": "EMAIL"}]}
+{"id": "d102", "tahminler": []}
+{"id": "d103", "tahminler": []}
+{"id": "d104", "tahminler": []}
+{"id": "d105", "tahminler": []}
+{"id": "d106", "tahminler": []}
+{"id": "d107", "tahminler": []}
+{"id": "d108", "tahminler": [{"bas": 21, "son": 38, "tur": "TELEFON_TR"}]}
+{"id": "d109", "tahminler": []}
+{"id": "d110", "tahminler": []}
+{"id": "d111", "tahminler": []}
+{"id": "d112", "tahminler": []}
+{"id": "d113", "tahminler": []}
+{"id": "d114", "tahminler": []}
+{"id": "d115", "tahminler": [{"bas": 0, "son": 11, "tur": "TC_KIMLIK"}]}
+{"id": "d116", "tahminler": [{"bas": 184, "son": 193, "tur": "PASAPORT_TR"}, {"bas": 251, "son": 265, "tur": "TC_KIMLIK"}]}
+{"id": "d117", "tahminler": [{"bas": 13, "son": 48, "tur": "ADRES"}, {"bas": 48, "son": 61, "tur": "ADRES"}]}
+{"id": "d118", "tahminler": []}
+{"id": "d119", "tahminler": []}
+{"id": "d120", "tahminler": []}
+{"id": "d121", "tahminler": [{"bas": 111, "son": 123, "tur": "IP_ADRESI"}, {"bas": 135, "son": 156, "tur": "EMAIL"}]}
+{"id": "d122", "tahminler": []}
+{"id": "d123", "tahminler": []}
+{"id": "d124", "tahminler": []}
+{"id": "d125", "tahminler": []}
+{"id": "d126", "tahminler": [{"bas": 0, "son": 23, "tur": "EMAIL"}]}
+{"id": "d127", "tahminler": []}
+{"id": "d128", "tahminler": []}
+{"id": "d129", "tahminler": [{"bas": 113, "son": 124, "tur": "TC_KIMLIK"}, {"bas": 418, "son": 432, "tur": "IP_ADRESI"}]}
+{"id": "d130", "tahminler": [{"bas": 43, "son": 52, "tur": "PASAPORT_TR"}]}
+{"id": "d131", "tahminler": []}
+{"id": "d132", "tahminler": [{"bas": 300, "son": 313, "tur": "IP_ADRESI"}]}
+{"id": "d133", "tahminler": []}
+{"id": "d134", "tahminler": []}
+{"id": "d135", "tahminler": []}
+{"id": "d136", "tahminler": []}
+{"id": "d137", "tahminler": []}
+{"id": "d138", "tahminler": [{"bas": 78, "son": 92, "tur": "IP_ADRESI"}]}
+{"id": "d139", "tahminler": []}
+{"id": "d140", "tahminler": []}
+{"id": "d141", "tahminler": []}
+{"id": "d142", "tahminler": [{"bas": 56, "son": 67, "tur": "TC_KIMLIK"}, {"bas": 283, "son": 294, "tur": "PLAKA_TR"}]}
+{"id": "d143", "tahminler": []}
+{"id": "d144", "tahminler": []}
+{"id": "d145", "tahminler": []}
+{"id": "d146", "tahminler": [{"bas": 29, "son": 55, "tur": "EMAIL"}]}
+{"id": "d147", "tahminler": []}
+{"id": "d148", "tahminler": []}
+{"id": "d149", "tahminler": []}
+{"id": "d150", "tahminler": []}
+{"id": "d151", "tahminler": [{"bas": 23, "son": 36, "tur": "IP_ADRESI"}]}
+{"id": "d152", "tahminler": []}
+{"id": "d153", "tahminler": [{"bas": 32, "son": 40, "tur": "PLAKA_TR"}]}
+{"id": "d154", "tahminler": [{"bas": 0, "son": 10, "tur": "PLAKA_TR"}]}
+{"id": "d155", "tahminler": []}
+{"id": "d156", "tahminler": [{"bas": 41, "son": 52, "tur": "PLAKA_TR"}]}
+{"id": "d157", "tahminler": []}
+{"id": "d158", "tahminler": []}
+{"id": "d159", "tahminler": []}
+{"id": "d160", "tahminler": []}
+{"id": "d161", "tahminler": []}
+{"id": "d162", "tahminler": [{"bas": 15, "son": 50, "tur": "ADRES"}, {"bas": 50, "son": 67, "tur": "ADRES"}]}
+{"id": "d163", "tahminler": []}
+{"id": "d164", "tahminler": [{"bas": 0, "son": 22, "tur": "EMAIL"}]}
+{"id": "d165", "tahminler": [{"bas": 71, "son": 85, "tur": "TELEFON_TR"}]}
+{"id": "d166", "tahminler": []}
+{"id": "d167", "tahminler": [{"bas": 39, "son": 63, "tur": "EMAIL"}]}
+{"id": "d168", "tahminler": [{"bas": 41, "son": 52, "tur": "PLAKA_TR"}, {"bas": 247, "son": 257, "tur": "IP_ADRESI"}]}
+{"id": "d169", "tahminler": [{"bas": 9, "son": 43, "tur": "ADRES"}, {"bas": 44, "son": 58, "tur": "ADRES"}, {"bas": 87, "son": 98, "tur": "TELEFON_TR"}]}
+{"id": "d170", "tahminler": [{"bas": 41, "son": 52, "tur": "PLAKA_TR"}, {"bas": 130, "son": 165, "tur": "ADRES"}, {"bas": 165, "son": 187, "tur": "ADRES"}]}
+{"id": "d171", "tahminler": []}
+{"id": "d172", "tahminler": [{"bas": 96, "son": 106, "tur": "PLAKA_TR"}, {"bas": 213, "son": 227, "tur": "TELEFON_TR"}]}
+{"id": "d173", "tahminler": [{"bas": 281, "son": 309, "tur": "EMAIL"}]}
+{"id": "d174", "tahminler": []}
+{"id": "d175", "tahminler": []}
+{"id": "d176", "tahminler": []}
+{"id": "d177", "tahminler": []}
+{"id": "d178", "tahminler": []}
+{"id": "d179", "tahminler": [{"bas": 138, "son": 163, "tur": "EMAIL"}]}
+{"id": "d180", "tahminler": []}
+{"id": "d181", "tahminler": [{"bas": 32, "son": 41, "tur": "PASAPORT_TR"}]}
+{"id": "d182", "tahminler": []}
+{"id": "d183", "tahminler": []}
+{"id": "d184", "tahminler": [{"bas": 68, "son": 79, "tur": "TC_KIMLIK"}]}
+{"id": "d185", "tahminler": [{"bas": 0, "son": 17, "tur": "TELEFON_TR"}]}
+{"id": "d186", "tahminler": []}
+{"id": "d187", "tahminler": [{"bas": 20, "son": 43, "tur": "EMAIL"}]}
+{"id": "d188", "tahminler": []}
+{"id": "d189", "tahminler": [{"bas": 66, "son": 77, "tur": "TC_KIMLIK"}]}
+{"id": "d190", "tahminler": []}
+{"id": "d191", "tahminler": []}
+{"id": "d192", "tahminler": []}
+{"id": "d193", "tahminler": []}
+{"id": "d194", "tahminler": []}
+{"id": "d195", "tahminler": []}
+{"id": "d196", "tahminler": []}
+{"id": "d197", "tahminler": [{"bas": 94, "son": 105, "tur": "TC_KIMLIK"}]}
+{"id": "d198", "tahminler": [{"bas": 145, "son": 166, "tur": "EMAIL"}, {"bas": 259, "son": 272, "tur": "IP_ADRESI"}]}
+{"id": "d199", "tahminler": []}
+{"id": "d200", "tahminler": []}
+{"id": "d201", "tahminler": []}
+{"id": "d202", "tahminler": [{"bas": 14, "son": 48, "tur": "ADRES"}, {"bas": 49, "son": 61, "tur": "ADRES"}, {"bas": 100, "son": 114, "tur": "TELEFON_TR"}]}
+{"id": "d203", "tahminler": [{"bas": 0, "son": 14, "tur": "TC_KIMLIK"}]}
+{"id": "d204", "tahminler": []}
+{"id": "d205", "tahminler": []}
+{"id": "d206", "tahminler": [{"bas": 32, "son": 41, "tur": "PASAPORT_TR"}]}
+{"id": "d207", "tahminler": []}
+{"id": "d208", "tahminler": []}
+{"id": "d209", "tahminler": [{"bas": 57, "son": 68, "tur": "TC_KIMLIK"}]}
+{"id": "d210", "tahminler": []}
+{"id": "d211", "tahminler": []}
+{"id": "d212", "tahminler": []}
+{"id": "d213", "tahminler": [{"bas": 56, "son": 75, "tur": "EMAIL"}]}
+{"id": "d214", "tahminler": [{"bas": 32, "son": 41, "tur": "PASAPORT_TR"}]}
+{"id": "d215", "tahminler": []}
+{"id": "d216", "tahminler": [{"bas": 63, "son": 74, "tur": "TC_KIMLIK"}, {"bas": 82, "son": 106, "tur": "EMAIL"}]}
+{"id": "d217", "tahminler": []}
+{"id": "d218", "tahminler": []}
+{"id": "d219", "tahminler": [{"bas": 173, "son": 183, "tur": "PLAKA_TR"}]}
+{"id": "d220", "tahminler": []}
+{"id": "d221", "tahminler": []}
+{"id": "d222", "tahminler": [{"bas": 40, "son": 61, "tur": "EMAIL"}]}
+{"id": "d223", "tahminler": []}
+{"id": "d224", "tahminler": []}
+{"id": "d225", "tahminler": []}
+{"id": "d226", "tahminler": [{"bas": 185, "son": 205, "tur": "ADRES"}, {"bas": 206, "son": 225, "tur": "ADRES"}]}
+{"id": "d227", "tahminler": []}
+{"id": "d228", "tahminler": []}
+{"id": "d229", "tahminler": []}
+{"id": "d230", "tahminler": [{"bas": 44, "son": 53, "tur": "PASAPORT_TR"}]}
+{"id": "d231", "tahminler": []}
+{"id": "d232", "tahminler": []}
+{"id": "d233", "tahminler": [{"bas": 76, "son": 103, "tur": "EMAIL"}]}
+{"id": "d234", "tahminler": [{"bas": 56, "son": 67, "tur": "TC_KIMLIK"}]}
+{"id": "d235", "tahminler": []}
+{"id": "d236", "tahminler": []}
+{"id": "d237", "tahminler": []}
+{"id": "d238", "tahminler": []}
+{"id": "d239", "tahminler": []}
+{"id": "d240", "tahminler": []}
+{"id": "d241", "tahminler": []}
+{"id": "d242", "tahminler": [{"bas": 23, "son": 38, "tur": "IP_ADRESI"}, {"bas": 232, "son": 241, "tur": "PLAKA_TR"}]}
+{"id": "d243", "tahminler": []}
+{"id": "d244", "tahminler": []}
+{"id": "d245", "tahminler": []}
+{"id": "d246", "tahminler": []}
+{"id": "d247", "tahminler": [{"bas": 139, "son": 150, "tur": "TC_KIMLIK"}, {"bas": 158, "son": 166, "tur": "PLAKA_TR"}]}
+{"id": "d248", "tahminler": []}
+{"id": "d249", "tahminler": []}
+{"id": "d250", "tahminler": [{"bas": 160, "son": 173, "tur": "IP_ADRESI"}]}
+{"id": "d701", "tahminler": []}
+{"id": "d702", "tahminler": []}
+{"id": "d703", "tahminler": []}
+{"id": "d704", "tahminler": []}
+{"id": "d705", "tahminler": []}
+{"id": "d706", "tahminler": []}
+{"id": "d707", "tahminler": []}
+{"id": "d708", "tahminler": []}
+{"id": "d709", "tahminler": []}
+{"id": "d710", "tahminler": []}
+{"id": "d711", "tahminler": []}
+{"id": "d712", "tahminler": []}
+{"id": "d713", "tahminler": []}
+{"id": "d714", "tahminler": []}
+{"id": "d715", "tahminler": []}
+{"id": "d716", "tahminler": []}
+{"id": "d717", "tahminler": []}
+{"id": "d718", "tahminler": []}
+{"id": "d719", "tahminler": []}
+{"id": "d720", "tahminler": []}
+{"id": "d721", "tahminler": []}
+{"id": "d722", "tahminler": []}
+{"id": "d723", "tahminler": []}
+{"id": "d724", "tahminler": []}
+{"id": "d725", "tahminler": []}
+{"id": "d726", "tahminler": []}
+{"id": "d727", "tahminler": []}
+{"id": "d728", "tahminler": []}
+{"id": "d729", "tahminler": []}
+{"id": "d730", "tahminler": []}
+{"id": "d731", "tahminler": []}
+{"id": "d732", "tahminler": []}
+{"id": "d733", "tahminler": []}
+{"id": "d734", "tahminler": []}
+{"id": "d735", "tahminler": []}
+{"id": "d736", "tahminler": []}
+{"id": "d737", "tahminler": []}
+{"id": "d738", "tahminler": []}
+{"id": "d739", "tahminler": []}
+{"id": "d740", "tahminler": []}
+{"id": "d741", "tahminler": [{"bas": 0, "son": 14, "tur": "ADRES"}]}
+{"id": "d742", "tahminler": []}
+{"id": "d743", "tahminler": []}
+{"id": "d744", "tahminler": []}
+{"id": "d745", "tahminler": []}
+{"id": "d746", "tahminler": []}
+{"id": "d747", "tahminler": []}
+{"id": "d748", "tahminler": []}
+{"id": "d749", "tahminler": []}
+{"id": "d750", "tahminler": []}
+{"id": "d751", "tahminler": []}
+{"id": "d752", "tahminler": []}
+{"id": "d753", "tahminler": []}
+{"id": "d754", "tahminler": []}
+{"id": "d755", "tahminler": []}
+{"id": "d756", "tahminler": []}
+{"id": "d757", "tahminler": []}
+{"id": "d758", "tahminler": []}
+{"id": "d759", "tahminler": []}
+{"id": "d760", "tahminler": []}
+{"id": "d761", "tahminler": []}
+{"id": "d762", "tahminler": []}
+{"id": "d763", "tahminler": []}
+{"id": "d764", "tahminler": []}
+{"id": "d765", "tahminler": []}
+{"id": "d766", "tahminler": []}
+{"id": "d767", "tahminler": []}
+{"id": "d768", "tahminler": []}
+{"id": "d769", "tahminler": []}
+{"id": "d770", "tahminler": []}
+{"id": "d771", "tahminler": []}
+{"id": "d772", "tahminler": []}
+{"id": "d773", "tahminler": []}
+{"id": "d774", "tahminler": []}
+{"id": "d775", "tahminler": []}
+{"id": "d776", "tahminler": []}
+{"id": "d777", "tahminler": []}
+{"id": "d778", "tahminler": []}
+{"id": "d779", "tahminler": []}
+{"id": "d780", "tahminler": []}
+{"id": "d781", "tahminler": []}
+{"id": "d782", "tahminler": []}
+{"id": "d783", "tahminler": []}
+{"id": "d784", "tahminler": []}
+{"id": "d785", "tahminler": []}
+{"id": "d786", "tahminler": []}
+{"id": "d787", "tahminler": []}
+{"id": "d788", "tahminler": []}
+{"id": "d789", "tahminler": []}
+{"id": "d790", "tahminler": []}
+{"id": "d791", "tahminler": []}
+{"id": "d792", "tahminler": []}
+{"id": "d793", "tahminler": []}
+{"id": "d794", "tahminler": []}
+{"id": "d795", "tahminler": []}
+{"id": "d796", "tahminler": []}
+{"id": "d797", "tahminler": []}
+{"id": "d798", "tahminler": []}
+{"id": "d799", "tahminler": []}
+{"id": "d800", "tahminler": []}
+{"id": "d801", "tahminler": []}
+{"id": "d802", "tahminler": []}
+{"id": "d803", "tahminler": []}
+{"id": "d804", "tahminler": []}
+{"id": "d805", "tahminler": []}
+{"id": "d806", "tahminler": []}
+{"id": "d807", "tahminler": []}
+{"id": "d808", "tahminler": []}
+{"id": "d809", "tahminler": []}
+{"id": "d810", "tahminler": []}
+{"id": "d811", "tahminler": []}
+{"id": "d812", "tahminler": []}
+{"id": "d813", "tahminler": []}
+{"id": "d814", "tahminler": []}
+{"id": "d815", "tahminler": []}
+{"id": "d816", "tahminler": []}
+{"id": "d817", "tahminler": []}
+{"id": "d818", "tahminler": []}
+{"id": "d819", "tahminler": []}
+{"id": "d820", "tahminler": []}
+{"id": "d821", "tahminler": []}
+{"id": "d822", "tahminler": []}
+{"id": "d823", "tahminler": []}
+{"id": "d824", "tahminler": []}
+{"id": "d825", "tahminler": []}
+{"id": "d826", "tahminler": []}
+{"id": "d827", "tahminler": []}
+{"id": "d828", "tahminler": []}
+{"id": "d829", "tahminler": []}
+{"id": "d830", "tahminler": []}
+{"id": "d831", "tahminler": []}
+{"id": "d832", "tahminler": []}
+{"id": "d833", "tahminler": []}
+{"id": "d834", "tahminler": []}
+{"id": "d835", "tahminler": []}
+{"id": "d836", "tahminler": []}
+{"id": "d837", "tahminler": []}
+{"id": "d838", "tahminler": []}
+{"id": "d839", "tahminler": []}
+{"id": "d840", "tahminler": []}
+{"id": "d841", "tahminler": []}
+{"id": "d842", "tahminler": []}
+{"id": "d843", "tahminler": []}
+{"id": "d844", "tahminler": []}
+{"id": "d845", "tahminler": []}
+{"id": "d846", "tahminler": []}
+{"id": "d847", "tahminler": []}
+{"id": "d848", "tahminler": []}
+{"id": "d849", "tahminler": []}
+{"id": "d850", "tahminler": []}
+{"id": "d851", "tahminler": []}
+{"id": "d852", "tahminler": []}
+{"id": "d853", "tahminler": []}
+{"id": "d854", "tahminler": []}
+{"id": "d855", "tahminler": []}
+{"id": "d856", "tahminler": []}
+{"id": "d857", "tahminler": []}
+{"id": "d858", "tahminler": []}
+{"id": "d859", "tahminler": []}
+{"id": "d860", "tahminler": []}
+{"id": "d861", "tahminler": []}
+{"id": "d862", "tahminler": []}
+{"id": "d863", "tahminler": []}
+{"id": "d864", "tahminler": []}
+{"id": "d865", "tahminler": []}
+{"id": "d866", "tahminler": []}
+{"id": "d867", "tahminler": []}
+{"id": "d868", "tahminler": []}
+{"id": "d869", "tahminler": []}
+{"id": "d870", "tahminler": []}
+{"id": "d871", "tahminler": []}
+{"id": "d872", "tahminler": []}
+{"id": "d873", "tahminler": []}
+{"id": "d874", "tahminler": []}
+{"id": "d875", "tahminler": []}
+{"id": "d876", "tahminler": []}
+{"id": "d877", "tahminler": []}
+{"id": "d878", "tahminler": []}
+{"id": "d879", "tahminler": []}
+{"id": "d880", "tahminler": []}
+{"id": "d881", "tahminler": []}
+{"id": "d882", "tahminler": []}
+{"id": "d883", "tahminler": []}
+{"id": "d884", "tahminler": []}
+{"id": "d885", "tahminler": []}
+{"id": "d886", "tahminler": []}
+{"id": "d887", "tahminler": []}
+{"id": "d888", "tahminler": []}
+{"id": "d889", "tahminler": []}
+{"id": "d890", "tahminler": []}
+{"id": "d891", "tahminler": []}
+{"id": "d892", "tahminler": []}
+{"id": "d893", "tahminler": []}
+{"id": "d894", "tahminler": []}
+{"id": "d895", "tahminler": []}
+{"id": "d896", "tahminler": []}
+{"id": "d897", "tahminler": []}
+{"id": "d898", "tahminler": []}
+{"id": "d899", "tahminler": []}
+{"id": "d900", "tahminler": []}
+{"id": "d901", "tahminler": []}
+{"id": "d902", "tahminler": []}
+{"id": "d903", "tahminler": [{"bas": 42, "son": 53, "tur": "TC_KIMLIK"}]}
+{"id": "d904", "tahminler": []}
+{"id": "d905", "tahminler": [{"bas": 42, "son": 53, "tur": "TC_KIMLIK"}, {"bas": 184, "son": 204, "tur": "EMAIL"}]}
+{"id": "d906", "tahminler": []}
+{"id": "d907", "tahminler": [{"bas": 56, "son": 67, "tur": "TC_KIMLIK"}]}
+{"id": "d908", "tahminler": [{"bas": 173, "son": 187, "tur": "TC_KIMLIK"}]}
+{"id": "d909", "tahminler": []}
+{"id": "d910", "tahminler": []}
+{"id": "d911", "tahminler": [{"bas": 43, "son": 52, "tur": "PASAPORT_TR"}]}
+{"id": "d912", "tahminler": []}
+{"id": "d913", "tahminler": []}
+{"id": "d914", "tahminler": []}
+{"id": "d915", "tahminler": []}
+{"id": "d916", "tahminler": [{"bas": 109, "son": 120, "tur": "PLAKA_TR"}]}
+{"id": "d917", "tahminler": [{"bas": 93, "son": 115, "tur": "EMAIL"}]}
+{"id": "d918", "tahminler": []}
+{"id": "d919", "tahminler": [{"bas": 190, "son": 204, "tur": "TELEFON_TR"}]}
+{"id": "d920", "tahminler": [{"bas": 81, "son": 94, "tur": "IP_ADRESI"}]}
+{"id": "d921", "tahminler": []}
+{"id": "d922", "tahminler": [{"bas": 138, "son": 151, "tur": "IP_ADRESI"}]}
+{"id": "d923", "tahminler": []}
+{"id": "d924", "tahminler": []}
+{"id": "d925", "tahminler": [{"bas": 19, "son": 40, "tur": "ADRES"}, {"bas": 41, "son": 60, "tur": "ADRES"}]}
+{"id": "d926", "tahminler": [{"bas": 98, "son": 120, "tur": "EMAIL"}]}
+{"id": "d927", "tahminler": [{"bas": 32, "son": 53, "tur": "EMAIL"}, {"bas": 157, "son": 175, "tur": "ADRES"}]}
+{"id": "d928", "tahminler": [{"bas": 179, "son": 193, "tur": "TC_KIMLIK"}]}
+{"id": "d929", "tahminler": [{"bas": 132, "son": 152, "tur": "ADRES"}]}
+{"id": "d930", "tahminler": []}
+{"id": "d931", "tahminler": []}
+{"id": "d932", "tahminler": [{"bas": 244, "son": 269, "tur": "EMAIL"}]}
+{"id": "d933", "tahminler": []}
+{"id": "d934", "tahminler": [{"bas": 23, "son": 37, "tur": "IP_ADRESI"}]}
+{"id": "d935", "tahminler": []}
+{"id": "d936", "tahminler": [{"bas": 120, "son": 131, "tur": "PLAKA_TR"}]}
+{"id": "d937", "tahminler": []}
+{"id": "d938", "tahminler": [{"bas": 10, "son": 45, "tur": "ADRES"}, {"bas": 45, "son": 68, "tur": "ADRES"}]}
+{"id": "d939", "tahminler": [{"bas": 110, "son": 131, "tur": "EMAIL"}, {"bas": 142, "son": 153, "tur": "TELEFON_TR"}]}
+{"id": "d940", "tahminler": []}
+{"id": "d941", "tahminler": []}
+{"id": "d942", "tahminler": [{"bas": 119, "son": 135, "tur": "ADRES"}]}
+{"id": "d943", "tahminler": []}
+{"id": "d944", "tahminler": []}
+{"id": "d945", "tahminler": [{"bas": 56, "son": 67, "tur": "TC_KIMLIK"}]}
+{"id": "d946", "tahminler": []}
+{"id": "d947", "tahminler": []}
+{"id": "d948", "tahminler": [{"bas": 212, "son": 223, "tur": "TC_KIMLIK"}]}
+{"id": "d949", "tahminler": [{"bas": 8, "son": 43, "tur": "ADRES"}, {"bas": 84, "son": 95, "tur": "TELEFON_TR"}]}
+{"id": "d950", "tahminler": [{"bas": 21, "son": 38, "tur": "TELEFON_TR"}]}
+{"id": "d951", "tahminler": []}
+{"id": "d952", "tahminler": [{"bas": 93, "son": 107, "tur": "IP_ADRESI"}]}
+{"id": "d953", "tahminler": [{"bas": 9, "son": 43, "tur": "ADRES"}]}
+{"id": "d954", "tahminler": []}
+{"id": "d955", "tahminler": []}
+{"id": "d956", "tahminler": [{"bas": 11, "son": 46, "tur": "ADRES"}, {"bas": 97, "son": 108, "tur": "TELEFON_TR"}]}
+{"id": "d957", "tahminler": []}
+{"id": "d958", "tahminler": [{"bas": 58, "son": 69, "tur": "TC_KIMLIK"}, {"bas": 104, "son": 113, "tur": "PASAPORT_TR"}]}
+{"id": "d959", "tahminler": []}
+{"id": "d960", "tahminler": []}
+{"id": "d961", "tahminler": []}
+{"id": "d962", "tahminler": []}
+{"id": "d963", "tahminler": [{"bas": 23, "son": 35, "tur": "IP_ADRESI"}]}
+{"id": "d964", "tahminler": []}
+{"id": "d965", "tahminler": [{"bas": 46, "son": 60, "tur": "IP_ADRESI"}]}
+{"id": "d966", "tahminler": []}
+{"id": "d967", "tahminler": [{"bas": 20, "son": 41, "tur": "EMAIL"}]}
+{"id": "d968", "tahminler": []}
+{"id": "d969", "tahminler": []}
+{"id": "d970", "tahminler": [{"bas": 132, "son": 146, "tur": "IP_ADRESI"}]}
+{"id": "d971", "tahminler": [{"bas": 41, "son": 51, "tur": "PLAKA_TR"}]}
+{"id": "d972", "tahminler": [{"bas": 23, "son": 37, "tur": "IP_ADRESI"}]}
+{"id": "d973", "tahminler": []}
+{"id": "d974", "tahminler": []}
+{"id": "d975", "tahminler": []}
+{"id": "d976", "tahminler": []}
+{"id": "d977", "tahminler": [{"bas": 90, "son": 100, "tur": "PLAKA_TR"}]}
+{"id": "d978", "tahminler": [{"bas": 41, "son": 50, "tur": "PASAPORT_TR"}, {"bas": 124, "son": 132, "tur": "PLAKA_TR"}]}
+{"id": "d979", "tahminler": []}
+{"id": "d980", "tahminler": []}
+{"id": "d981", "tahminler": []}
+{"id": "d982", "tahminler": []}
+{"id": "d983", "tahminler": []}
+{"id": "d984", "tahminler": []}
+{"id": "d985", "tahminler": []}
+{"id": "d986", "tahminler": [{"bas": 125, "son": 133, "tur": "PLAKA_TR"}]}
+{"id": "d987", "tahminler": []}
+{"id": "d988", "tahminler": [{"bas": 146, "son": 154, "tur": "PLAKA_TR"}]}
+{"id": "d989", "tahminler": [{"bas": 91, "son": 108, "tur": "ADRES"}]}
+{"id": "d990", "tahminler": []}
+{"id": "d991", "tahminler": []}
+{"id": "d992", "tahminler": []}
+{"id": "d993", "tahminler": []}
+{"id": "d994", "tahminler": []}
+{"id": "d995", "tahminler": []}
+{"id": "d996", "tahminler": [{"bas": 125, "son": 137, "tur": "IP_ADRESI"}]}
+{"id": "d997", "tahminler": [{"bas": 118, "son": 132, "tur": "TC_KIMLIK"}]}
+{"id": "d998", "tahminler": [{"bas": 142, "son": 163, "tur": "EMAIL"}]}
+{"id": "d999", "tahminler": [{"bas": 20, "son": 48, "tur": "EMAIL"}]}
+{"id": "d1000", "tahminler": []}

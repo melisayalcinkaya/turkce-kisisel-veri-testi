@@ -1,0 +1,550 @@
+{"id": "d1", "tahminler": [{"bas": 0, "son": 52, "tur": "ADDRESS", "skor": 0.8491609692573547}]}
+{"id": "d2", "tahminler": []}
+{"id": "d3", "tahminler": [{"bas": 8, "son": 18, "tur": "PERSON", "skor": 0.9576027989387512}]}
+{"id": "d4", "tahminler": [{"bas": 154, "son": 176, "tur": "KVKK_SPECIAL", "skor": 0.8202775120735168}]}
+{"id": "d5", "tahminler": [{"bas": 0, "son": 21, "tur": "KVKK_SPECIAL", "skor": 0.5237832069396973}, {"bas": 29, "son": 42, "tur": "KVKK_SPECIAL", "skor": 0.7812555432319641}, {"bas": 104, "son": 115, "tur": "PERSON", "skor": 0.9590880274772644}, {"bas": 149, "son": 161, "tur": "HEALTH_DATA", "skor": 0.9565827250480652}, {"bas": 273, "son": 279, "tur": "KVKK_SPECIAL", "skor": 0.5218062996864319}, {"bas": 336, "son": 345, "tur": "HEALTH_DATA", "skor": 0.7398508787155151}, {"bas": 347, "son": 360, "tur": "HEALTH_DATA", "skor": 0.9282217025756836}]}
+{"id": "d6", "tahminler": []}
+{"id": "d7", "tahminler": [{"bas": 8, "son": 19, "tur": "PERSON", "skor": 0.9610705375671387}, {"bas": 29, "son": 40, "tur": "PERSON", "skor": 0.9235332012176514}]}
+{"id": "d8", "tahminler": [{"bas": 39, "son": 48, "tur": "PERSON", "skor": 0.8593140840530396}]}
+{"id": "d9", "tahminler": [{"bas": 50, "son": 61, "tur": "PERSON", "skor": 0.9326425790786743}, {"bas": 97, "son": 102, "tur": "PERSON", "skor": 0.5168512463569641}]}
+{"id": "d10", "tahminler": [{"bas": 8, "son": 18, "tur": "PERSON", "skor": 0.9270382523536682}, {"bas": 19, "son": 34, "tur": "ORG_COMPANY", "skor": 0.8212534785270691}, {"bas": 144, "son": 154, "tur": "PERSON", "skor": 0.7116515636444092}]}
+{"id": "d11", "tahminler": [{"bas": 65, "son": 66, "tur": "ADDRESS", "skor": 0.658739447593689}]}
+{"id": "d12", "tahminler": [{"bas": 50, "son": 62, "tur": "PERSON", "skor": 0.572575032711029}, {"bas": 123, "son": 133, "tur": "PERSON", "skor": 0.5150991082191467}]}
+{"id": "d13", "tahminler": [{"bas": 83, "son": 88, "tur": "KVKK_SPECIAL", "skor": 0.4917941093444824}, {"bas": 94, "son": 98, "tur": "KVKK_SPECIAL", "skor": 0.7861084342002869}, {"bas": 99, "son": 108, "tur": "HEALTH_DATA", "skor": 0.5072190761566162}, {"bas": 109, "son": 132, "tur": "HEALTH_DATA", "skor": 0.6796712279319763}, {"bas": 133, "son": 134, "tur": "HEALTH_DATA", "skor": 0.3895297050476074}, {"bas": 135, "son": 136, "tur": "HEALTH_DATA", "skor": 0.5805292725563049}, {"bas": 137, "son": 141, "tur": "KVKK_SPECIAL", "skor": 0.6278591156005859}, {"bas": 146, "son": 149, "tur": "HEALTH_DATA", "skor": 0.48647621273994446}, {"bas": 151, "son": 158, "tur": "KVKK_SPECIAL", "skor": 0.44129443168640137}, {"bas": 159, "son": 162, "tur": "HEALTH_DATA", "skor": 0.6930005550384521}]}
+{"id": "d14", "tahminler": []}
+{"id": "d15", "tahminler": []}
+{"id": "d16", "tahminler": [{"bas": 116, "son": 133, "tur": "ADDRESS", "skor": 0.8225997090339661}, {"bas": 134, "son": 172, "tur": "ADDRESS", "skor": 0.7274821400642395}, {"bas": 187, "son": 190, "tur": "KVKK_SPECIAL", "skor": 0.4719652831554413}, {"bas": 206, "son": 212, "tur": "KVKK_SPECIAL", "skor": 0.8064209222793579}]}
+{"id": "d17", "tahminler": []}
+{"id": "d18", "tahminler": []}
+{"id": "d19", "tahminler": [{"bas": 0, "son": 23, "tur": "KVKK_SPECIAL", "skor": 0.5521730184555054}]}
+{"id": "d20", "tahminler": []}
+{"id": "d21", "tahminler": []}
+{"id": "d22", "tahminler": []}
+{"id": "d23", "tahminler": []}
+{"id": "d24", "tahminler": []}
+{"id": "d25", "tahminler": [{"bas": 50, "son": 63, "tur": "PERSON", "skor": 0.5880522131919861}]}
+{"id": "d26", "tahminler": []}
+{"id": "d27", "tahminler": [{"bas": 8, "son": 18, "tur": "PERSON", "skor": 0.9682490825653076}, {"bas": 19, "son": 39, "tur": "ORG_COMPANY", "skor": 0.5743895173072815}]}
+{"id": "d28", "tahminler": []}
+{"id": "d29", "tahminler": [{"bas": 8, "son": 21, "tur": "KVKK_SPECIAL", "skor": 0.5756046175956726}, {"bas": 24, "son": 38, "tur": "KVKK_SPECIAL", "skor": 0.43958133459091187}]}
+{"id": "d30", "tahminler": [{"bas": 161, "son": 177, "tur": "KVKK_SPECIAL", "skor": 0.8859261870384216}]}
+{"id": "d31", "tahminler": [{"bas": 81, "son": 84, "tur": "KVKK_SPECIAL", "skor": 0.526492714881897}]}
+{"id": "d32", "tahminler": [{"bas": 37, "son": 42, "tur": "PERSON", "skor": 0.470684289932251}, {"bas": 43, "son": 48, "tur": "PERSON", "skor": 0.8064854741096497}]}
+{"id": "d33", "tahminler": [{"bas": 7, "son": 19, "tur": "PERSON", "skor": 0.9064324498176575}, {"bas": 39, "son": 47, "tur": "PERSON", "skor": 0.43261873722076416}]}
+{"id": "d34", "tahminler": []}
+{"id": "d35", "tahminler": []}
+{"id": "d36", "tahminler": []}
+{"id": "d37", "tahminler": []}
+{"id": "d38", "tahminler": [{"bas": 30, "son": 37, "tur": "KVKK_SPECIAL", "skor": 0.5382688641548157}]}
+{"id": "d39", "tahminler": [{"bas": 32, "son": 56, "tur": "KVKK_SPECIAL", "skor": 0.8521180748939514}]}
+{"id": "d40", "tahminler": []}
+{"id": "d41", "tahminler": []}
+{"id": "d42", "tahminler": []}
+{"id": "d43", "tahminler": [{"bas": 8, "son": 20, "tur": "PERSON", "skor": 0.9203199744224548}]}
+{"id": "d44", "tahminler": [{"bas": 50, "son": 64, "tur": "PERSON", "skor": 0.9732431173324585}, {"bas": 224, "son": 227, "tur": "PERSON", "skor": 0.615555465221405}, {"bas": 230, "son": 236, "tur": "PERSON", "skor": 0.9547005295753479}, {"bas": 296, "son": 309, "tur": "PERSON", "skor": 0.6071802377700806}, {"bas": 310, "son": 328, "tur": "ORG_COMPANY", "skor": 0.5347631573677063}, {"bas": 430, "son": 453, "tur": "KVKK_SPECIAL", "skor": 0.5444077253341675}]}
+{"id": "d45", "tahminler": [{"bas": 172, "son": 178, "tur": "PERSON", "skor": 0.36794209480285645}, {"bas": 225, "son": 230, "tur": "PERSON", "skor": 0.3920210301876068}, {"bas": 380, "son": 397, "tur": "KVKK_SPECIAL", "skor": 0.9619354605674744}]}
+{"id": "d46", "tahminler": [{"bas": 8, "son": 19, "tur": "PERSON", "skor": 0.9227012991905212}, {"bas": 20, "son": 39, "tur": "ORG_COMPANY", "skor": 0.5681347250938416}, {"bas": 75, "son": 92, "tur": "ADDRESS", "skor": 0.6318817138671875}, {"bas": 93, "son": 126, "tur": "ADDRESS", "skor": 0.4976378083229065}]}
+{"id": "d47", "tahminler": [{"bas": 56, "son": 64, "tur": "PERSON", "skor": 0.6589093208312988}, {"bas": 145, "son": 147, "tur": "PERSON", "skor": 0.29012832045555115}, {"bas": 150, "son": 152, "tur": "PERSON", "skor": 0.6716029644012451}]}
+{"id": "d48", "tahminler": []}
+{"id": "d49", "tahminler": [{"bas": 109, "son": 114, "tur": "PERSON", "skor": 0.6054568886756897}]}
+{"id": "d50", "tahminler": [{"bas": 5, "son": 10, "tur": "KVKK_SPECIAL", "skor": 0.7599797248840332}, {"bas": 20, "son": 45, "tur": "KVKK_SPECIAL", "skor": 0.6762188076972961}]}
+{"id": "d51", "tahminler": [{"bas": 40, "son": 45, "tur": "PERSON", "skor": 0.8868741989135742}, {"bas": 54, "son": 67, "tur": "ADDRESS", "skor": 0.8327915072441101}, {"bas": 69, "son": 113, "tur": "ADDRESS", "skor": 0.546412467956543}]}
+{"id": "d52", "tahminler": [{"bas": 8, "son": 19, "tur": "PERSON", "skor": 0.9246333837509155}]}
+{"id": "d53", "tahminler": [{"bas": 5, "son": 10, "tur": "KVKK_SPECIAL", "skor": 0.4876748323440552}, {"bas": 20, "son": 49, "tur": "KVKK_SPECIAL", "skor": 0.7285698056221008}]}
+{"id": "d54", "tahminler": []}
+{"id": "d55", "tahminler": []}
+{"id": "d56", "tahminler": [{"bas": 207, "son": 229, "tur": "HEALTH_DATA", "skor": 0.6942316293716431}]}
+{"id": "d57", "tahminler": []}
+{"id": "d58", "tahminler": []}
+{"id": "d59", "tahminler": [{"bas": 38, "son": 43, "tur": "PERSON", "skor": 0.6739644408226013}, {"bas": 144, "son": 172, "tur": "KVKK_SPECIAL", "skor": 0.6668825745582581}, {"bas": 174, "son": 223, "tur": "KVKK_SPECIAL", "skor": 0.44456639885902405}]}
+{"id": "d60", "tahminler": [{"bas": 109, "son": 121, "tur": "PERSON", "skor": 0.9158321619033813}, {"bas": 122, "son": 141, "tur": "ORG_COMPANY", "skor": 0.8379188776016235}, {"bas": 179, "son": 190, "tur": "PERSON", "skor": 0.8089024424552917}]}
+{"id": "d61", "tahminler": [{"bas": 94, "son": 96, "tur": "PERSON", "skor": 0.4273865818977356}]}
+{"id": "d62", "tahminler": [{"bas": 5, "son": 10, "tur": "KVKK_SPECIAL", "skor": 0.5570583939552307}, {"bas": 20, "son": 50, "tur": "KVKK_SPECIAL", "skor": 0.794681966304779}]}
+{"id": "d63", "tahminler": [{"bas": 24, "son": 34, "tur": "ADDRESS", "skor": 0.5281705260276794}, {"bas": 38, "son": 40, "tur": "ADDRESS", "skor": 0.7563002705574036}]}
+{"id": "d64", "tahminler": [{"bas": 4, "son": 9, "tur": "HEALTH_DATA", "skor": 0.4927789866924286}, {"bas": 11, "son": 23, "tur": "HEALTH_DATA", "skor": 0.9717642068862915}, {"bas": 29, "son": 34, "tur": "KVKK_SPECIAL", "skor": 0.5842834115028381}]}
+{"id": "d65", "tahminler": []}
+{"id": "d66", "tahminler": [{"bas": 8, "son": 21, "tur": "PERSON", "skor": 0.4796695113182068}, {"bas": 31, "son": 41, "tur": "PERSON", "skor": 0.5254932045936584}]}
+{"id": "d67", "tahminler": []}
+{"id": "d68", "tahminler": [{"bas": 46, "son": 49, "tur": "KVKK_SPECIAL", "skor": 0.8584477305412292}]}
+{"id": "d69", "tahminler": [{"bas": 8, "son": 13, "tur": "PERSON", "skor": 0.3445010483264923}, {"bas": 41, "son": 45, "tur": "ORG_COMPANY", "skor": 0.25101229548454285}]}
+{"id": "d70", "tahminler": [{"bas": 17, "son": 22, "tur": "KVKK_SPECIAL", "skor": 0.5390311479568481}]}
+{"id": "d71", "tahminler": []}
+{"id": "d72", "tahminler": []}
+{"id": "d73", "tahminler": []}
+{"id": "d74", "tahminler": [{"bas": 79, "son": 84, "tur": "PERSON", "skor": 0.9233000874519348}, {"bas": 86, "son": 119, "tur": "KVKK_SPECIAL", "skor": 0.5225555896759033}, {"bas": 135, "son": 142, "tur": "PERSON", "skor": 0.277855783700943}, {"bas": 143, "son": 147, "tur": "PERSON", "skor": 0.6670243144035339}]}
+{"id": "d75", "tahminler": [{"bas": 11, "son": 13, "tur": "PERSON", "skor": 0.5038372874259949}]}
+{"id": "d76", "tahminler": []}
+{"id": "d77", "tahminler": [{"bas": 68, "son": 80, "tur": "PERSON", "skor": 0.7347436547279358}]}
+{"id": "d78", "tahminler": [{"bas": 50, "son": 62, "tur": "PERSON", "skor": 0.4892899990081787}, {"bas": 195, "son": 208, "tur": "PERSON", "skor": 0.8536982536315918}]}
+{"id": "d79", "tahminler": [{"bas": 0, "son": 7, "tur": "PERSON", "skor": 0.877366304397583}, {"bas": 8, "son": 22, "tur": "PERSON", "skor": 0.7053084373474121}, {"bas": 83, "son": 94, "tur": "PERSON", "skor": 0.8811952471733093}, {"bas": 107, "son": 116, "tur": "PERSON", "skor": 0.9802182912826538}]}
+{"id": "d80", "tahminler": [{"bas": 50, "son": 63, "tur": "PERSON", "skor": 0.9558025598526001}, {"bas": 86, "son": 97, "tur": "PERSON", "skor": 0.9653088450431824}, {"bas": 110, "son": 120, "tur": "PERSON", "skor": 0.97026526927948}]}
+{"id": "d81", "tahminler": []}
+{"id": "d82", "tahminler": []}
+{"id": "d83", "tahminler": []}
+{"id": "d84", "tahminler": []}
+{"id": "d85", "tahminler": [{"bas": 8, "son": 20, "tur": "PERSON", "skor": 0.5765740275382996}, {"bas": 105, "son": 157, "tur": "ADDRESS", "skor": 0.7606168389320374}]}
+{"id": "d86", "tahminler": [{"bas": 119, "son": 123, "tur": "PERSON", "skor": 0.5571444630622864}, {"bas": 126, "son": 129, "tur": "PERSON", "skor": 0.8071785569190979}, {"bas": 143, "son": 178, "tur": "KVKK_SPECIAL", "skor": 0.7785668969154358}, {"bas": 189, "son": 194, "tur": "KVKK_SPECIAL", "skor": 0.2918473780155182}, {"bas": 195, "son": 199, "tur": "HEALTH_DATA", "skor": 0.4350370466709137}, {"bas": 200, "son": 203, "tur": "KVKK_SPECIAL", "skor": 0.34670770168304443}, {"bas": 238, "son": 246, "tur": "ADDRESS", "skor": 0.6334177255630493}, {"bas": 248, "son": 295, "tur": "ADDRESS", "skor": 0.6843869090080261}]}
+{"id": "d87", "tahminler": []}
+{"id": "d88", "tahminler": []}
+{"id": "d89", "tahminler": [{"bas": 77, "son": 80, "tur": "KVKK_SPECIAL", "skor": 0.7425406575202942}, {"bas": 109, "son": 119, "tur": "KVKK_SPECIAL", "skor": 0.7135009169578552}, {"bas": 393, "son": 399, "tur": "TAX_OFFICE", "skor": 0.8502221703529358}, {"bas": 400, "son": 407, "tur": "KVKK_SPECIAL", "skor": 0.5410031676292419}]}
+{"id": "d90", "tahminler": [{"bas": 50, "son": 61, "tur": "PERSON", "skor": 0.5965206623077393}, {"bas": 94, "son": 99, "tur": "KVKK_SPECIAL", "skor": 0.8717891573905945}, {"bas": 195, "son": 201, "tur": "KVKK_SPECIAL", "skor": 0.4867563545703888}, {"bas": 237, "son": 269, "tur": "KVKK_SPECIAL", "skor": 0.7426202297210693}, {"bas": 290, "son": 305, "tur": "HEALTH_DATA", "skor": 0.5385695695877075}]}
+{"id": "d91", "tahminler": [{"bas": 219, "son": 231, "tur": "PERSON", "skor": 0.9586212635040283}, {"bas": 267, "son": 278, "tur": "ADDRESS", "skor": 0.7730075120925903}, {"bas": 280, "son": 321, "tur": "ADDRESS", "skor": 0.3530023396015167}, {"bas": 345, "son": 399, "tur": "KVKK_SPECIAL", "skor": 0.774700403213501}]}
+{"id": "d92", "tahminler": [{"bas": 130, "son": 133, "tur": "ORG_COMPANY", "skor": 0.5001986026763916}]}
+{"id": "d93", "tahminler": []}
+{"id": "d94", "tahminler": []}
+{"id": "d95", "tahminler": []}
+{"id": "d96", "tahminler": []}
+{"id": "d97", "tahminler": [{"bas": 46, "son": 50, "tur": "PERSON", "skor": 0.3542928099632263}, {"bas": 104, "son": 109, "tur": "HEALTH_DATA", "skor": 0.33564484119415283}, {"bas": 110, "son": 117, "tur": "KVKK_SPECIAL", "skor": 0.39570537209510803}]}
+{"id": "d98", "tahminler": []}
+{"id": "d99", "tahminler": []}
+{"id": "d100", "tahminler": [{"bas": 100, "son": 104, "tur": "PERSON", "skor": 0.7011775970458984}]}
+{"id": "d101", "tahminler": [{"bas": 50, "son": 60, "tur": "PERSON", "skor": 0.8904560208320618}, {"bas": 131, "son": 134, "tur": "ORG_COMPANY", "skor": 0.29237833619117737}, {"bas": 135, "son": 140, "tur": "PERSON", "skor": 0.9937403202056885}]}
+{"id": "d102", "tahminler": []}
+{"id": "d103", "tahminler": [{"bas": 8, "son": 14, "tur": "ORG_COMPANY", "skor": 0.2519405484199524}, {"bas": 15, "son": 20, "tur": "PERSON", "skor": 0.9959108829498291}, {"bas": 30, "son": 43, "tur": "PERSON", "skor": 0.9746613502502441}]}
+{"id": "d104", "tahminler": [{"bas": 8, "son": 23, "tur": "PERSON", "skor": 0.2312566339969635}, {"bas": 46, "son": 50, "tur": "PERSON", "skor": 0.8919533491134644}]}
+{"id": "d105", "tahminler": []}
+{"id": "d106", "tahminler": [{"bas": 50, "son": 64, "tur": "PERSON", "skor": 0.3863709568977356}, {"bas": 97, "son": 107, "tur": "PERSON", "skor": 0.5989657640457153}]}
+{"id": "d107", "tahminler": []}
+{"id": "d108", "tahminler": []}
+{"id": "d109", "tahminler": []}
+{"id": "d110", "tahminler": [{"bas": 38, "son": 43, "tur": "PERSON", "skor": 0.39483729004859924}, {"bas": 44, "son": 49, "tur": "ORG_COMPANY", "skor": 0.5058522820472717}, {"bas": 51, "son": 55, "tur": "PERSON", "skor": 0.8373623490333557}]}
+{"id": "d111", "tahminler": [{"bas": 41, "son": 52, "tur": "PERSON", "skor": 0.9764447808265686}, {"bas": 155, "son": 163, "tur": "HEALTH_DATA", "skor": 0.6147491931915283}, {"bas": 165, "son": 166, "tur": "HEALTH_DATA", "skor": 0.7708801031112671}, {"bas": 167, "son": 169, "tur": "HEALTH_DATA", "skor": 0.5165221691131592}, {"bas": 182, "son": 187, "tur": "PERSON", "skor": 0.9042044878005981}]}
+{"id": "d112", "tahminler": []}
+{"id": "d113", "tahminler": []}
+{"id": "d114", "tahminler": []}
+{"id": "d115", "tahminler": []}
+{"id": "d116", "tahminler": [{"bas": 106, "son": 111, "tur": "KVKK_SPECIAL", "skor": 0.47476905584335327}, {"bas": 146, "son": 174, "tur": "KVKK_SPECIAL", "skor": 0.45312872529029846}]}
+{"id": "d117", "tahminler": [{"bas": 34, "son": 81, "tur": "ADDRESS", "skor": 0.629116952419281}, {"bas": 88, "son": 93, "tur": "ADDRESS", "skor": 0.7709250450134277}]}
+{"id": "d118", "tahminler": [{"bas": 0, "son": 16, "tur": "KVKK_SPECIAL", "skor": 0.7531449794769287}, {"bas": 29, "son": 47, "tur": "KVKK_SPECIAL", "skor": 0.7524482607841492}]}
+{"id": "d119", "tahminler": []}
+{"id": "d120", "tahminler": [{"bas": 68, "son": 78, "tur": "PERSON", "skor": 0.5971913933753967}, {"bas": 80, "son": 84, "tur": "PERSON", "skor": 0.9101753830909729}]}
+{"id": "d121", "tahminler": [{"bas": 135, "son": 138, "tur": "PERSON", "skor": 0.7726206183433533}, {"bas": 139, "son": 146, "tur": "PERSON", "skor": 0.5800018310546875}]}
+{"id": "d122", "tahminler": []}
+{"id": "d123", "tahminler": []}
+{"id": "d124", "tahminler": []}
+{"id": "d125", "tahminler": []}
+{"id": "d126", "tahminler": [{"bas": 6, "son": 11, "tur": "PERSON", "skor": 0.46598246693611145}, {"bas": 41, "son": 53, "tur": "PERSON", "skor": 0.9348797798156738}]}
+{"id": "d127", "tahminler": [{"bas": 116, "son": 127, "tur": "PERSON", "skor": 0.928210437297821}]}
+{"id": "d128", "tahminler": []}
+{"id": "d129", "tahminler": [{"bas": 4, "son": 9, "tur": "HEALTH_DATA", "skor": 0.7805611491203308}, {"bas": 11, "son": 23, "tur": "HEALTH_DATA", "skor": 0.986491322517395}, {"bas": 214, "son": 227, "tur": "KVKK_SPECIAL", "skor": 0.39144477248191833}, {"bas": 338, "son": 353, "tur": "HEALTH_DATA", "skor": 0.4769550561904907}, {"bas": 354, "son": 360, "tur": "KVKK_SPECIAL", "skor": 0.3668685853481293}]}
+{"id": "d130", "tahminler": [{"bas": 8, "son": 33, "tur": "KVKK_SPECIAL", "skor": 0.47045204043388367}]}
+{"id": "d131", "tahminler": [{"bas": 38, "son": 49, "tur": "PERSON", "skor": 0.7747762203216553}]}
+{"id": "d132", "tahminler": [{"bas": 209, "son": 228, "tur": "PERSON", "skor": 0.637221097946167}, {"bas": 229, "son": 247, "tur": "ORG_COMPANY", "skor": 0.9829163551330566}]}
+{"id": "d133", "tahminler": [{"bas": 4, "son": 8, "tur": "KVKK_SPECIAL", "skor": 0.689574122428894}, {"bas": 11, "son": 26, "tur": "KVKK_SPECIAL", "skor": 0.8606770634651184}, {"bas": 77, "son": 95, "tur": "HEALTH_DATA", "skor": 0.9126628041267395}, {"bas": 244, "son": 247, "tur": "KVKK_SPECIAL", "skor": 0.5045696496963501}]}
+{"id": "d134", "tahminler": []}
+{"id": "d135", "tahminler": [{"bas": 0, "son": 3, "tur": "KVKK_SPECIAL", "skor": 0.8241292238235474}, {"bas": 33, "son": 39, "tur": "KVKK_SPECIAL", "skor": 0.8605968952178955}]}
+{"id": "d136", "tahminler": []}
+{"id": "d137", "tahminler": [{"bas": 8, "son": 20, "tur": "PERSON", "skor": 0.6861511468887329}]}
+{"id": "d138", "tahminler": [{"bas": 124, "son": 137, "tur": "PERSON", "skor": 0.8804048895835876}, {"bas": 138, "son": 155, "tur": "ORG_COMPANY", "skor": 0.6337151527404785}]}
+{"id": "d139", "tahminler": [{"bas": 26, "son": 28, "tur": "KVKK_SPECIAL", "skor": 0.4674208164215088}]}
+{"id": "d140", "tahminler": []}
+{"id": "d141", "tahminler": []}
+{"id": "d142", "tahminler": [{"bas": 119, "son": 122, "tur": "KVKK_SPECIAL", "skor": 0.7473272681236267}, {"bas": 152, "son": 165, "tur": "KVKK_SPECIAL", "skor": 0.8548029661178589}, {"bas": 193, "son": 199, "tur": "KVKK_SPECIAL", "skor": 0.7959374785423279}, {"bas": 221, "son": 224, "tur": "KVKK_SPECIAL", "skor": 0.6614372730255127}, {"bas": 366, "son": 381, "tur": "PERSON", "skor": 0.545992374420166}]}
+{"id": "d143", "tahminler": [{"bas": 0, "son": 10, "tur": "KVKK_SPECIAL", "skor": 0.7593242526054382}, {"bas": 33, "son": 44, "tur": "KVKK_SPECIAL", "skor": 0.8129695057868958}]}
+{"id": "d144", "tahminler": []}
+{"id": "d145", "tahminler": [{"bas": 17, "son": 25, "tur": "HEALTH_DATA", "skor": 0.9705961346626282}]}
+{"id": "d146", "tahminler": [{"bas": 29, "son": 34, "tur": "PERSON", "skor": 0.5678784251213074}, {"bas": 89, "son": 101, "tur": "HEALTH_DATA", "skor": 0.930288553237915}, {"bas": 138, "son": 152, "tur": "PERSON", "skor": 0.6039369106292725}, {"bas": 209, "son": 214, "tur": "PERSON", "skor": 0.39330607652664185}]}
+{"id": "d147", "tahminler": [{"bas": 50, "son": 61, "tur": "PERSON", "skor": 0.9230768084526062}]}
+{"id": "d148", "tahminler": [{"bas": 115, "son": 124, "tur": "KVKK_SPECIAL", "skor": 0.5638408064842224}, {"bas": 139, "son": 158, "tur": "KVKK_SPECIAL", "skor": 0.7927607893943787}, {"bas": 172, "son": 214, "tur": "KVKK_SPECIAL", "skor": 0.492360383272171}]}
+{"id": "d149", "tahminler": []}
+{"id": "d150", "tahminler": [{"bas": 8, "son": 13, "tur": "PERSON", "skor": 0.9366496205329895}, {"bas": 14, "son": 17, "tur": "ORG_COMPANY", "skor": 0.6325960159301758}, {"bas": 21, "son": 25, "tur": "PERSON", "skor": 0.6954969167709351}]}
+{"id": "d151", "tahminler": [{"bas": 60, "son": 63, "tur": "KVKK_SPECIAL", "skor": 0.8522375226020813}, {"bas": 89, "son": 107, "tur": "KVKK_SPECIAL", "skor": 0.787967324256897}, {"bas": 120, "son": 171, "tur": "KVKK_SPECIAL", "skor": 0.5358089804649353}]}
+{"id": "d152", "tahminler": [{"bas": 8, "son": 20, "tur": "PERSON", "skor": 0.936895489692688}, {"bas": 80, "son": 93, "tur": "PERSON", "skor": 0.8001255989074707}, {"bas": 106, "son": 116, "tur": "PERSON", "skor": 0.9833691716194153}]}
+{"id": "d153", "tahminler": [{"bas": 17, "son": 21, "tur": "KVKK_SPECIAL", "skor": 0.5382509231567383}, {"bas": 27, "son": 40, "tur": "KVKK_SPECIAL", "skor": 0.7739589214324951}]}
+{"id": "d154", "tahminler": []}
+{"id": "d155", "tahminler": []}
+{"id": "d156", "tahminler": []}
+{"id": "d157", "tahminler": [{"bas": 8, "son": 18, "tur": "PERSON", "skor": 0.9326009154319763}, {"bas": 19, "son": 38, "tur": "ORG_COMPANY", "skor": 0.7546660304069519}]}
+{"id": "d158", "tahminler": [{"bas": 8, "son": 19, "tur": "PERSON", "skor": 0.944736123085022}, {"bas": 20, "son": 43, "tur": "ORG_COMPANY", "skor": 0.6889954805374146}, {"bas": 129, "son": 141, "tur": "PERSON", "skor": 0.9588726162910461}]}
+{"id": "d159", "tahminler": []}
+{"id": "d160", "tahminler": []}
+{"id": "d161", "tahminler": []}
+{"id": "d162", "tahminler": [{"bas": 34, "son": 82, "tur": "ADDRESS", "skor": 0.48856884241104126}]}
+{"id": "d163", "tahminler": [{"bas": 74, "son": 86, "tur": "PERSON", "skor": 0.3747447431087494}, {"bas": 94, "son": 104, "tur": "PERSON", "skor": 0.500287652015686}, {"bas": 118, "son": 128, "tur": "PERSON", "skor": 0.3811207115650177}]}
+{"id": "d164", "tahminler": [{"bas": 5, "son": 11, "tur": "PERSON", "skor": 0.30954957008361816}, {"bas": 40, "son": 48, "tur": "PERSON", "skor": 0.946085512638092}]}
+{"id": "d165", "tahminler": [{"bas": 132, "son": 134, "tur": "PERSON", "skor": 0.6656638979911804}]}
+{"id": "d166", "tahminler": [{"bas": 21, "son": 31, "tur": "KVKK_SPECIAL", "skor": 0.5188657641410828}, {"bas": 42, "son": 54, "tur": "KVKK_SPECIAL", "skor": 0.927124559879303}, {"bas": 93, "son": 103, "tur": "PERSON", "skor": 0.9637896418571472}]}
+{"id": "d167", "tahminler": [{"bas": 7, "son": 18, "tur": "PERSON", "skor": 0.8517159819602966}, {"bas": 39, "son": 44, "tur": "PERSON", "skor": 0.3997022807598114}]}
+{"id": "d168", "tahminler": [{"bas": 299, "son": 306, "tur": "KVKK_SPECIAL", "skor": 0.5749452114105225}, {"bas": 374, "son": 395, "tur": "KVKK_SPECIAL", "skor": 0.628257691860199}, {"bas": 399, "son": 407, "tur": "KVKK_SPECIAL", "skor": 0.4695148169994354}]}
+{"id": "d169", "tahminler": [{"bas": 34, "son": 43, "tur": "ADDRESS", "skor": 0.7681867480278015}, {"bas": 45, "son": 46, "tur": "ADDRESS", "skor": 0.8669825196266174}, {"bas": 47, "son": 82, "tur": "ADDRESS", "skor": 0.5970842242240906}, {"bas": 193, "son": 210, "tur": "PERSON", "skor": 0.9838454723358154}, {"bas": 305, "son": 312, "tur": "PERSON", "skor": 0.6402063965797424}]}
+{"id": "d170", "tahminler": [{"bas": 85, "son": 98, "tur": "HEALTH_DATA", "skor": 0.8698871731758118}, {"bas": 156, "son": 206, "tur": "ADDRESS", "skor": 0.862379252910614}, {"bas": 335, "son": 347, "tur": "PERSON", "skor": 0.9110002517700195}, {"bas": 348, "son": 368, "tur": "ORG_COMPANY", "skor": 0.633431613445282}]}
+{"id": "d171", "tahminler": [{"bas": 38, "son": 48, "tur": "PERSON", "skor": 0.8065966367721558}]}
+{"id": "d172", "tahminler": []}
+{"id": "d173", "tahminler": [{"bas": 38, "son": 41, "tur": "PERSON", "skor": 0.47890394926071167}, {"bas": 47, "son": 50, "tur": "PERSON", "skor": 0.5564911365509033}, {"bas": 150, "son": 162, "tur": "HEALTH_DATA", "skor": 0.9303409457206726}, {"bas": 194, "son": 206, "tur": "PERSON", "skor": 0.9429571628570557}, {"bas": 288, "son": 292, "tur": "PERSON", "skor": 0.3430398106575012}, {"bas": 294, "son": 298, "tur": "PERSON", "skor": 0.5348201394081116}, {"bas": 397, "son": 404, "tur": "PERSON", "skor": 0.602064847946167}, {"bas": 417, "son": 422, "tur": "PERSON", "skor": 0.7171375751495361}]}
+{"id": "d174", "tahminler": []}
+{"id": "d175", "tahminler": []}
+{"id": "d176", "tahminler": [{"bas": 109, "son": 128, "tur": "ORG_COMPANY", "skor": 0.9241572022438049}, {"bas": 144, "son": 156, "tur": "PERSON", "skor": 0.29004916548728943}, {"bas": 162, "son": 166, "tur": "KVKK_SPECIAL", "skor": 0.7546825408935547}, {"bas": 169, "son": 174, "tur": "PERSON", "skor": 0.24114780128002167}, {"bas": 195, "son": 200, "tur": "PERSON", "skor": 0.6930090188980103}, {"bas": 210, "son": 231, "tur": "KVKK_SPECIAL", "skor": 0.5958548784255981}]}
+{"id": "d177", "tahminler": [{"bas": 27, "son": 34, "tur": "KVKK_SPECIAL", "skor": 0.5787732601165771}]}
+{"id": "d178", "tahminler": [{"bas": 106, "son": 109, "tur": "KVKK_SPECIAL", "skor": 0.5581133365631104}, {"bas": 130, "son": 134, "tur": "PERSON", "skor": 0.8534191846847534}]}
+{"id": "d179", "tahminler": [{"bas": 30, "son": 35, "tur": "HEALTH_DATA", "skor": 0.3597075343132019}, {"bas": 36, "son": 40, "tur": "HEALTH_DATA", "skor": 0.767225444316864}, {"bas": 41, "son": 42, "tur": "HEALTH_DATA", "skor": 0.8514218926429749}, {"bas": 48, "son": 52, "tur": "KVKK_SPECIAL", "skor": 0.4424518346786499}, {"bas": 55, "son": 60, "tur": "HEALTH_DATA", "skor": 0.23521314561367035}, {"bas": 74, "son": 75, "tur": "HEALTH_DATA", "skor": 0.5325627326965332}, {"bas": 82, "son": 83, "tur": "HEALTH_DATA", "skor": 0.8746156096458435}, {"bas": 102, "son": 124, "tur": "HEALTH_DATA", "skor": 0.5417596697807312}]}
+{"id": "d180", "tahminler": []}
+{"id": "d181", "tahminler": []}
+{"id": "d182", "tahminler": [{"bas": 12, "son": 17, "tur": "KVKK_SPECIAL", "skor": 0.5857382416725159}]}
+{"id": "d183", "tahminler": []}
+{"id": "d184", "tahminler": [{"bas": 50, "son": 64, "tur": "PERSON", "skor": 0.38833585381507874}, {"bas": 95, "son": 109, "tur": "PERSON", "skor": 0.355139821767807}, {"bas": 119, "son": 130, "tur": "PERSON", "skor": 0.9637049436569214}]}
+{"id": "d185", "tahminler": []}
+{"id": "d186", "tahminler": []}
+{"id": "d187", "tahminler": [{"bas": 20, "son": 25, "tur": "PERSON", "skor": 0.2821981608867645}, {"bas": 29, "son": 32, "tur": "PERSON", "skor": 0.8785477876663208}, {"bas": 168, "son": 173, "tur": "KVKK_SPECIAL", "skor": 0.4829501211643219}]}
+{"id": "d188", "tahminler": [{"bas": 4, "son": 9, "tur": "HEALTH_DATA", "skor": 0.5509631633758545}, {"bas": 11, "son": 15, "tur": "HEALTH_DATA", "skor": 0.9840978980064392}, {"bas": 29, "son": 34, "tur": "KVKK_SPECIAL", "skor": 0.6310597062110901}]}
+{"id": "d189", "tahminler": [{"bas": 50, "son": 62, "tur": "PERSON", "skor": 0.9566982984542847}]}
+{"id": "d190", "tahminler": [{"bas": 17, "son": 22, "tur": "KVKK_SPECIAL", "skor": 0.5595037937164307}]}
+{"id": "d191", "tahminler": []}
+{"id": "d192", "tahminler": [{"bas": 8, "son": 21, "tur": "PERSON", "skor": 0.7366435527801514}, {"bas": 128, "son": 135, "tur": "PERSON", "skor": 0.4129750728607178}]}
+{"id": "d193", "tahminler": []}
+{"id": "d194", "tahminler": [{"bas": 50, "son": 61, "tur": "PERSON", "skor": 0.9192296862602234}]}
+{"id": "d195", "tahminler": [{"bas": 68, "son": 79, "tur": "PERSON", "skor": 0.5857088565826416}]}
+{"id": "d196", "tahminler": []}
+{"id": "d197", "tahminler": []}
+{"id": "d198", "tahminler": [{"bas": 145, "son": 152, "tur": "PERSON", "skor": 0.575842559337616}, {"bas": 153, "son": 155, "tur": "PERSON", "skor": 0.5850954055786133}]}
+{"id": "d199", "tahminler": []}
+{"id": "d200", "tahminler": []}
+{"id": "d201", "tahminler": []}
+{"id": "d202", "tahminler": [{"bas": 34, "son": 95, "tur": "ADDRESS", "skor": 0.6271529793739319}]}
+{"id": "d203", "tahminler": []}
+{"id": "d204", "tahminler": []}
+{"id": "d205", "tahminler": [{"bas": 74, "son": 84, "tur": "PERSON", "skor": 0.8772387504577637}]}
+{"id": "d206", "tahminler": []}
+{"id": "d207", "tahminler": []}
+{"id": "d208", "tahminler": [{"bas": 41, "son": 54, "tur": "PERSON", "skor": 0.9732548594474792}]}
+{"id": "d209", "tahminler": []}
+{"id": "d210", "tahminler": []}
+{"id": "d211", "tahminler": [{"bas": 0, "son": 15, "tur": "PERSON", "skor": 0.8684145212173462}, {"bas": 28, "son": 38, "tur": "PERSON", "skor": 0.360565185546875}]}
+{"id": "d212", "tahminler": []}
+{"id": "d213", "tahminler": [{"bas": 56, "son": 59, "tur": "PERSON", "skor": 0.4232204556465149}, {"bas": 105, "son": 120, "tur": "KVKK_SPECIAL", "skor": 0.8002421259880066}, {"bas": 136, "son": 140, "tur": "KVKK_SPECIAL", "skor": 0.6813849210739136}]}
+{"id": "d214", "tahminler": []}
+{"id": "d215", "tahminler": []}
+{"id": "d216", "tahminler": [{"bas": 50, "son": 59, "tur": "PERSON", "skor": 0.9127960801124573}, {"bas": 82, "son": 88, "tur": "PERSON", "skor": 0.2298678308725357}, {"bas": 91, "son": 95, "tur": "PERSON", "skor": 0.523658812046051}, {"bas": 124, "son": 135, "tur": "PERSON", "skor": 0.4203232526779175}]}
+{"id": "d217", "tahminler": [{"bas": 38, "son": 49, "tur": "PERSON", "skor": 0.9592084884643555}]}
+{"id": "d218", "tahminler": [{"bas": 89, "son": 100, "tur": "PERSON", "skor": 0.7347589135169983}]}
+{"id": "d219", "tahminler": []}
+{"id": "d220", "tahminler": [{"bas": 8, "son": 20, "tur": "PERSON", "skor": 0.9707435965538025}]}
+{"id": "d221", "tahminler": []}
+{"id": "d222", "tahminler": [{"bas": 7, "son": 20, "tur": "PERSON", "skor": 0.9760891795158386}, {"bas": 40, "son": 46, "tur": "PERSON", "skor": 0.25043153762817383}]}
+{"id": "d223", "tahminler": [{"bas": 52, "son": 64, "tur": "HEALTH_DATA", "skor": 0.9138765335083008}, {"bas": 91, "son": 96, "tur": "PERSON", "skor": 0.3103739619255066}]}
+{"id": "d224", "tahminler": [{"bas": 8, "son": 20, "tur": "PERSON", "skor": 0.9543974995613098}, {"bas": 30, "son": 42, "tur": "PERSON", "skor": 0.9283089637756348}]}
+{"id": "d225", "tahminler": [{"bas": 95, "son": 96, "tur": "ORG_COMPANY", "skor": 0.39832717180252075}]}
+{"id": "d226", "tahminler": [{"bas": 150, "son": 163, "tur": "HEALTH_DATA", "skor": 0.6894897818565369}, {"bas": 193, "son": 206, "tur": "ADDRESS", "skor": 0.9128392338752747}, {"bas": 207, "son": 242, "tur": "ADDRESS", "skor": 0.7820949554443359}]}
+{"id": "d227", "tahminler": []}
+{"id": "d228", "tahminler": []}
+{"id": "d229", "tahminler": []}
+{"id": "d230", "tahminler": [{"bas": 0, "son": 34, "tur": "KVKK_SPECIAL", "skor": 0.45443710684776306}]}
+{"id": "d231", "tahminler": []}
+{"id": "d232", "tahminler": [{"bas": 8, "son": 18, "tur": "PERSON", "skor": 0.9745691418647766}, {"bas": 28, "son": 42, "tur": "PERSON", "skor": 0.8976134657859802}]}
+{"id": "d233", "tahminler": [{"bas": 52, "son": 62, "tur": "PERSON", "skor": 0.9764744639396667}, {"bas": 76, "son": 78, "tur": "ORG_COMPANY", "skor": 0.3029899001121521}, {"bas": 81, "son": 85, "tur": "PERSON", "skor": 0.811450719833374}, {"bas": 90, "son": 92, "tur": "PERSON", "skor": 0.538193941116333}, {"bas": 124, "son": 126, "tur": "PERSON", "skor": 0.5553842782974243}]}
+{"id": "d234", "tahminler": []}
+{"id": "d235", "tahminler": []}
+{"id": "d236", "tahminler": [{"bas": 8, "son": 39, "tur": "KVKK_SPECIAL", "skor": 0.6232293844223022}]}
+{"id": "d237", "tahminler": [{"bas": 32, "son": 75, "tur": "KVKK_SPECIAL", "skor": 0.6641169190406799}]}
+{"id": "d238", "tahminler": [{"bas": 38, "son": 44, "tur": "PERSON", "skor": 0.38208726048469543}, {"bas": 47, "son": 49, "tur": "PERSON", "skor": 0.4145190119743347}]}
+{"id": "d239", "tahminler": [{"bas": 74, "son": 79, "tur": "HEALTH_DATA", "skor": 0.5886960029602051}, {"bas": 81, "son": 93, "tur": "HEALTH_DATA", "skor": 0.9602881669998169}, {"bas": 191, "son": 201, "tur": "PERSON", "skor": 0.903312623500824}, {"bas": 203, "son": 250, "tur": "KVKK_SPECIAL", "skor": 0.6268762350082397}]}
+{"id": "d240", "tahminler": [{"bas": 95, "son": 97, "tur": "PERSON", "skor": 0.3973987102508545}]}
+{"id": "d241", "tahminler": []}
+{"id": "d242", "tahminler": [{"bas": 105, "son": 111, "tur": "KVKK_SPECIAL", "skor": 0.8598164916038513}, {"bas": 132, "son": 142, "tur": "KVKK_SPECIAL", "skor": 0.8405224084854126}, {"bas": 165, "son": 178, "tur": "KVKK_SPECIAL", "skor": 0.8751311302185059}]}
+{"id": "d243", "tahminler": []}
+{"id": "d244", "tahminler": []}
+{"id": "d245", "tahminler": [{"bas": 5, "son": 10, "tur": "KVKK_SPECIAL", "skor": 0.6336430907249451}, {"bas": 27, "son": 47, "tur": "KVKK_SPECIAL", "skor": 0.9434809684753418}]}
+{"id": "d246", "tahminler": [{"bas": 67, "son": 72, "tur": "PERSON", "skor": 0.44897565245628357}, {"bas": 118, "son": 128, "tur": "PERSON", "skor": 0.8807567954063416}, {"bas": 130, "son": 182, "tur": "KVKK_SPECIAL", "skor": 0.7976703643798828}]}
+{"id": "d247", "tahminler": [{"bas": 34, "son": 37, "tur": "PERSON", "skor": 0.2358599454164505}, {"bas": 72, "son": 75, "tur": "KVKK_SPECIAL", "skor": 0.6020148992538452}, {"bas": 78, "son": 85, "tur": "KVKK_SPECIAL", "skor": 0.8402553796768188}, {"bas": 96, "son": 100, "tur": "PERSON", "skor": 0.4489772915840149}, {"bas": 203, "son": 208, "tur": "PERSON", "skor": 0.6722492575645447}]}
+{"id": "d248", "tahminler": []}
+{"id": "d249", "tahminler": []}
+{"id": "d250", "tahminler": []}
+{"id": "d701", "tahminler": []}
+{"id": "d702", "tahminler": []}
+{"id": "d703", "tahminler": []}
+{"id": "d704", "tahminler": []}
+{"id": "d705", "tahminler": []}
+{"id": "d706", "tahminler": []}
+{"id": "d707", "tahminler": [{"bas": 20, "son": 21, "tur": "ADDRESS", "skor": 0.5559227466583252}]}
+{"id": "d708", "tahminler": []}
+{"id": "d709", "tahminler": []}
+{"id": "d710", "tahminler": []}
+{"id": "d711", "tahminler": []}
+{"id": "d712", "tahminler": []}
+{"id": "d713", "tahminler": []}
+{"id": "d714", "tahminler": []}
+{"id": "d715", "tahminler": []}
+{"id": "d716", "tahminler": []}
+{"id": "d717", "tahminler": []}
+{"id": "d718", "tahminler": []}
+{"id": "d719", "tahminler": []}
+{"id": "d720", "tahminler": []}
+{"id": "d721", "tahminler": []}
+{"id": "d722", "tahminler": []}
+{"id": "d723", "tahminler": [{"bas": 14, "son": 23, "tur": "KVKK_SPECIAL", "skor": 0.673585057258606}, {"bas": 32, "son": 38, "tur": "KVKK_SPECIAL", "skor": 0.6434497237205505}]}
+{"id": "d724", "tahminler": []}
+{"id": "d725", "tahminler": []}
+{"id": "d726", "tahminler": []}
+{"id": "d727", "tahminler": []}
+{"id": "d728", "tahminler": []}
+{"id": "d729", "tahminler": []}
+{"id": "d730", "tahminler": []}
+{"id": "d731", "tahminler": []}
+{"id": "d732", "tahminler": []}
+{"id": "d733", "tahminler": []}
+{"id": "d734", "tahminler": []}
+{"id": "d735", "tahminler": []}
+{"id": "d736", "tahminler": []}
+{"id": "d737", "tahminler": []}
+{"id": "d738", "tahminler": []}
+{"id": "d739", "tahminler": []}
+{"id": "d740", "tahminler": []}
+{"id": "d741", "tahminler": [{"bas": 8, "son": 15, "tur": "ADDRESS", "skor": 0.8287582397460938}]}
+{"id": "d742", "tahminler": [{"bas": 6, "son": 14, "tur": "KVKK_SPECIAL", "skor": 0.7377548217773438}]}
+{"id": "d743", "tahminler": []}
+{"id": "d744", "tahminler": []}
+{"id": "d745", "tahminler": []}
+{"id": "d746", "tahminler": []}
+{"id": "d747", "tahminler": []}
+{"id": "d748", "tahminler": [{"bas": 14, "son": 23, "tur": "KVKK_SPECIAL", "skor": 0.7207581996917725}]}
+{"id": "d749", "tahminler": []}
+{"id": "d750", "tahminler": []}
+{"id": "d751", "tahminler": []}
+{"id": "d752", "tahminler": []}
+{"id": "d753", "tahminler": []}
+{"id": "d754", "tahminler": []}
+{"id": "d755", "tahminler": [{"bas": 14, "son": 23, "tur": "KVKK_SPECIAL", "skor": 0.771830677986145}, {"bas": 29, "son": 38, "tur": "KVKK_SPECIAL", "skor": 0.4992155134677887}]}
+{"id": "d756", "tahminler": []}
+{"id": "d757", "tahminler": []}
+{"id": "d758", "tahminler": []}
+{"id": "d759", "tahminler": []}
+{"id": "d760", "tahminler": []}
+{"id": "d761", "tahminler": []}
+{"id": "d762", "tahminler": []}
+{"id": "d763", "tahminler": []}
+{"id": "d764", "tahminler": []}
+{"id": "d765", "tahminler": [{"bas": 14, "son": 20, "tur": "KVKK_SPECIAL", "skor": 0.7853772640228271}, {"bas": 22, "son": 23, "tur": "KVKK_SPECIAL", "skor": 0.6512088775634766}, {"bas": 32, "son": 38, "tur": "KVKK_SPECIAL", "skor": 0.5757339596748352}]}
+{"id": "d766", "tahminler": []}
+{"id": "d767", "tahminler": []}
+{"id": "d768", "tahminler": []}
+{"id": "d769", "tahminler": []}
+{"id": "d770", "tahminler": []}
+{"id": "d771", "tahminler": []}
+{"id": "d772", "tahminler": []}
+{"id": "d773", "tahminler": []}
+{"id": "d774", "tahminler": []}
+{"id": "d775", "tahminler": []}
+{"id": "d776", "tahminler": []}
+{"id": "d777", "tahminler": []}
+{"id": "d778", "tahminler": []}
+{"id": "d779", "tahminler": []}
+{"id": "d780", "tahminler": []}
+{"id": "d781", "tahminler": []}
+{"id": "d782", "tahminler": []}
+{"id": "d783", "tahminler": []}
+{"id": "d784", "tahminler": []}
+{"id": "d785", "tahminler": []}
+{"id": "d786", "tahminler": []}
+{"id": "d787", "tahminler": []}
+{"id": "d788", "tahminler": []}
+{"id": "d789", "tahminler": [{"bas": 6, "son": 11, "tur": "KVKK_SPECIAL", "skor": 0.6148830056190491}]}
+{"id": "d790", "tahminler": []}
+{"id": "d791", "tahminler": []}
+{"id": "d792", "tahminler": []}
+{"id": "d793", "tahminler": []}
+{"id": "d794", "tahminler": []}
+{"id": "d795", "tahminler": []}
+{"id": "d796", "tahminler": [{"bas": 0, "son": 16, "tur": "KVKK_SPECIAL", "skor": 0.5899669528007507}]}
+{"id": "d797", "tahminler": []}
+{"id": "d798", "tahminler": []}
+{"id": "d799", "tahminler": []}
+{"id": "d800", "tahminler": []}
+{"id": "d801", "tahminler": []}
+{"id": "d802", "tahminler": []}
+{"id": "d803", "tahminler": []}
+{"id": "d804", "tahminler": []}
+{"id": "d805", "tahminler": []}
+{"id": "d806", "tahminler": []}
+{"id": "d807", "tahminler": []}
+{"id": "d808", "tahminler": []}
+{"id": "d809", "tahminler": []}
+{"id": "d810", "tahminler": []}
+{"id": "d811", "tahminler": []}
+{"id": "d812", "tahminler": []}
+{"id": "d813", "tahminler": []}
+{"id": "d814", "tahminler": []}
+{"id": "d815", "tahminler": []}
+{"id": "d816", "tahminler": []}
+{"id": "d817", "tahminler": []}
+{"id": "d818", "tahminler": []}
+{"id": "d819", "tahminler": []}
+{"id": "d820", "tahminler": []}
+{"id": "d821", "tahminler": []}
+{"id": "d822", "tahminler": []}
+{"id": "d823", "tahminler": []}
+{"id": "d824", "tahminler": [{"bas": 14, "son": 23, "tur": "KVKK_SPECIAL", "skor": 0.7607862949371338}, {"bas": 32, "son": 38, "tur": "KVKK_SPECIAL", "skor": 0.5218999981880188}]}
+{"id": "d825", "tahminler": []}
+{"id": "d826", "tahminler": []}
+{"id": "d827", "tahminler": []}
+{"id": "d828", "tahminler": []}
+{"id": "d829", "tahminler": []}
+{"id": "d830", "tahminler": []}
+{"id": "d831", "tahminler": []}
+{"id": "d832", "tahminler": [{"bas": 6, "son": 12, "tur": "KVKK_SPECIAL", "skor": 0.7676125168800354}]}
+{"id": "d833", "tahminler": []}
+{"id": "d834", "tahminler": []}
+{"id": "d835", "tahminler": []}
+{"id": "d836", "tahminler": [{"bas": 14, "son": 23, "tur": "KVKK_SPECIAL", "skor": 0.7179887294769287}, {"bas": 32, "son": 38, "tur": "KVKK_SPECIAL", "skor": 0.5932430624961853}]}
+{"id": "d837", "tahminler": []}
+{"id": "d838", "tahminler": []}
+{"id": "d839", "tahminler": []}
+{"id": "d840", "tahminler": []}
+{"id": "d841", "tahminler": []}
+{"id": "d842", "tahminler": []}
+{"id": "d843", "tahminler": []}
+{"id": "d844", "tahminler": []}
+{"id": "d845", "tahminler": []}
+{"id": "d846", "tahminler": []}
+{"id": "d847", "tahminler": []}
+{"id": "d848", "tahminler": []}
+{"id": "d849", "tahminler": []}
+{"id": "d850", "tahminler": []}
+{"id": "d851", "tahminler": []}
+{"id": "d852", "tahminler": []}
+{"id": "d853", "tahminler": []}
+{"id": "d854", "tahminler": []}
+{"id": "d855", "tahminler": []}
+{"id": "d856", "tahminler": []}
+{"id": "d857", "tahminler": []}
+{"id": "d858", "tahminler": []}
+{"id": "d859", "tahminler": []}
+{"id": "d860", "tahminler": []}
+{"id": "d861", "tahminler": []}
+{"id": "d862", "tahminler": []}
+{"id": "d863", "tahminler": []}
+{"id": "d864", "tahminler": []}
+{"id": "d865", "tahminler": []}
+{"id": "d866", "tahminler": []}
+{"id": "d867", "tahminler": []}
+{"id": "d868", "tahminler": []}
+{"id": "d869", "tahminler": []}
+{"id": "d870", "tahminler": []}
+{"id": "d871", "tahminler": []}
+{"id": "d872", "tahminler": []}
+{"id": "d873", "tahminler": []}
+{"id": "d874", "tahminler": []}
+{"id": "d875", "tahminler": [{"bas": 6, "son": 12, "tur": "KVKK_SPECIAL", "skor": 0.7760502696037292}]}
+{"id": "d876", "tahminler": []}
+{"id": "d877", "tahminler": []}
+{"id": "d878", "tahminler": [{"bas": 14, "son": 23, "tur": "KVKK_SPECIAL", "skor": 0.8357940912246704}, {"bas": 29, "son": 38, "tur": "KVKK_SPECIAL", "skor": 0.4965690076351166}]}
+{"id": "d879", "tahminler": [{"bas": 6, "son": 11, "tur": "KVKK_SPECIAL", "skor": 0.6273831129074097}]}
+{"id": "d880", "tahminler": [{"bas": 14, "son": 22, "tur": "KVKK_SPECIAL", "skor": 0.8429204821586609}, {"bas": 28, "son": 37, "tur": "KVKK_SPECIAL", "skor": 0.5244891047477722}]}
+{"id": "d881", "tahminler": []}
+{"id": "d882", "tahminler": [{"bas": 14, "son": 23, "tur": "KVKK_SPECIAL", "skor": 0.7795214653015137}, {"bas": 29, "son": 38, "tur": "KVKK_SPECIAL", "skor": 0.5859295725822449}]}
+{"id": "d883", "tahminler": []}
+{"id": "d884", "tahminler": []}
+{"id": "d885", "tahminler": []}
+{"id": "d886", "tahminler": []}
+{"id": "d887", "tahminler": []}
+{"id": "d888", "tahminler": []}
+{"id": "d889", "tahminler": []}
+{"id": "d890", "tahminler": []}
+{"id": "d891", "tahminler": []}
+{"id": "d892", "tahminler": []}
+{"id": "d893", "tahminler": []}
+{"id": "d894", "tahminler": []}
+{"id": "d895", "tahminler": [{"bas": 6, "son": 11, "tur": "KVKK_SPECIAL", "skor": 0.6887684464454651}]}
+{"id": "d896", "tahminler": [{"bas": 6, "son": 12, "tur": "KVKK_SPECIAL", "skor": 0.7288571000099182}]}
+{"id": "d897", "tahminler": []}
+{"id": "d898", "tahminler": []}
+{"id": "d899", "tahminler": []}
+{"id": "d900", "tahminler": []}
+{"id": "d901", "tahminler": []}
+{"id": "d902", "tahminler": []}
+{"id": "d903", "tahminler": [{"bas": 74, "son": 80, "tur": "KVKK_SPECIAL", "skor": 0.6224594712257385}, {"bas": 86, "son": 88, "tur": "KVKK_SPECIAL", "skor": 0.5872780680656433}, {"bas": 109, "son": 117, "tur": "KVKK_SPECIAL", "skor": 0.7411507368087769}]}
+{"id": "d904", "tahminler": []}
+{"id": "d905", "tahminler": [{"bas": 156, "son": 158, "tur": "HEALTH_DATA", "skor": 0.36747977137565613}, {"bas": 184, "son": 188, "tur": "PERSON", "skor": 0.3016819655895233}]}
+{"id": "d906", "tahminler": []}
+{"id": "d907", "tahminler": []}
+{"id": "d908", "tahminler": []}
+{"id": "d909", "tahminler": [{"bas": 29, "son": 42, "tur": "HEALTH_DATA", "skor": 0.6695093512535095}, {"bas": 63, "son": 72, "tur": "PERSON", "skor": 0.571458637714386}, {"bas": 130, "son": 162, "tur": "KVKK_SPECIAL", "skor": 0.6602705717086792}, {"bas": 199, "son": 203, "tur": "PERSON", "skor": 0.41562873125076294}]}
+{"id": "d910", "tahminler": []}
+{"id": "d911", "tahminler": [{"bas": 8, "son": 42, "tur": "KVKK_SPECIAL", "skor": 0.578468382358551}]}
+{"id": "d912", "tahminler": [{"bas": 88, "son": 95, "tur": "PERSON", "skor": 0.8644698262214661}]}
+{"id": "d913", "tahminler": []}
+{"id": "d914", "tahminler": [{"bas": 97, "son": 99, "tur": "PERSON", "skor": 0.4485122561454773}, {"bas": 105, "son": 119, "tur": "PERSON", "skor": 0.343679279088974}]}
+{"id": "d915", "tahminler": []}
+{"id": "d916", "tahminler": [{"bas": 0, "son": 16, "tur": "KVKK_SPECIAL", "skor": 0.4808937609195709}]}
+{"id": "d917", "tahminler": [{"bas": 94, "son": 99, "tur": "PERSON", "skor": 0.2584148347377777}]}
+{"id": "d918", "tahminler": []}
+{"id": "d919", "tahminler": [{"bas": 57, "son": 63, "tur": "PERSON", "skor": 0.7746810913085938}, {"bas": 107, "son": 112, "tur": "PERSON", "skor": 0.5689007043838501}, {"bas": 149, "son": 179, "tur": "KVKK_SPECIAL", "skor": 0.7044577598571777}]}
+{"id": "d920", "tahminler": [{"bas": 46, "son": 49, "tur": "KVKK_SPECIAL", "skor": 0.4509783685207367}, {"bas": 63, "son": 76, "tur": "KVKK_SPECIAL", "skor": 0.28184378147125244}, {"bas": 103, "son": 116, "tur": "ORG_COMPANY", "skor": 0.7610043883323669}, {"bas": 118, "son": 148, "tur": "KVKK_SPECIAL", "skor": 0.3868512511253357}, {"bas": 158, "son": 160, "tur": "KVKK_SPECIAL", "skor": 0.7702952027320862}]}
+{"id": "d921", "tahminler": []}
+{"id": "d922", "tahminler": []}
+{"id": "d923", "tahminler": []}
+{"id": "d924", "tahminler": [{"bas": 8, "son": 21, "tur": "KVKK_SPECIAL", "skor": 0.676409900188446}, {"bas": 26, "son": 42, "tur": "KVKK_SPECIAL", "skor": 0.5091755390167236}]}
+{"id": "d925", "tahminler": [{"bas": 27, "son": 79, "tur": "ADDRESS", "skor": 0.7575567364692688}, {"bas": 109, "son": 120, "tur": "PERSON", "skor": 0.9728806614875793}, {"bas": 132, "son": 144, "tur": "HEALTH_DATA", "skor": 0.9866464138031006}, {"bas": 293, "son": 299, "tur": "PERSON", "skor": 0.7702386975288391}]}
+{"id": "d926", "tahminler": [{"bas": 47, "son": 50, "tur": "KVKK_SPECIAL", "skor": 0.609707772731781}, {"bas": 58, "son": 77, "tur": "KVKK_SPECIAL", "skor": 0.8330070376396179}, {"bas": 99, "son": 102, "tur": "PERSON", "skor": 0.267985999584198}, {"bas": 104, "son": 108, "tur": "PERSON", "skor": 0.4721050560474396}, {"bas": 127, "son": 136, "tur": "HEALTH_DATA", "skor": 0.4404694139957428}, {"bas": 137, "son": 138, "tur": "KVKK_SPECIAL", "skor": 0.4537687599658966}, {"bas": 140, "son": 142, "tur": "HEALTH_DATA", "skor": 0.7027751803398132}, {"bas": 224, "son": 239, "tur": "KVKK_SPECIAL", "skor": 0.8930917382240295}]}
+{"id": "d927", "tahminler": [{"bas": 32, "son": 37, "tur": "PERSON", "skor": 0.4125828742980957}, {"bas": 60, "son": 65, "tur": "KVKK_SPECIAL", "skor": 0.5449217557907104}, {"bas": 73, "son": 85, "tur": "KVKK_SPECIAL", "skor": 0.819460391998291}, {"bas": 165, "son": 215, "tur": "ADDRESS", "skor": 0.6438028812408447}]}
+{"id": "d928", "tahminler": [{"bas": 150, "son": 157, "tur": "ORG_COMPANY", "skor": 0.26423051953315735}, {"bas": 158, "son": 160, "tur": "HEALTH_DATA", "skor": 0.606613039970398}, {"bas": 163, "son": 164, "tur": "HEALTH_DATA", "skor": 0.39953529834747314}]}
+{"id": "d929", "tahminler": [{"bas": 33, "son": 43, "tur": "PERSON", "skor": 0.9381762146949768}, {"bas": 140, "son": 195, "tur": "ADDRESS", "skor": 0.4956890344619751}]}
+{"id": "d930", "tahminler": [{"bas": 25, "son": 32, "tur": "HEALTH_DATA", "skor": 0.5530398488044739}]}
+{"id": "d931", "tahminler": [{"bas": 17, "son": 32, "tur": "HEALTH_DATA", "skor": 0.664543867111206}]}
+{"id": "d932", "tahminler": [{"bas": 30, "son": 34, "tur": "PERSON", "skor": 0.7982146739959717}, {"bas": 48, "son": 50, "tur": "HEALTH_DATA", "skor": 0.6719393134117126}, {"bas": 73, "son": 100, "tur": "KVKK_SPECIAL", "skor": 0.886102020740509}, {"bas": 116, "son": 119, "tur": "PERSON", "skor": 0.2845281958580017}, {"bas": 122, "son": 125, "tur": "PERSON", "skor": 0.7282782196998596}, {"bas": 126, "son": 130, "tur": "PERSON", "skor": 0.21914412081241608}, {"bas": 144, "son": 156, "tur": "HEALTH_DATA", "skor": 0.9862017035484314}, {"bas": 164, "son": 170, "tur": "KVKK_SPECIAL", "skor": 0.45094776153564453}, {"bas": 171, "son": 177, "tur": "HEALTH_DATA", "skor": 0.4964975416660309}, {"bas": 178, "son": 185, "tur": "KVKK_SPECIAL", "skor": 0.3067746162414551}, {"bas": 193, "son": 196, "tur": "KVKK_SPECIAL", "skor": 0.8002814054489136}, {"bas": 202, "son": 214, "tur": "PERSON", "skor": 0.5056875348091125}, {"bas": 244, "son": 250, "tur": "PERSON", "skor": 0.7066656351089478}, {"bas": 254, "son": 257, "tur": "PERSON", "skor": 0.7899169921875}]}
+{"id": "d933", "tahminler": [{"bas": 28, "son": 39, "tur": "PERSON", "skor": 0.9791758060455322}, {"bas": 132, "son": 148, "tur": "KVKK_SPECIAL", "skor": 0.470880389213562}]}
+{"id": "d934", "tahminler": []}
+{"id": "d935", "tahminler": []}
+{"id": "d936", "tahminler": [{"bas": 168, "son": 174, "tur": "KVKK_SPECIAL", "skor": 0.5436524748802185}, {"bas": 175, "son": 181, "tur": "HEALTH_DATA", "skor": 0.39958426356315613}]}
+{"id": "d937", "tahminler": []}
+{"id": "d938", "tahminler": [{"bas": 34, "son": 84, "tur": "ADDRESS", "skor": 0.6251136064529419}]}
+{"id": "d939", "tahminler": [{"bas": 112, "son": 115, "tur": "PERSON", "skor": 0.34250614047050476}, {"bas": 119, "son": 121, "tur": "PERSON", "skor": 0.6458523273468018}]}
+{"id": "d940", "tahminler": [{"bas": 184, "son": 190, "tur": "KVKK_SPECIAL", "skor": 0.6974012851715088}, {"bas": 201, "son": 207, "tur": "PERSON", "skor": 0.4845104217529297}, {"bas": 223, "son": 228, "tur": "PERSON", "skor": 0.36224398016929626}, {"bas": 229, "son": 233, "tur": "PERSON", "skor": 0.477917343378067}]}
+{"id": "d941", "tahminler": [{"bas": 25, "son": 36, "tur": "PERSON", "skor": 0.7103487849235535}, {"bas": 52, "son": 68, "tur": "PERSON", "skor": 0.29126790165901184}, {"bas": 82, "son": 100, "tur": "HEALTH_DATA", "skor": 0.9370778203010559}, {"bas": 111, "son": 116, "tur": "PERSON", "skor": 0.8089306354522705}, {"bas": 175, "son": 177, "tur": "KVKK_SPECIAL", "skor": 0.5062318444252014}, {"bas": 179, "son": 181, "tur": "KVKK_SPECIAL", "skor": 0.6429845690727234}]}
+{"id": "d942", "tahminler": [{"bas": 76, "son": 100, "tur": "ORG_COMPANY", "skor": 0.9494733810424805}, {"bas": 127, "son": 136, "tur": "ADDRESS", "skor": 0.706498384475708}, {"bas": 137, "son": 181, "tur": "ADDRESS", "skor": 0.797086775302887}, {"bas": 200, "son": 209, "tur": "HEALTH_DATA", "skor": 0.9078810214996338}]}
+{"id": "d943", "tahminler": [{"bas": 76, "son": 80, "tur": "PERSON", "skor": 0.2132352888584137}, {"bas": 204, "son": 206, "tur": "ORG_COMPANY", "skor": 0.37730902433395386}]}
+{"id": "d944", "tahminler": []}
+{"id": "d945", "tahminler": []}
+{"id": "d946", "tahminler": []}
+{"id": "d947", "tahminler": []}
+{"id": "d948", "tahminler": [{"bas": 100, "son": 106, "tur": "KVKK_SPECIAL", "skor": 0.6005024909973145}]}
+{"id": "d949", "tahminler": [{"bas": 34, "son": 79, "tur": "ADDRESS", "skor": 0.5924122333526611}]}
+{"id": "d950", "tahminler": []}
+{"id": "d951", "tahminler": [{"bas": 200, "son": 206, "tur": "PERSON", "skor": 0.745847225189209}, {"bas": 215, "son": 231, "tur": "ORG_COMPANY", "skor": 0.7298387289047241}]}
+{"id": "d952", "tahminler": [{"bas": 47, "son": 50, "tur": "KVKK_SPECIAL", "skor": 0.6964243054389954}, {"bas": 58, "son": 79, "tur": "KVKK_SPECIAL", "skor": 0.7150570750236511}, {"bas": 113, "son": 125, "tur": "PERSON", "skor": 0.19995063543319702}]}
+{"id": "d953", "tahminler": [{"bas": 34, "son": 77, "tur": "ADDRESS", "skor": 0.9173552989959717}]}
+{"id": "d954", "tahminler": [{"bas": 79, "son": 99, "tur": "ORG_COMPANY", "skor": 0.9563258290290833}, {"bas": 101, "son": 104, "tur": "KVKK_SPECIAL", "skor": 0.5036314129829407}, {"bas": 118, "son": 122, "tur": "HEALTH_DATA", "skor": 0.23359805345535278}, {"bas": 123, "son": 129, "tur": "KVKK_SPECIAL", "skor": 0.5625495314598083}, {"bas": 164, "son": 169, "tur": "HEALTH_DATA", "skor": 0.5268532633781433}]}
+{"id": "d955", "tahminler": []}
+{"id": "d956", "tahminler": [{"bas": 34, "son": 92, "tur": "ADDRESS", "skor": 0.6153481602668762}]}
+{"id": "d957", "tahminler": []}
+{"id": "d958", "tahminler": [{"bas": 133, "son": 134, "tur": "KVKK_SPECIAL", "skor": 0.5074049234390259}]}
+{"id": "d959", "tahminler": []}
+{"id": "d960", "tahminler": []}
+{"id": "d961", "tahminler": []}
+{"id": "d962", "tahminler": [{"bas": 54, "son": 58, "tur": "KVKK_SPECIAL", "skor": 0.6933754682540894}, {"bas": 93, "son": 127, "tur": "KVKK_SPECIAL", "skor": 0.5903360247612}, {"bas": 205, "son": 229, "tur": "KVKK_SPECIAL", "skor": 0.8111637830734253}, {"bas": 251, "son": 252, "tur": "KVKK_SPECIAL", "skor": 0.3395940065383911}]}
+{"id": "d963", "tahminler": []}
+{"id": "d964", "tahminler": []}
+{"id": "d965", "tahminler": []}
+{"id": "d966", "tahminler": []}
+{"id": "d967", "tahminler": [{"bas": 30, "son": 31, "tur": "PERSON", "skor": 0.5722692608833313}]}
+{"id": "d968", "tahminler": []}
+{"id": "d969", "tahminler": [{"bas": 52, "son": 57, "tur": "PERSON", "skor": 0.6952246427536011}, {"bas": 73, "son": 86, "tur": "PERSON", "skor": 0.35208168625831604}, {"bas": 87, "son": 89, "tur": "PERSON", "skor": 0.41783732175827026}, {"bas": 111, "son": 112, "tur": "KVKK_SPECIAL", "skor": 0.44306397438049316}]}
+{"id": "d970", "tahminler": [{"bas": 43, "son": 52, "tur": "PERSON", "skor": 0.7937871217727661}, {"bas": 71, "son": 80, "tur": "HEALTH_DATA", "skor": 0.8885244131088257}, {"bas": 157, "son": 169, "tur": "PERSON", "skor": 0.5085485577583313}, {"bas": 183, "son": 189, "tur": "HEALTH_DATA", "skor": 0.9448791742324829}]}
+{"id": "d971", "tahminler": []}
+{"id": "d972", "tahminler": []}
+{"id": "d973", "tahminler": [{"bas": 120, "son": 127, "tur": "KVKK_SPECIAL", "skor": 0.855772852897644}, {"bas": 178, "son": 185, "tur": "PERSON", "skor": 0.5372628569602966}]}
+{"id": "d974", "tahminler": []}
+{"id": "d975", "tahminler": []}
+{"id": "d976", "tahminler": [{"bas": 38, "son": 41, "tur": "PERSON", "skor": 0.21397966146469116}]}
+{"id": "d977", "tahminler": [{"bas": 20, "son": 55, "tur": "KVKK_SPECIAL", "skor": 0.8202288746833801}, {"bas": 66, "son": 70, "tur": "PERSON", "skor": 0.49678564071655273}]}
+{"id": "d978", "tahminler": [{"bas": 165, "son": 170, "tur": "PERSON", "skor": 0.831298828125}, {"bas": 171, "son": 175, "tur": "PERSON", "skor": 0.834518551826477}]}
+{"id": "d979", "tahminler": []}
+{"id": "d980", "tahminler": [{"bas": 38, "son": 41, "tur": "PERSON", "skor": 0.44025591015815735}, {"bas": 44, "son": 48, "tur": "PERSON", "skor": 0.5551062226295471}]}
+{"id": "d981", "tahminler": []}
+{"id": "d982", "tahminler": []}
+{"id": "d983", "tahminler": [{"bas": 12, "son": 33, "tur": "KVKK_SPECIAL", "skor": 0.6899462342262268}]}
+{"id": "d984", "tahminler": []}
+{"id": "d985", "tahminler": [{"bas": 135, "son": 137, "tur": "HEALTH_DATA", "skor": 0.6556925773620605}, {"bas": 164, "son": 165, "tur": "TAX_OFFICE", "skor": 0.5736874341964722}]}
+{"id": "d986", "tahminler": [{"bas": 149, "son": 154, "tur": "PERSON", "skor": 0.3762422800064087}, {"bas": 155, "son": 159, "tur": "PERSON", "skor": 0.7310417294502258}]}
+{"id": "d987", "tahminler": []}
+{"id": "d988", "tahminler": [{"bas": 169, "son": 176, "tur": "HEALTH_DATA", "skor": 0.9121138453483582}, {"bas": 180, "son": 182, "tur": "HEALTH_DATA", "skor": 0.5779499411582947}]}
+{"id": "d989", "tahminler": [{"bas": 99, "son": 108, "tur": "ADDRESS", "skor": 0.8553566932678223}, {"bas": 110, "son": 148, "tur": "ADDRESS", "skor": 0.6558132171630859}, {"bas": 207, "son": 212, "tur": "PERSON", "skor": 0.3845418393611908}]}
+{"id": "d990", "tahminler": []}
+{"id": "d991", "tahminler": []}
+{"id": "d992", "tahminler": [{"bas": 0, "son": 43, "tur": "KVKK_SPECIAL", "skor": 0.45664292573928833}]}
+{"id": "d993", "tahminler": []}
+{"id": "d994", "tahminler": [{"bas": 0, "son": 10, "tur": "KVKK_SPECIAL", "skor": 0.6181874871253967}, {"bas": 20, "son": 54, "tur": "KVKK_SPECIAL", "skor": 0.7909990549087524}]}
+{"id": "d995", "tahminler": [{"bas": 193, "son": 195, "tur": "HEALTH_DATA", "skor": 0.3422352075576782}]}
+{"id": "d996", "tahminler": []}
+{"id": "d997", "tahminler": [{"bas": 148, "son": 150, "tur": "ORG_COMPANY", "skor": 0.4837753176689148}]}
+{"id": "d998", "tahminler": [{"bas": 43, "son": 46, "tur": "PERSON", "skor": 0.3270072042942047}, {"bas": 142, "son": 147, "tur": "ORG_COMPANY", "skor": 0.20516715943813324}]}
+{"id": "d999", "tahminler": []}
+{"id": "d1000", "tahminler": []}

@@ -1,0 +1,550 @@
+{"id": "d1", "tahminler": [{"bas": 0, "son": 13, "tur": "LOC", "skor": 0.9802300930023193}, {"bas": 14, "son": 29, "tur": "LOC", "skor": 0.9810526967048645}, {"bas": 37, "son": 55, "tur": "LOC", "skor": 0.9897220730781555}]}
+{"id": "d2", "tahminler": []}
+{"id": "d3", "tahminler": [{"bas": 8, "son": 18, "tur": "PER", "skor": 0.9793815612792969}]}
+{"id": "d4", "tahminler": []}
+{"id": "d5", "tahminler": [{"bas": 104, "son": 115, "tur": "PER", "skor": 0.9727174639701843}, {"bas": 347, "son": 349, "tur": "ORG", "skor": 0.9935142993927002}]}
+{"id": "d6", "tahminler": [{"bas": 55, "son": 65, "tur": "PER", "skor": 0.9877464175224304}, {"bas": 113, "son": 126, "tur": "PER", "skor": 0.6593905687332153}]}
+{"id": "d7", "tahminler": [{"bas": 8, "son": 23, "tur": "PER", "skor": 0.9659727811813354}, {"bas": 29, "son": 42, "tur": "PER", "skor": 0.9688032865524292}]}
+{"id": "d8", "tahminler": [{"bas": 39, "son": 50, "tur": "PER", "skor": 0.9807205200195312}]}
+{"id": "d9", "tahminler": [{"bas": 50, "son": 61, "tur": "PER", "skor": 0.9860801100730896}, {"bas": 92, "son": 102, "tur": "PER", "skor": 0.9867298603057861}]}
+{"id": "d10", "tahminler": [{"bas": 8, "son": 18, "tur": "PER", "skor": 0.9908096790313721}, {"bas": 19, "son": 34, "tur": "ORG", "skor": 0.9864469766616821}, {"bas": 144, "son": 154, "tur": "PER", "skor": 0.9746909141540527}]}
+{"id": "d11", "tahminler": [{"bas": 28, "son": 33, "tur": "LOC", "skor": 0.8394167423248291}, {"bas": 34, "son": 47, "tur": "LOC", "skor": 0.7113379240036011}, {"bas": 48, "son": 59, "tur": "LOC", "skor": 0.9769912958145142}, {"bas": 67, "son": 85, "tur": "LOC", "skor": 0.9946203231811523}]}
+{"id": "d12", "tahminler": [{"bas": 50, "son": 62, "tur": "PER", "skor": 0.9779821634292603}, {"bas": 123, "son": 135, "tur": "PER", "skor": 0.8704458475112915}]}
+{"id": "d13", "tahminler": []}
+{"id": "d14", "tahminler": []}
+{"id": "d15", "tahminler": []}
+{"id": "d16", "tahminler": [{"bas": 116, "son": 133, "tur": "LOC", "skor": 0.9220218062400818}, {"bas": 134, "son": 146, "tur": "LOC", "skor": 0.9445509910583496}, {"bas": 159, "son": 173, "tur": "LOC", "skor": 0.9916766881942749}]}
+{"id": "d17", "tahminler": []}
+{"id": "d18", "tahminler": []}
+{"id": "d19", "tahminler": []}
+{"id": "d20", "tahminler": []}
+{"id": "d21", "tahminler": []}
+{"id": "d22", "tahminler": []}
+{"id": "d23", "tahminler": [{"bas": 0, "son": 12, "tur": "PER", "skor": 0.937400221824646}]}
+{"id": "d24", "tahminler": []}
+{"id": "d25", "tahminler": [{"bas": 50, "son": 63, "tur": "PER", "skor": 0.9915022253990173}]}
+{"id": "d26", "tahminler": [{"bas": 0, "son": 11, "tur": "ORG", "skor": 0.6191175580024719}]}
+{"id": "d27", "tahminler": [{"bas": 8, "son": 18, "tur": "PER", "skor": 0.9932162761688232}, {"bas": 19, "son": 39, "tur": "ORG", "skor": 0.9752023220062256}]}
+{"id": "d28", "tahminler": []}
+{"id": "d29", "tahminler": [{"bas": 29, "son": 38, "tur": "LOC", "skor": 0.9911978840827942}]}
+{"id": "d30", "tahminler": []}
+{"id": "d31", "tahminler": [{"bas": 145, "son": 149, "tur": "PER", "skor": 0.9651845097541809}, {"bas": 268, "son": 272, "tur": "LOC", "skor": 0.9763477444648743}]}
+{"id": "d32", "tahminler": [{"bas": 7, "son": 19, "tur": "PER", "skor": 0.9620373845100403}, {"bas": 37, "son": 60, "tur": "PER", "skor": 0.9115805625915527}]}
+{"id": "d33", "tahminler": [{"bas": 7, "son": 21, "tur": "PER", "skor": 0.9859805107116699}, {"bas": 39, "son": 60, "tur": "PER", "skor": 0.9178524613380432}]}
+{"id": "d34", "tahminler": []}
+{"id": "d35", "tahminler": []}
+{"id": "d36", "tahminler": []}
+{"id": "d37", "tahminler": []}
+{"id": "d38", "tahminler": []}
+{"id": "d39", "tahminler": [{"bas": 32, "son": 40, "tur": "ORG", "skor": 0.986918032169342}]}
+{"id": "d40", "tahminler": []}
+{"id": "d41", "tahminler": []}
+{"id": "d42", "tahminler": []}
+{"id": "d43", "tahminler": [{"bas": 8, "son": 20, "tur": "PER", "skor": 0.9870089888572693}]}
+{"id": "d44", "tahminler": [{"bas": 50, "son": 64, "tur": "PER", "skor": 0.9863808751106262}, {"bas": 224, "son": 247, "tur": "PER", "skor": 0.8965818285942078}, {"bas": 296, "son": 309, "tur": "PER", "skor": 0.9916487336158752}, {"bas": 310, "son": 328, "tur": "ORG", "skor": 0.9665220975875854}, {"bas": 380, "son": 389, "tur": "LOC", "skor": 0.8428341746330261}]}
+{"id": "d45", "tahminler": [{"bas": 172, "son": 184, "tur": "PER", "skor": 0.9733080863952637}, {"bas": 393, "son": 397, "tur": "LOC", "skor": 0.9932935237884521}]}
+{"id": "d46", "tahminler": [{"bas": 8, "son": 19, "tur": "PER", "skor": 0.9929235577583313}, {"bas": 20, "son": 39, "tur": "ORG", "skor": 0.9931007623672485}, {"bas": 75, "son": 92, "tur": "LOC", "skor": 0.9600143432617188}, {"bas": 93, "son": 111, "tur": "LOC", "skor": 0.8776434063911438}, {"bas": 112, "son": 129, "tur": "LOC", "skor": 0.9914864301681519}]}
+{"id": "d47", "tahminler": [{"bas": 36, "son": 46, "tur": "LOC", "skor": 0.9911779761314392}, {"bas": 56, "son": 65, "tur": "PER", "skor": 0.9707721471786499}, {"bas": 145, "son": 167, "tur": "PER", "skor": 0.8258979916572571}]}
+{"id": "d48", "tahminler": []}
+{"id": "d49", "tahminler": [{"bas": 101, "son": 126, "tur": "PER", "skor": 0.9277800917625427}]}
+{"id": "d50", "tahminler": []}
+{"id": "d51", "tahminler": [{"bas": 40, "son": 46, "tur": "PER", "skor": 0.9907475709915161}, {"bas": 54, "son": 68, "tur": "LOC", "skor": 0.969748854637146}, {"bas": 69, "son": 80, "tur": "LOC", "skor": 0.9630611538887024}, {"bas": 98, "son": 114, "tur": "LOC", "skor": 0.991926908493042}]}
+{"id": "d52", "tahminler": [{"bas": 8, "son": 19, "tur": "PER", "skor": 0.9901937246322632}]}
+{"id": "d53", "tahminler": []}
+{"id": "d54", "tahminler": []}
+{"id": "d55", "tahminler": []}
+{"id": "d56", "tahminler": []}
+{"id": "d57", "tahminler": []}
+{"id": "d58", "tahminler": [{"bas": 20, "son": 21, "tur": "PER", "skor": 0.6735606789588928}, {"bas": 20, "son": 39, "tur": "PER", "skor": 0.9168176054954529}, {"bas": 294, "son": 301, "tur": "PER", "skor": 0.9320935606956482}]}
+{"id": "d59", "tahminler": [{"bas": 38, "son": 44, "tur": "PER", "skor": 0.9502865672111511}, {"bas": 190, "son": 217, "tur": "ORG", "skor": 0.9933678507804871}]}
+{"id": "d60", "tahminler": [{"bas": 12, "son": 19, "tur": "LOC", "skor": 0.9498490691184998}, {"bas": 109, "son": 121, "tur": "PER", "skor": 0.9839717745780945}, {"bas": 122, "son": 141, "tur": "ORG", "skor": 0.8391280770301819}, {"bas": 179, "son": 190, "tur": "PER", "skor": 0.9861516952514648}]}
+{"id": "d61", "tahminler": [{"bas": 107, "son": 108, "tur": "PER", "skor": 0.9937833547592163}, {"bas": 107, "son": 122, "tur": "PER", "skor": 0.9867661595344543}]}
+{"id": "d62", "tahminler": []}
+{"id": "d63", "tahminler": [{"bas": 0, "son": 9, "tur": "LOC", "skor": 0.9739214181900024}, {"bas": 10, "son": 23, "tur": "LOC", "skor": 0.9669073820114136}, {"bas": 41, "son": 57, "tur": "LOC", "skor": 0.9939181804656982}]}
+{"id": "d64", "tahminler": []}
+{"id": "d65", "tahminler": []}
+{"id": "d66", "tahminler": [{"bas": 8, "son": 25, "tur": "PER", "skor": 0.9923408031463623}, {"bas": 31, "son": 43, "tur": "PER", "skor": 0.9911996126174927}]}
+{"id": "d67", "tahminler": [{"bas": 22, "son": 27, "tur": "PER", "skor": 0.9618006348609924}]}
+{"id": "d68", "tahminler": []}
+{"id": "d69", "tahminler": [{"bas": 0, "son": 27, "tur": "PER", "skor": 0.9747451543807983}, {"bas": 41, "son": 58, "tur": "PER", "skor": 0.9713547229766846}]}
+{"id": "d70", "tahminler": []}
+{"id": "d71", "tahminler": []}
+{"id": "d72", "tahminler": []}
+{"id": "d73", "tahminler": []}
+{"id": "d74", "tahminler": [{"bas": 79, "son": 85, "tur": "PER", "skor": 0.9823764562606812}, {"bas": 135, "son": 150, "tur": "PER", "skor": 0.6855303049087524}]}
+{"id": "d75", "tahminler": [{"bas": 0, "son": 17, "tur": "PER", "skor": 0.9681065082550049}]}
+{"id": "d76", "tahminler": []}
+{"id": "d77", "tahminler": [{"bas": 68, "son": 80, "tur": "PER", "skor": 0.9893252849578857}]}
+{"id": "d78", "tahminler": [{"bas": 50, "son": 62, "tur": "PER", "skor": 0.9852768182754517}, {"bas": 195, "son": 208, "tur": "PER", "skor": 0.9895613789558411}]}
+{"id": "d79", "tahminler": [{"bas": 8, "son": 47, "tur": "ORG", "skor": 0.9943955540657043}, {"bas": 83, "son": 97, "tur": "PER", "skor": 0.9866609573364258}, {"bas": 107, "son": 119, "tur": "PER", "skor": 0.9905492067337036}]}
+{"id": "d80", "tahminler": [{"bas": 50, "son": 63, "tur": "PER", "skor": 0.9900224208831787}, {"bas": 86, "son": 100, "tur": "PER", "skor": 0.9839620590209961}, {"bas": 110, "son": 122, "tur": "PER", "skor": 0.9871466159820557}]}
+{"id": "d81", "tahminler": []}
+{"id": "d82", "tahminler": []}
+{"id": "d83", "tahminler": []}
+{"id": "d84", "tahminler": []}
+{"id": "d85", "tahminler": [{"bas": 8, "son": 20, "tur": "PER", "skor": 0.9825838208198547}, {"bas": 105, "son": 118, "tur": "LOC", "skor": 0.9785341024398804}, {"bas": 119, "son": 135, "tur": "LOC", "skor": 0.776289165019989}, {"bas": 143, "son": 157, "tur": "LOC", "skor": 0.9878339767456055}]}
+{"id": "d86", "tahminler": [{"bas": 38, "son": 63, "tur": "ORG", "skor": 0.9960158467292786}, {"bas": 119, "son": 142, "tur": "PER", "skor": 0.8682250380516052}, {"bas": 238, "son": 247, "tur": "LOC", "skor": 0.9819874167442322}, {"bas": 248, "son": 270, "tur": "LOC", "skor": 0.7884810566902161}, {"bas": 282, "son": 296, "tur": "LOC", "skor": 0.9880025386810303}, {"bas": 316, "son": 320, "tur": "PER", "skor": 0.988766610622406}]}
+{"id": "d87", "tahminler": []}
+{"id": "d88", "tahminler": []}
+{"id": "d89", "tahminler": [{"bas": 393, "son": 399, "tur": "LOC", "skor": 0.9751324653625488}]}
+{"id": "d90", "tahminler": [{"bas": 50, "son": 61, "tur": "PER", "skor": 0.9687198400497437}, {"bas": 107, "son": 114, "tur": "LOC", "skor": 0.9953210949897766}, {"bas": 245, "son": 253, "tur": "ORG", "skor": 0.9712966084480286}]}
+{"id": "d91", "tahminler": [{"bas": 44, "son": 47, "tur": "ORG", "skor": 0.8199577331542969}, {"bas": 219, "son": 232, "tur": "PER", "skor": 0.9753174781799316}, {"bas": 267, "son": 279, "tur": "LOC", "skor": 0.9775534868240356}, {"bas": 280, "son": 293, "tur": "LOC", "skor": 0.9508159756660461}, {"bas": 307, "son": 321, "tur": "LOC", "skor": 0.9481698870658875}]}
+{"id": "d92", "tahminler": [{"bas": 20, "son": 47, "tur": "PER", "skor": 0.9732204079627991}, {"bas": 118, "son": 136, "tur": "PER", "skor": 0.9712297916412354}, {"bas": 137, "son": 163, "tur": "ORG", "skor": 0.8492150902748108}]}
+{"id": "d93", "tahminler": []}
+{"id": "d94", "tahminler": [{"bas": 20, "son": 26, "tur": "ORG", "skor": 0.7292298078536987}, {"bas": 32, "son": 44, "tur": "PER", "skor": 0.6599196791648865}, {"bas": 45, "son": 53, "tur": "LOC", "skor": 0.70530104637146}, {"bas": 86, "son": 87, "tur": "LOC", "skor": 0.9751798510551453}, {"bas": 86, "son": 109, "tur": "LOC", "skor": 0.7800631523132324}, {"bas": 132, "son": 145, "tur": "PER", "skor": 0.9857938289642334}, {"bas": 146, "son": 158, "tur": "LOC", "skor": 0.7561237812042236}]}
+{"id": "d95", "tahminler": []}
+{"id": "d96", "tahminler": [{"bas": 204, "son": 207, "tur": "ORG", "skor": 0.7311214208602905}]}
+{"id": "d97", "tahminler": [{"bas": 46, "son": 53, "tur": "PER", "skor": 0.9936724901199341}]}
+{"id": "d98", "tahminler": [{"bas": 147, "son": 170, "tur": "ORG", "skor": 0.996178388595581}]}
+{"id": "d99", "tahminler": []}
+{"id": "d100", "tahminler": [{"bas": 63, "son": 73, "tur": "PER", "skor": 0.6552178263664246}, {"bas": 86, "son": 116, "tur": "PER", "skor": 0.9875656962394714}]}
+{"id": "d101", "tahminler": [{"bas": 50, "son": 60, "tur": "PER", "skor": 0.9868985414505005}, {"bas": 127, "son": 143, "tur": "PER", "skor": 0.9754350185394287}]}
+{"id": "d102", "tahminler": []}
+{"id": "d103", "tahminler": [{"bas": 8, "son": 24, "tur": "PER", "skor": 0.9807494878768921}, {"bas": 30, "son": 46, "tur": "PER", "skor": 0.9847772717475891}]}
+{"id": "d104", "tahminler": [{"bas": 8, "son": 27, "tur": "PER", "skor": 0.9813888072967529}, {"bas": 33, "son": 53, "tur": "PER", "skor": 0.9904913306236267}]}
+{"id": "d105", "tahminler": []}
+{"id": "d106", "tahminler": [{"bas": 50, "son": 64, "tur": "PER", "skor": 0.984788179397583}, {"bas": 97, "son": 107, "tur": "PER", "skor": 0.9818435907363892}]}
+{"id": "d107", "tahminler": []}
+{"id": "d108", "tahminler": []}
+{"id": "d109", "tahminler": []}
+{"id": "d110", "tahminler": [{"bas": 38, "son": 58, "tur": "PER", "skor": 0.9859049916267395}]}
+{"id": "d111", "tahminler": [{"bas": 41, "son": 53, "tur": "PER", "skor": 0.9875504970550537}, {"bas": 62, "son": 74, "tur": "ORG", "skor": 0.5964889526367188}, {"bas": 182, "son": 187, "tur": "PER", "skor": 0.9901302456855774}]}
+{"id": "d112", "tahminler": []}
+{"id": "d113", "tahminler": [{"bas": 0, "son": 11, "tur": "ORG", "skor": 0.5714670419692993}]}
+{"id": "d114", "tahminler": []}
+{"id": "d115", "tahminler": []}
+{"id": "d116", "tahminler": [{"bas": 167, "son": 174, "tur": "LOC", "skor": 0.9950762391090393}]}
+{"id": "d117", "tahminler": [{"bas": 34, "son": 48, "tur": "LOC", "skor": 0.9796197414398193}, {"bas": 49, "son": 63, "tur": "LOC", "skor": 0.9771519899368286}, {"bas": 82, "son": 97, "tur": "LOC", "skor": 0.9937558174133301}]}
+{"id": "d118", "tahminler": []}
+{"id": "d119", "tahminler": []}
+{"id": "d120", "tahminler": [{"bas": 68, "son": 84, "tur": "PER", "skor": 0.9884727001190186}, {"bas": 100, "son": 111, "tur": "PER", "skor": 0.9848000407218933}]}
+{"id": "d121", "tahminler": [{"bas": 38, "son": 43, "tur": "PER", "skor": 0.9732228517532349}, {"bas": 75, "son": 84, "tur": "PER", "skor": 0.5732722282409668}]}
+{"id": "d122", "tahminler": []}
+{"id": "d123", "tahminler": []}
+{"id": "d124", "tahminler": []}
+{"id": "d125", "tahminler": []}
+{"id": "d126", "tahminler": [{"bas": 0, "son": 27, "tur": "PER", "skor": 0.9768441319465637}, {"bas": 41, "son": 55, "tur": "PER", "skor": 0.9867762923240662}]}
+{"id": "d127", "tahminler": [{"bas": 116, "son": 127, "tur": "PER", "skor": 0.9872646331787109}]}
+{"id": "d128", "tahminler": [{"bas": 149, "son": 157, "tur": "PER", "skor": 0.7952548861503601}]}
+{"id": "d129", "tahminler": [{"bas": 97, "son": 109, "tur": "PER", "skor": 0.9854246377944946}]}
+{"id": "d130", "tahminler": [{"bas": 29, "son": 33, "tur": "LOC", "skor": 0.9934884309768677}]}
+{"id": "d131", "tahminler": [{"bas": 38, "son": 51, "tur": "PER", "skor": 0.9765743613243103}]}
+{"id": "d132", "tahminler": [{"bas": 209, "son": 247, "tur": "ORG", "skor": 0.9387063980102539}]}
+{"id": "d133", "tahminler": [{"bas": 223, "son": 228, "tur": "LOC", "skor": 0.8817564845085144}]}
+{"id": "d134", "tahminler": []}
+{"id": "d135", "tahminler": []}
+{"id": "d136", "tahminler": []}
+{"id": "d137", "tahminler": []}
+{"id": "d138", "tahminler": [{"bas": 124, "son": 137, "tur": "PER", "skor": 0.9842851161956787}, {"bas": 138, "son": 155, "tur": "ORG", "skor": 0.9349051117897034}]}
+{"id": "d139", "tahminler": []}
+{"id": "d140", "tahminler": []}
+{"id": "d141", "tahminler": []}
+{"id": "d142", "tahminler": [{"bas": 366, "son": 381, "tur": "PER", "skor": 0.9763954877853394}]}
+{"id": "d143", "tahminler": []}
+{"id": "d144", "tahminler": []}
+{"id": "d145", "tahminler": []}
+{"id": "d146", "tahminler": [{"bas": 29, "son": 56, "tur": "PER", "skor": 0.9289019703865051}, {"bas": 138, "son": 153, "tur": "PER", "skor": 0.9725117087364197}]}
+{"id": "d147", "tahminler": [{"bas": 50, "son": 61, "tur": "PER", "skor": 0.9902689456939697}]}
+{"id": "d148", "tahminler": [{"bas": 201, "son": 205, "tur": "LOC", "skor": 0.9953635931015015}]}
+{"id": "d149", "tahminler": []}
+{"id": "d150", "tahminler": [{"bas": 8, "son": 25, "tur": "PER", "skor": 0.9940993785858154}, {"bas": 26, "son": 56, "tur": "ORG", "skor": 0.9976544380187988}]}
+{"id": "d151", "tahminler": [{"bas": 149, "son": 160, "tur": "LOC", "skor": 0.995015561580658}]}
+{"id": "d152", "tahminler": [{"bas": 8, "son": 20, "tur": "PER", "skor": 0.990902304649353}, {"bas": 21, "son": 44, "tur": "ORG", "skor": 0.9166793823242188}, {"bas": 80, "son": 96, "tur": "PER", "skor": 0.9853699803352356}, {"bas": 106, "son": 118, "tur": "PER", "skor": 0.9879456758499146}]}
+{"id": "d153", "tahminler": []}
+{"id": "d154", "tahminler": []}
+{"id": "d155", "tahminler": []}
+{"id": "d156", "tahminler": []}
+{"id": "d157", "tahminler": [{"bas": 8, "son": 38, "tur": "ORG", "skor": 0.9706333875656128}]}
+{"id": "d158", "tahminler": [{"bas": 8, "son": 19, "tur": "PER", "skor": 0.9925938844680786}, {"bas": 20, "son": 43, "tur": "ORG", "skor": 0.9064042568206787}, {"bas": 129, "son": 141, "tur": "PER", "skor": 0.9916355609893799}]}
+{"id": "d159", "tahminler": []}
+{"id": "d160", "tahminler": []}
+{"id": "d161", "tahminler": []}
+{"id": "d162", "tahminler": [{"bas": 34, "son": 50, "tur": "LOC", "skor": 0.9520933032035828}, {"bas": 51, "son": 61, "tur": "LOC", "skor": 0.9555034637451172}, {"bas": 69, "son": 82, "tur": "LOC", "skor": 0.9921180605888367}]}
+{"id": "d163", "tahminler": [{"bas": 74, "son": 86, "tur": "PER", "skor": 0.9869465827941895}, {"bas": 94, "son": 108, "tur": "PER", "skor": 0.9861563444137573}, {"bas": 118, "son": 131, "tur": "PER", "skor": 0.9813594818115234}]}
+{"id": "d164", "tahminler": [{"bas": 0, "son": 26, "tur": "PER", "skor": 0.970669686794281}, {"bas": 40, "son": 51, "tur": "PER", "skor": 0.9817287921905518}]}
+{"id": "d165", "tahminler": []}
+{"id": "d166", "tahminler": [{"bas": 93, "son": 104, "tur": "PER", "skor": 0.9876703023910522}]}
+{"id": "d167", "tahminler": [{"bas": 7, "son": 21, "tur": "PER", "skor": 0.9882638454437256}, {"bas": 39, "son": 65, "tur": "PER", "skor": 0.9637904763221741}]}
+{"id": "d168", "tahminler": [{"bas": 293, "son": 298, "tur": "LOC", "skor": 0.9815409183502197}]}
+{"id": "d169", "tahminler": [{"bas": 34, "son": 44, "tur": "LOC", "skor": 0.9748210310935974}, {"bas": 45, "son": 60, "tur": "LOC", "skor": 0.966249942779541}, {"bas": 68, "son": 82, "tur": "LOC", "skor": 0.9903348088264465}, {"bas": 193, "son": 203, "tur": "PER", "skor": 0.9888864755630493}, {"bas": 298, "son": 312, "tur": "PER", "skor": 0.988107442855835}]}
+{"id": "d170", "tahminler": [{"bas": 85, "son": 87, "tur": "ORG", "skor": 0.9899807572364807}, {"bas": 156, "son": 165, "tur": "LOC", "skor": 0.971631646156311}, {"bas": 166, "son": 176, "tur": "LOC", "skor": 0.9250986576080322}, {"bas": 189, "son": 206, "tur": "LOC", "skor": 0.9885351061820984}, {"bas": 286, "son": 290, "tur": "PER", "skor": 0.8564673662185669}, {"bas": 335, "son": 347, "tur": "PER", "skor": 0.8567643761634827}, {"bas": 348, "son": 368, "tur": "ORG", "skor": 0.983761727809906}]}
+{"id": "d171", "tahminler": [{"bas": 38, "son": 50, "tur": "PER", "skor": 0.8943474292755127}]}
+{"id": "d172", "tahminler": []}
+{"id": "d173", "tahminler": [{"bas": 38, "son": 52, "tur": "PER", "skor": 0.8355659246444702}, {"bas": 95, "son": 101, "tur": "LOC", "skor": 0.9915018081665039}, {"bas": 194, "son": 206, "tur": "PER", "skor": 0.9830933213233948}, {"bas": 207, "son": 231, "tur": "ORG", "skor": 0.8612751960754395}, {"bas": 397, "son": 404, "tur": "PER", "skor": 0.9719008207321167}, {"bas": 417, "son": 422, "tur": "PER", "skor": 0.9679199457168579}]}
+{"id": "d174", "tahminler": [{"bas": 0, "son": 7, "tur": "LOC", "skor": 0.7327123880386353}, {"bas": 6, "son": 11, "tur": "LOC", "skor": 0.351272851228714}]}
+{"id": "d175", "tahminler": [{"bas": 0, "son": 11, "tur": "ORG", "skor": 0.6066625118255615}]}
+{"id": "d176", "tahminler": [{"bas": 109, "son": 129, "tur": "ORG", "skor": 0.994145929813385}, {"bas": 195, "son": 201, "tur": "PER", "skor": 0.9702614545822144}, {"bas": 218, "son": 225, "tur": "ORG", "skor": 0.992284893989563}]}
+{"id": "d177", "tahminler": []}
+{"id": "d178", "tahminler": [{"bas": 32, "son": 39, "tur": "LOC", "skor": 0.9887668490409851}, {"bas": 130, "son": 135, "tur": "PER", "skor": 0.9881226420402527}]}
+{"id": "d179", "tahminler": []}
+{"id": "d180", "tahminler": []}
+{"id": "d181", "tahminler": []}
+{"id": "d182", "tahminler": []}
+{"id": "d183", "tahminler": [{"bas": 0, "son": 11, "tur": "ORG", "skor": 0.7176263332366943}]}
+{"id": "d184", "tahminler": [{"bas": 50, "son": 64, "tur": "PER", "skor": 0.9845749735832214}, {"bas": 95, "son": 103, "tur": "PER", "skor": 0.5601067543029785}, {"bas": 119, "son": 132, "tur": "PER", "skor": 0.9811351299285889}]}
+{"id": "d185", "tahminler": []}
+{"id": "d186", "tahminler": [{"bas": 22, "son": 28, "tur": "PER", "skor": 0.9732945561408997}]}
+{"id": "d187", "tahminler": [{"bas": 20, "son": 43, "tur": "PER", "skor": 0.9597944021224976}]}
+{"id": "d188", "tahminler": []}
+{"id": "d189", "tahminler": [{"bas": 50, "son": 62, "tur": "PER", "skor": 0.9905321002006531}]}
+{"id": "d190", "tahminler": []}
+{"id": "d191", "tahminler": []}
+{"id": "d192", "tahminler": [{"bas": 8, "son": 21, "tur": "PER", "skor": 0.9869046807289124}]}
+{"id": "d193", "tahminler": []}
+{"id": "d194", "tahminler": [{"bas": 50, "son": 61, "tur": "PER", "skor": 0.985024631023407}]}
+{"id": "d195", "tahminler": [{"bas": 68, "son": 79, "tur": "PER", "skor": 0.9891113638877869}]}
+{"id": "d196", "tahminler": []}
+{"id": "d197", "tahminler": []}
+{"id": "d198", "tahminler": [{"bas": 145, "son": 166, "tur": "PER", "skor": 0.8770732283592224}]}
+{"id": "d199", "tahminler": [{"bas": 0, "son": 11, "tur": "PER", "skor": 0.9713557958602905}, {"bas": 21, "son": 22, "tur": "PER", "skor": 0.8418976664543152}, {"bas": 21, "son": 32, "tur": "PER", "skor": 0.9380824565887451}]}
+{"id": "d200", "tahminler": []}
+{"id": "d201", "tahminler": []}
+{"id": "d202", "tahminler": [{"bas": 34, "son": 49, "tur": "LOC", "skor": 0.9773605465888977}, {"bas": 50, "son": 69, "tur": "LOC", "skor": 0.7974288463592529}, {"bas": 77, "son": 95, "tur": "LOC", "skor": 0.9911956787109375}]}
+{"id": "d203", "tahminler": []}
+{"id": "d204", "tahminler": []}
+{"id": "d205", "tahminler": [{"bas": 74, "son": 84, "tur": "PER", "skor": 0.990170419216156}]}
+{"id": "d206", "tahminler": []}
+{"id": "d207", "tahminler": []}
+{"id": "d208", "tahminler": [{"bas": 41, "son": 56, "tur": "PER", "skor": 0.9700533747673035}]}
+{"id": "d209", "tahminler": []}
+{"id": "d210", "tahminler": []}
+{"id": "d211", "tahminler": [{"bas": 0, "son": 18, "tur": "PER", "skor": 0.9932456612586975}, {"bas": 28, "son": 41, "tur": "PER", "skor": 0.9844820499420166}]}
+{"id": "d212", "tahminler": []}
+{"id": "d213", "tahminler": [{"bas": 56, "son": 76, "tur": "PER", "skor": 0.7238726615905762}]}
+{"id": "d214", "tahminler": []}
+{"id": "d215", "tahminler": []}
+{"id": "d216", "tahminler": [{"bas": 50, "son": 59, "tur": "PER", "skor": 0.9780294895172119}, {"bas": 82, "son": 110, "tur": "PER", "skor": 0.9306440949440002}, {"bas": 124, "son": 137, "tur": "PER", "skor": 0.9814131259918213}]}
+{"id": "d217", "tahminler": [{"bas": 38, "son": 51, "tur": "PER", "skor": 0.982740581035614}]}
+{"id": "d218", "tahminler": [{"bas": 89, "son": 100, "tur": "PER", "skor": 0.9000688195228577}]}
+{"id": "d219", "tahminler": [{"bas": 0, "son": 6, "tur": "PER", "skor": 0.6684731841087341}, {"bas": 20, "son": 30, "tur": "PER", "skor": 0.7157257199287415}]}
+{"id": "d220", "tahminler": [{"bas": 8, "son": 20, "tur": "PER", "skor": 0.9844527840614319}]}
+{"id": "d221", "tahminler": [{"bas": 8, "son": 20, "tur": "PER", "skor": 0.9815418720245361}]}
+{"id": "d222", "tahminler": [{"bas": 7, "son": 22, "tur": "PER", "skor": 0.9914501905441284}]}
+{"id": "d223", "tahminler": [{"bas": 91, "son": 97, "tur": "PER", "skor": 0.984596312046051}]}
+{"id": "d224", "tahminler": [{"bas": 8, "son": 24, "tur": "PER", "skor": 0.9922643899917603}, {"bas": 30, "son": 44, "tur": "PER", "skor": 0.983637809753418}]}
+{"id": "d225", "tahminler": [{"bas": 69, "son": 70, "tur": "PER", "skor": 0.7316733598709106}, {"bas": 69, "son": 85, "tur": "PER", "skor": 0.8532886505126953}, {"bas": 93, "son": 94, "tur": "PER", "skor": 0.5848703384399414}, {"bas": 93, "son": 104, "tur": "PER", "skor": 0.8067808747291565}, {"bas": 120, "son": 121, "tur": "PER", "skor": 0.7744789123535156}, {"bas": 120, "son": 128, "tur": "PER", "skor": 0.8245675563812256}]}
+{"id": "d226", "tahminler": [{"bas": 150, "son": 152, "tur": "ORG", "skor": 0.9936641454696655}, {"bas": 193, "son": 206, "tur": "LOC", "skor": 0.9656710624694824}, {"bas": 207, "son": 219, "tur": "LOC", "skor": 0.9651249051094055}, {"bas": 227, "son": 243, "tur": "LOC", "skor": 0.9920608997344971}]}
+{"id": "d227", "tahminler": []}
+{"id": "d228", "tahminler": []}
+{"id": "d229", "tahminler": []}
+{"id": "d230", "tahminler": []}
+{"id": "d231", "tahminler": [{"bas": 8, "son": 9, "tur": "PER", "skor": 0.9821606874465942}, {"bas": 8, "son": 22, "tur": "PER", "skor": 0.9755336046218872}, {"bas": 81, "son": 82, "tur": "PER", "skor": 0.9483565092086792}, {"bas": 81, "son": 95, "tur": "PER", "skor": 0.9522082805633545}, {"bas": 113, "son": 136, "tur": "PER", "skor": 0.9752857089042664}]}
+{"id": "d232", "tahminler": [{"bas": 8, "son": 22, "tur": "PER", "skor": 0.9861676692962646}, {"bas": 28, "son": 44, "tur": "PER", "skor": 0.9900174736976624}]}
+{"id": "d233", "tahminler": [{"bas": 52, "son": 63, "tur": "PER", "skor": 0.9824198484420776}, {"bas": 76, "son": 104, "tur": "PER", "skor": 0.9461896419525146}]}
+{"id": "d234", "tahminler": []}
+{"id": "d235", "tahminler": []}
+{"id": "d236", "tahminler": [{"bas": 29, "son": 39, "tur": "LOC", "skor": 0.9840191602706909}]}
+{"id": "d237", "tahminler": [{"bas": 32, "son": 59, "tur": "ORG", "skor": 0.9912386536598206}]}
+{"id": "d238", "tahminler": []}
+{"id": "d239", "tahminler": [{"bas": 191, "son": 202, "tur": "PER", "skor": 0.9795618653297424}, {"bas": 232, "son": 239, "tur": "LOC", "skor": 0.9952672719955444}]}
+{"id": "d240", "tahminler": [{"bas": 68, "son": 78, "tur": "PER", "skor": 0.6934484243392944}, {"bas": 86, "son": 101, "tur": "PER", "skor": 0.9776621460914612}, {"bas": 111, "son": 112, "tur": "LOC", "skor": 0.9189243912696838}, {"bas": 111, "son": 116, "tur": "LOC", "skor": 0.8110770583152771}, {"bas": 117, "son": 126, "tur": "LOC", "skor": 0.7818678021430969}]}
+{"id": "d241", "tahminler": []}
+{"id": "d242", "tahminler": []}
+{"id": "d243", "tahminler": []}
+{"id": "d244", "tahminler": []}
+{"id": "d245", "tahminler": []}
+{"id": "d246", "tahminler": [{"bas": 46, "son": 57, "tur": "LOC", "skor": 0.9869630932807922}, {"bas": 67, "son": 73, "tur": "PER", "skor": 0.9852169156074524}, {"bas": 118, "son": 129, "tur": "PER", "skor": 0.9724557399749756}]}
+{"id": "d247", "tahminler": [{"bas": 96, "son": 101, "tur": "PER", "skor": 0.992715060710907}, {"bas": 203, "son": 208, "tur": "PER", "skor": 0.9795111417770386}]}
+{"id": "d248", "tahminler": []}
+{"id": "d249", "tahminler": []}
+{"id": "d250", "tahminler": []}
+{"id": "d701", "tahminler": []}
+{"id": "d702", "tahminler": []}
+{"id": "d703", "tahminler": []}
+{"id": "d704", "tahminler": []}
+{"id": "d705", "tahminler": []}
+{"id": "d706", "tahminler": []}
+{"id": "d707", "tahminler": []}
+{"id": "d708", "tahminler": []}
+{"id": "d709", "tahminler": []}
+{"id": "d710", "tahminler": []}
+{"id": "d711", "tahminler": [{"bas": 0, "son": 6, "tur": "LOC", "skor": 0.6570560932159424}]}
+{"id": "d712", "tahminler": []}
+{"id": "d713", "tahminler": []}
+{"id": "d714", "tahminler": []}
+{"id": "d715", "tahminler": []}
+{"id": "d716", "tahminler": []}
+{"id": "d717", "tahminler": []}
+{"id": "d718", "tahminler": []}
+{"id": "d719", "tahminler": []}
+{"id": "d720", "tahminler": []}
+{"id": "d721", "tahminler": []}
+{"id": "d722", "tahminler": []}
+{"id": "d723", "tahminler": []}
+{"id": "d724", "tahminler": []}
+{"id": "d725", "tahminler": []}
+{"id": "d726", "tahminler": []}
+{"id": "d727", "tahminler": []}
+{"id": "d728", "tahminler": []}
+{"id": "d729", "tahminler": []}
+{"id": "d730", "tahminler": []}
+{"id": "d731", "tahminler": []}
+{"id": "d732", "tahminler": []}
+{"id": "d733", "tahminler": []}
+{"id": "d734", "tahminler": []}
+{"id": "d735", "tahminler": []}
+{"id": "d736", "tahminler": []}
+{"id": "d737", "tahminler": []}
+{"id": "d738", "tahminler": [{"bas": 0, "son": 7, "tur": "LOC", "skor": 0.9543401598930359}]}
+{"id": "d739", "tahminler": []}
+{"id": "d740", "tahminler": []}
+{"id": "d741", "tahminler": [{"bas": 0, "son": 15, "tur": "LOC", "skor": 0.9516105651855469}]}
+{"id": "d742", "tahminler": []}
+{"id": "d743", "tahminler": []}
+{"id": "d744", "tahminler": []}
+{"id": "d745", "tahminler": []}
+{"id": "d746", "tahminler": [{"bas": 16, "son": 23, "tur": "LOC", "skor": 0.9926213026046753}]}
+{"id": "d747", "tahminler": []}
+{"id": "d748", "tahminler": []}
+{"id": "d749", "tahminler": []}
+{"id": "d750", "tahminler": []}
+{"id": "d751", "tahminler": []}
+{"id": "d752", "tahminler": []}
+{"id": "d753", "tahminler": []}
+{"id": "d754", "tahminler": []}
+{"id": "d755", "tahminler": []}
+{"id": "d756", "tahminler": []}
+{"id": "d757", "tahminler": []}
+{"id": "d758", "tahminler": []}
+{"id": "d759", "tahminler": []}
+{"id": "d760", "tahminler": []}
+{"id": "d761", "tahminler": []}
+{"id": "d762", "tahminler": []}
+{"id": "d763", "tahminler": []}
+{"id": "d764", "tahminler": []}
+{"id": "d765", "tahminler": []}
+{"id": "d766", "tahminler": []}
+{"id": "d767", "tahminler": [{"bas": 0, "son": 5, "tur": "LOC", "skor": 0.4269464612007141}]}
+{"id": "d768", "tahminler": [{"bas": 0, "son": 7, "tur": "LOC", "skor": 0.9493166208267212}]}
+{"id": "d769", "tahminler": []}
+{"id": "d770", "tahminler": [{"bas": 0, "son": 1, "tur": "PER", "skor": 0.9821808338165283}, {"bas": 0, "son": 7, "tur": "PER", "skor": 0.9788453578948975}]}
+{"id": "d771", "tahminler": []}
+{"id": "d772", "tahminler": []}
+{"id": "d773", "tahminler": []}
+{"id": "d774", "tahminler": []}
+{"id": "d775", "tahminler": []}
+{"id": "d776", "tahminler": [{"bas": 0, "son": 5, "tur": "LOC", "skor": 0.3536056578159332}]}
+{"id": "d777", "tahminler": []}
+{"id": "d778", "tahminler": []}
+{"id": "d779", "tahminler": []}
+{"id": "d780", "tahminler": []}
+{"id": "d781", "tahminler": []}
+{"id": "d782", "tahminler": []}
+{"id": "d783", "tahminler": [{"bas": 16, "son": 23, "tur": "LOC", "skor": 0.9288086891174316}]}
+{"id": "d784", "tahminler": []}
+{"id": "d785", "tahminler": []}
+{"id": "d786", "tahminler": []}
+{"id": "d787", "tahminler": []}
+{"id": "d788", "tahminler": []}
+{"id": "d789", "tahminler": []}
+{"id": "d790", "tahminler": []}
+{"id": "d791", "tahminler": []}
+{"id": "d792", "tahminler": []}
+{"id": "d793", "tahminler": []}
+{"id": "d794", "tahminler": []}
+{"id": "d795", "tahminler": [{"bas": 0, "son": 5, "tur": "LOC", "skor": 0.9912460446357727}]}
+{"id": "d796", "tahminler": []}
+{"id": "d797", "tahminler": []}
+{"id": "d798", "tahminler": [{"bas": 16, "son": 21, "tur": "LOC", "skor": 0.9960839748382568}]}
+{"id": "d799", "tahminler": []}
+{"id": "d800", "tahminler": []}
+{"id": "d801", "tahminler": []}
+{"id": "d802", "tahminler": []}
+{"id": "d803", "tahminler": []}
+{"id": "d804", "tahminler": []}
+{"id": "d805", "tahminler": []}
+{"id": "d806", "tahminler": []}
+{"id": "d807", "tahminler": []}
+{"id": "d808", "tahminler": []}
+{"id": "d809", "tahminler": []}
+{"id": "d810", "tahminler": []}
+{"id": "d811", "tahminler": []}
+{"id": "d812", "tahminler": []}
+{"id": "d813", "tahminler": []}
+{"id": "d814", "tahminler": []}
+{"id": "d815", "tahminler": [{"bas": 0, "son": 2, "tur": "LOC", "skor": 0.5993214249610901}]}
+{"id": "d816", "tahminler": []}
+{"id": "d817", "tahminler": [{"bas": 16, "son": 20, "tur": "LOC", "skor": 0.9815806746482849}]}
+{"id": "d818", "tahminler": []}
+{"id": "d819", "tahminler": []}
+{"id": "d820", "tahminler": []}
+{"id": "d821", "tahminler": []}
+{"id": "d822", "tahminler": []}
+{"id": "d823", "tahminler": [{"bas": 16, "son": 24, "tur": "LOC", "skor": 0.9916247725486755}]}
+{"id": "d824", "tahminler": []}
+{"id": "d825", "tahminler": []}
+{"id": "d826", "tahminler": []}
+{"id": "d827", "tahminler": []}
+{"id": "d828", "tahminler": []}
+{"id": "d829", "tahminler": []}
+{"id": "d830", "tahminler": []}
+{"id": "d831", "tahminler": []}
+{"id": "d832", "tahminler": []}
+{"id": "d833", "tahminler": []}
+{"id": "d834", "tahminler": []}
+{"id": "d835", "tahminler": []}
+{"id": "d836", "tahminler": []}
+{"id": "d837", "tahminler": []}
+{"id": "d838", "tahminler": []}
+{"id": "d839", "tahminler": []}
+{"id": "d840", "tahminler": []}
+{"id": "d841", "tahminler": []}
+{"id": "d842", "tahminler": []}
+{"id": "d843", "tahminler": []}
+{"id": "d844", "tahminler": []}
+{"id": "d845", "tahminler": []}
+{"id": "d846", "tahminler": []}
+{"id": "d847", "tahminler": []}
+{"id": "d848", "tahminler": []}
+{"id": "d849", "tahminler": []}
+{"id": "d850", "tahminler": []}
+{"id": "d851", "tahminler": []}
+{"id": "d852", "tahminler": []}
+{"id": "d853", "tahminler": []}
+{"id": "d854", "tahminler": []}
+{"id": "d855", "tahminler": []}
+{"id": "d856", "tahminler": []}
+{"id": "d857", "tahminler": [{"bas": 0, "son": 5, "tur": "LOC", "skor": 0.5930065512657166}]}
+{"id": "d858", "tahminler": []}
+{"id": "d859", "tahminler": []}
+{"id": "d860", "tahminler": []}
+{"id": "d861", "tahminler": [{"bas": 0, "son": 5, "tur": "LOC", "skor": 0.9906957149505615}]}
+{"id": "d862", "tahminler": []}
+{"id": "d863", "tahminler": []}
+{"id": "d864", "tahminler": []}
+{"id": "d865", "tahminler": []}
+{"id": "d866", "tahminler": []}
+{"id": "d867", "tahminler": []}
+{"id": "d868", "tahminler": [{"bas": 16, "son": 22, "tur": "LOC", "skor": 0.9882957935333252}]}
+{"id": "d869", "tahminler": []}
+{"id": "d870", "tahminler": []}
+{"id": "d871", "tahminler": []}
+{"id": "d872", "tahminler": []}
+{"id": "d873", "tahminler": []}
+{"id": "d874", "tahminler": []}
+{"id": "d875", "tahminler": []}
+{"id": "d876", "tahminler": []}
+{"id": "d877", "tahminler": []}
+{"id": "d878", "tahminler": []}
+{"id": "d879", "tahminler": []}
+{"id": "d880", "tahminler": []}
+{"id": "d881", "tahminler": []}
+{"id": "d882", "tahminler": []}
+{"id": "d883", "tahminler": []}
+{"id": "d884", "tahminler": []}
+{"id": "d885", "tahminler": []}
+{"id": "d886", "tahminler": [{"bas": 0, "son": 5, "tur": "LOC", "skor": 0.7740699648857117}]}
+{"id": "d887", "tahminler": []}
+{"id": "d888", "tahminler": []}
+{"id": "d889", "tahminler": []}
+{"id": "d890", "tahminler": []}
+{"id": "d891", "tahminler": []}
+{"id": "d892", "tahminler": []}
+{"id": "d893", "tahminler": []}
+{"id": "d894", "tahminler": []}
+{"id": "d895", "tahminler": []}
+{"id": "d896", "tahminler": []}
+{"id": "d897", "tahminler": []}
+{"id": "d898", "tahminler": []}
+{"id": "d899", "tahminler": []}
+{"id": "d900", "tahminler": []}
+{"id": "d901", "tahminler": []}
+{"id": "d902", "tahminler": []}
+{"id": "d903", "tahminler": [{"bas": 74, "son": 81, "tur": "PER", "skor": 0.9864554405212402}, {"bas": 109, "son": 117, "tur": "PER", "skor": 0.9336060285568237}]}
+{"id": "d904", "tahminler": []}
+{"id": "d905", "tahminler": []}
+{"id": "d906", "tahminler": []}
+{"id": "d907", "tahminler": []}
+{"id": "d908", "tahminler": []}
+{"id": "d909", "tahminler": [{"bas": 29, "son": 31, "tur": "ORG", "skor": 0.895039975643158}, {"bas": 63, "son": 73, "tur": "PER", "skor": 0.9833327531814575}, {"bas": 199, "son": 204, "tur": "PER", "skor": 0.9826846718788147}]}
+{"id": "d910", "tahminler": []}
+{"id": "d911", "tahminler": [{"bas": 29, "son": 33, "tur": "LOC", "skor": 0.9931299090385437}]}
+{"id": "d912", "tahminler": [{"bas": 88, "son": 96, "tur": "PER", "skor": 0.8771141171455383}, {"bas": 104, "son": 127, "tur": "ORG", "skor": 0.9950392842292786}]}
+{"id": "d913", "tahminler": []}
+{"id": "d914", "tahminler": [{"bas": 105, "son": 120, "tur": "PER", "skor": 0.9616603851318359}, {"bas": 128, "son": 139, "tur": "LOC", "skor": 0.9931586384773254}]}
+{"id": "d915", "tahminler": []}
+{"id": "d916", "tahminler": [{"bas": 61, "son": 73, "tur": "LOC", "skor": 0.9931682348251343}, {"bas": 81, "son": 102, "tur": "ORG", "skor": 0.9958516955375671}]}
+{"id": "d917", "tahminler": [{"bas": 57, "son": 80, "tur": "ORG", "skor": 0.996372640132904}, {"bas": 93, "son": 116, "tur": "PER", "skor": 0.9079011678695679}, {"bas": 165, "son": 172, "tur": "PER", "skor": 0.7827118635177612}]}
+{"id": "d918", "tahminler": []}
+{"id": "d919", "tahminler": [{"bas": 57, "son": 64, "tur": "PER", "skor": 0.9773802161216736}, {"bas": 107, "son": 113, "tur": "PER", "skor": 0.9850262999534607}]}
+{"id": "d920", "tahminler": [{"bas": 103, "son": 117, "tur": "ORG", "skor": 0.9951879382133484}, {"bas": 134, "son": 142, "tur": "ORG", "skor": 0.987481415271759}]}
+{"id": "d921", "tahminler": []}
+{"id": "d922", "tahminler": [{"bas": 160, "son": 171, "tur": "LOC", "skor": 0.9923142790794373}]}
+{"id": "d923", "tahminler": []}
+{"id": "d924", "tahminler": []}
+{"id": "d925", "tahminler": [{"bas": 27, "son": 41, "tur": "LOC", "skor": 0.9660279154777527}, {"bas": 42, "son": 55, "tur": "LOC", "skor": 0.8741041421890259}, {"bas": 62, "son": 80, "tur": "LOC", "skor": 0.9932407140731812}, {"bas": 109, "son": 121, "tur": "PER", "skor": 0.9881433248519897}, {"bas": 293, "son": 299, "tur": "PER", "skor": 0.9727550745010376}]}
+{"id": "d926", "tahminler": [{"bas": 98, "son": 121, "tur": "PER", "skor": 0.9041797518730164}]}
+{"id": "d927", "tahminler": [{"bas": 32, "son": 54, "tur": "PER", "skor": 0.943713903427124}, {"bas": 101, "son": 102, "tur": "PER", "skor": 0.6767426133155823}, {"bas": 101, "son": 110, "tur": "PER", "skor": 0.8476433157920837}, {"bas": 165, "son": 176, "tur": "LOC", "skor": 0.9633194208145142}, {"bas": 177, "son": 189, "tur": "LOC", "skor": 0.9588850736618042}, {"bas": 203, "son": 216, "tur": "LOC", "skor": 0.9857957363128662}]}
+{"id": "d928", "tahminler": [{"bas": 115, "son": 123, "tur": "LOC", "skor": 0.9942197799682617}]}
+{"id": "d929", "tahminler": [{"bas": 33, "son": 44, "tur": "PER", "skor": 0.9838730096817017}, {"bas": 140, "son": 153, "tur": "LOC", "skor": 0.9743375778198242}, {"bas": 154, "son": 167, "tur": "LOC", "skor": 0.9747437238693237}, {"bas": 180, "son": 195, "tur": "LOC", "skor": 0.9858735799789429}]}
+{"id": "d930", "tahminler": []}
+{"id": "d931", "tahminler": []}
+{"id": "d932", "tahminler": [{"bas": 30, "son": 35, "tur": "PER", "skor": 0.9547820091247559}, {"bas": 202, "son": 215, "tur": "PER", "skor": 0.9795401692390442}, {"bas": 227, "son": 233, "tur": "LOC", "skor": 0.991957426071167}, {"bas": 244, "son": 269, "tur": "PER", "skor": 0.972421407699585}]}
+{"id": "d933", "tahminler": [{"bas": 28, "son": 40, "tur": "PER", "skor": 0.9885566830635071}, {"bas": 119, "son": 126, "tur": "LOC", "skor": 0.9916176199913025}]}
+{"id": "d934", "tahminler": []}
+{"id": "d935", "tahminler": []}
+{"id": "d936", "tahminler": [{"bas": 34, "son": 39, "tur": "PER", "skor": 0.6701731085777283}, {"bas": 155, "son": 161, "tur": "PER", "skor": 0.9795653820037842}]}
+{"id": "d937", "tahminler": []}
+{"id": "d938", "tahminler": [{"bas": 34, "son": 45, "tur": "LOC", "skor": 0.9739553928375244}, {"bas": 46, "son": 58, "tur": "LOC", "skor": 0.9339019060134888}, {"bas": 70, "son": 84, "tur": "LOC", "skor": 0.9901391267776489}]}
+{"id": "d939", "tahminler": [{"bas": 110, "son": 132, "tur": "PER", "skor": 0.8681589961051941}]}
+{"id": "d940", "tahminler": [{"bas": 201, "son": 208, "tur": "PER", "skor": 0.9767187833786011}]}
+{"id": "d941", "tahminler": [{"bas": 25, "son": 37, "tur": "PER", "skor": 0.9754189252853394}, {"bas": 111, "son": 117, "tur": "PER", "skor": 0.9818321466445923}]}
+{"id": "d942", "tahminler": [{"bas": 76, "son": 101, "tur": "ORG", "skor": 0.9935836791992188}, {"bas": 113, "son": 119, "tur": "LOC", "skor": 0.9716696739196777}, {"bas": 127, "son": 136, "tur": "LOC", "skor": 0.9789527654647827}, {"bas": 137, "son": 149, "tur": "LOC", "skor": 0.9206780791282654}, {"bas": 163, "son": 182, "tur": "LOC", "skor": 0.9876614809036255}]}
+{"id": "d943", "tahminler": [{"bas": 73, "son": 84, "tur": "PER", "skor": 0.8817542791366577}]}
+{"id": "d944", "tahminler": []}
+{"id": "d945", "tahminler": []}
+{"id": "d946", "tahminler": []}
+{"id": "d947", "tahminler": []}
+{"id": "d948", "tahminler": []}
+{"id": "d949", "tahminler": [{"bas": 34, "son": 43, "tur": "LOC", "skor": 0.9826996326446533}, {"bas": 44, "son": 55, "tur": "LOC", "skor": 0.9080733060836792}, {"bas": 63, "son": 79, "tur": "LOC", "skor": 0.9897806644439697}]}
+{"id": "d950", "tahminler": []}
+{"id": "d951", "tahminler": [{"bas": 75, "son": 87, "tur": "LOC", "skor": 0.9927836656570435}, {"bas": 200, "son": 207, "tur": "PER", "skor": 0.9910597205162048}, {"bas": 215, "son": 231, "tur": "ORG", "skor": 0.9934045076370239}]}
+{"id": "d952", "tahminler": [{"bas": 113, "son": 126, "tur": "PER", "skor": 0.9777811765670776}]}
+{"id": "d953", "tahminler": [{"bas": 34, "son": 44, "tur": "LOC", "skor": 0.9781448841094971}, {"bas": 45, "son": 58, "tur": "LOC", "skor": 0.9671543836593628}, {"bas": 65, "son": 77, "tur": "LOC", "skor": 0.9879629611968994}]}
+{"id": "d954", "tahminler": [{"bas": 79, "son": 100, "tur": "ORG", "skor": 0.9942380785942078}, {"bas": 164, "son": 166, "tur": "ORG", "skor": 0.8255902528762817}]}
+{"id": "d955", "tahminler": []}
+{"id": "d956", "tahminler": [{"bas": 34, "son": 46, "tur": "LOC", "skor": 0.9687010049819946}, {"bas": 47, "son": 59, "tur": "LOC", "skor": 0.8840762972831726}, {"bas": 71, "son": 92, "tur": "LOC", "skor": 0.9924455285072327}]}
+{"id": "d957", "tahminler": []}
+{"id": "d958", "tahminler": [{"bas": 38, "son": 44, "tur": "PER", "skor": 0.9664389491081238}]}
+{"id": "d959", "tahminler": []}
+{"id": "d960", "tahminler": []}
+{"id": "d961", "tahminler": []}
+{"id": "d962", "tahminler": []}
+{"id": "d963", "tahminler": []}
+{"id": "d964", "tahminler": []}
+{"id": "d965", "tahminler": []}
+{"id": "d966", "tahminler": []}
+{"id": "d967", "tahminler": []}
+{"id": "d968", "tahminler": []}
+{"id": "d969", "tahminler": [{"bas": 52, "son": 58, "tur": "PER", "skor": 0.9881299734115601}]}
+{"id": "d970", "tahminler": [{"bas": 157, "son": 170, "tur": "PER", "skor": 0.6648694276809692}]}
+{"id": "d971", "tahminler": []}
+{"id": "d972", "tahminler": []}
+{"id": "d973", "tahminler": []}
+{"id": "d974", "tahminler": []}
+{"id": "d975", "tahminler": []}
+{"id": "d976", "tahminler": []}
+{"id": "d977", "tahminler": [{"bas": 66, "son": 71, "tur": "PER", "skor": 0.9816494584083557}]}
+{"id": "d978", "tahminler": [{"bas": 107, "son": 117, "tur": "PER", "skor": 0.9640693664550781}, {"bas": 165, "son": 177, "tur": "PER", "skor": 0.9218738675117493}]}
+{"id": "d979", "tahminler": [{"bas": 20, "son": 42, "tur": "PER", "skor": 0.9275452494621277}]}
+{"id": "d980", "tahminler": []}
+{"id": "d981", "tahminler": []}
+{"id": "d982", "tahminler": [{"bas": 0, "son": 18, "tur": "PER", "skor": 0.9383833408355713}, {"bas": 114, "son": 115, "tur": "ORG", "skor": 0.5320203304290771}]}
+{"id": "d983", "tahminler": []}
+{"id": "d984", "tahminler": []}
+{"id": "d985", "tahminler": [{"bas": 164, "son": 174, "tur": "LOC", "skor": 0.9831697940826416}]}
+{"id": "d986", "tahminler": [{"bas": 59, "son": 80, "tur": "ORG", "skor": 0.9963768720626831}, {"bas": 149, "son": 161, "tur": "PER", "skor": 0.6973086595535278}]}
+{"id": "d987", "tahminler": [{"bas": 22, "son": 26, "tur": "PER", "skor": 0.6261373162269592}]}
+{"id": "d988", "tahminler": [{"bas": 25, "son": 35, "tur": "LOC", "skor": 0.7177588939666748}, {"bas": 36, "son": 46, "tur": "LOC", "skor": 0.9915133118629456}, {"bas": 84, "son": 90, "tur": "PER", "skor": 0.9057790040969849}, {"bas": 115, "son": 118, "tur": "ORG", "skor": 0.6729817390441895}]}
+{"id": "d989", "tahminler": [{"bas": 50, "son": 56, "tur": "PER", "skor": 0.8871057629585266}, {"bas": 85, "son": 91, "tur": "PER", "skor": 0.9760308265686035}, {"bas": 99, "son": 109, "tur": "LOC", "skor": 0.9731308221817017}, {"bas": 110, "son": 121, "tur": "LOC", "skor": 0.9567554593086243}, {"bas": 129, "son": 149, "tur": "LOC", "skor": 0.9907026290893555}]}
+{"id": "d990", "tahminler": []}
+{"id": "d991", "tahminler": [{"bas": 108, "son": 114, "tur": "LOC", "skor": 0.9657660126686096}]}
+{"id": "d992", "tahminler": []}
+{"id": "d993", "tahminler": [{"bas": 76, "son": 103, "tur": "ORG", "skor": 0.9951898455619812}, {"bas": 133, "son": 142, "tur": "LOC", "skor": 0.9785245060920715}]}
+{"id": "d994", "tahminler": []}
+{"id": "d995", "tahminler": [{"bas": 80, "son": 83, "tur": "ORG", "skor": 0.9162843823432922}]}
+{"id": "d996", "tahminler": [{"bas": 202, "son": 210, "tur": "LOC", "skor": 0.9894450306892395}]}
+{"id": "d997", "tahminler": []}
+{"id": "d998", "tahminler": [{"bas": 43, "son": 56, "tur": "PER", "skor": 0.9288155436515808}, {"bas": 93, "son": 104, "tur": "LOC", "skor": 0.9900386333465576}, {"bas": 142, "son": 164, "tur": "PER", "skor": 0.8285089135169983}]}
+{"id": "d999", "tahminler": [{"bas": 20, "son": 48, "tur": "PER", "skor": 0.8707461953163147}]}
+{"id": "d1000", "tahminler": []}
